@@ -1,2100 +1,3728 @@
-0#insist# v. 坚持,强调
-0#   hear of #听说
-0#iron # a. 刚强的 n. 铁,熨斗 v. 熨,烫,烫衣服 vt. 熨烫
-0#   in a hurry #匆忙
-0#clean#a. 干净的v. 打扫
-0#too#a. 太,过于,也,还ad. 也
-0#found #v. 建立,创立, 创办vbl. (find的过去分词)找到
-0#pig #n. 猪
-0#balloon #n. 气球v. 如气球般膨胀 
-0#office#n. 办公室
-0#breath#n. 呼吸,气息
-0#nine#num.&n. 九pron.&ad. 九(个,只...)
-0#airport#n. 机场
-0#technical #a. 工艺的,技术的
-0#say  (said, said)#v.说, 讲, 背诵, 念, 比方说, 假定n.话语
-0#chain #n. 链,连锁,束缚v. 用铁练锁住,束缚,囚禁 
-0#fortunate #a. 幸运的,侥幸的
-0#   the United States#美国
-0#morning#n. 早晨,上午
-0#anywhere#ad. 任何地方ad. 任何地方
-0#even   #adj. 平坦的,偶数的,相等的 adv. 甚至,恰好,正当
-0#   go over  # a. 仔细检查，复习，重做
-0#furniture#n. 家具
-0#institute #n. 学会,学院,协会 v. 创立,开始,制定
-0#scientist #n.科学家
-0#neck#n. 脖子,颈
-0#quantity #n. 量,数量,大量
-0#popular #a. 大众的,流行的,有销路的
-0#of#prep. …的,表示所属
-0#police#"a. 警察的; n. 警察,警方  v. 管辖"
-0#gas* # n. 煤气,气体,汽油vt. 毒(死),加油
-0#one#n. 一 int. 一,任何人 a. 一,一个
-0#kill#n. 杀,杀戮v. 杀,破坏,消减
-0#mine #n. 地雷,矿,矿山pron. 我的v. 采掘,开矿
-0#loss #n. 丧失,损耗
-0#proper#a. 适当的,正确的,合适的,正当的,规矩的
-0#Christmas#n. 圣诞节
-0#miss#n. 小姐vt. 想念vt. 漏掉,错过
-0#nature#n. 大自然
-0#finish # n. 完成,结束 v. 完成,结束,毁掉
-0#become (became, become) #v. 变成,变得vbl. 变得
-0#television (TV)#电视
-0#dirt #n. 污垢,泥土
-0#Asia#n. 亚洲
-0#thin#a. 瘦的ad. 薄,细,瘦,稀薄(的) v. (使)变薄
-0#goal # n. 目标,终点  n. 球门;得分
-0#tend* #v. 有某种的倾向,易于,移向
-0#graduate  #v.毕业;刻[分]度,分级 n.毕业生
-0#son#n.儿子, 女婿, (长者对年轻男子的称呼)孩子
-0#film # n. 电影 v. 把...拍成电影
-0#path#n. 路线,轨道,路程,小路,小径
-0#   look for#寻找
-0#defend#v. 防护,辩护,防卫
-0#beat (beat, beat)#n. 打,敲打声,拍子v. 打,打败 
-0#fellow # n. 人,朋友,同事 a. 同伴的,同事的,同道的
-0#   go out #熄灭
-0#different#a. 不同的
-0#content #n. 内容,目录,含量a. 满足的,满意的,意义的v. 使...满足,使...安心
-0#note#n. 笔记,注解,备忘录 v. 记录,注解,注意 n. 票据,便条,纸币
-0#place#"n. 地方,处境,职务; v. 放置,任命,安排"
-0#set (set, set)# n. 装备，设备 vt. 设置（布景，背景）
-0#there#ad. 在那里
-0#have (had, had)#aux.已经,曾经 n.吃,得到,雇用,享有,v.有
-0#absolute*#a. 绝对的,完全的n. 绝对 
-0#explode #v. 爆炸,爆发,激发 [计算机] 爆炸
-0#church#n. 教堂
-0#keep (kept, kept)#n. 生计,维持 v. 保持,保存,维持
-0#bed#n. 床v. 安置,把...栽入苗床
-0#artist #n. 艺术家,美术家
-0#hair#n. 头发
-0#month#n. 月
-0#time#n. 时间,期限,次数,乘v. 计时,定时,乘
-0#dress#n. 女装,服装v. 穿著
-0#brain #n. 脑(子)v. 打...的脑袋
-0#sunny#a. 阳光充足的,睛朗的,明媚的
-0#guess #n. 猜测,推测,猜想 v. 猜测,推测
-0#line#n. 行,线,航线v. 排成一行,顺...排列,划线于
-0#sunset #n. 日落
-0#disable*#v. 使...失去能力
-0#fail # v. 失败,不及格,辜负,缺少
-0#   knock into#v. 撞上
-0#astonish #v. 使...惊讶
-0#table#n. 桌子, 餐桌, 工作台, 平地层, 石板, 表格
-0#basketball#n. 篮球
-0#   take place#发生
-0#pull#"n. 拉,拖,拉绳; vi. 拔,拉,拖; vt. 拉"
-0#reason#n. 理由,原因,理智,理性; v. 说服,推论,下判断
-0#drown #v. 淹死
-0#glance   # n. 一瞥,闪光,一滑  v. 瞥闪,瞥见,反光
-0#greeting # n. 问候,招呼
-0#all#a. 所有的,全部的ad. 全部,全然 int. 全部,全体,一切 
-0#or so#大约
-0#put (put, put) #v. (put, put) 放,安置
-0#likely*#a. 可能的,有希望的ad. 很可能
-0#kilometre/kilometer#n. 公里,千米
-0#herself # pron. 她自己
-0#ball #n. 球,舞会vt. 把...捏成球状 
-0#blanket #n. 毛毯
-0#engineer #n. 工程师v. 设计,制造vt. 操纵,设计,建造
-0#mirror#n. 镜子v. 反映,反射
-0#day and night#日日夜夜
-0#spot* #n. 污点,地点,斑点a. 当场的,现实买卖的v. 污点,认出,用灯光照射
-0#hang  (hung,hung) #挂,绞死,逗留
-0#prize #"n. 奖,奖品,战利品;  v. 珍视,捕获"
-0#refuse#n. 废物,垃圾; vi. 不愿,拒绝; vt. 拒绝
-0#tradition* #n. 传统,惯例
-0#doubt #n. 怀疑,疑惑v. 怀疑,不信
-0#bird#n. 鸟
-0#suffer #v. 遭受,经验,忍受
-0#fur #n. 毛皮,皮,皮子
-0#private*  #"a. 私人的; n. 士兵"
-0#original* #a. 最初的,原始的,有独创性的,原版的 n. 起源,原件,原稿
-0#ought to#conj. 应当
-0#economic*#a. 经济的,经济学的n. [-s]经济学(状况等)
-0#accept#vt.接受,同意,承担(责任等)
-0#information #n. 信息
-0#scores of#
-0#must#n. 必须,未发酵葡萄汁,绝对必要的事物  conj. 必须
-0#thirsty#a. 口渴的
-0#death#n. 死,死亡
-0#Sunday#n. 星期日
-0#consider#v. 考虑,思考,认为
-0#   give up # 放弃
-0#international #  a. 国际的
-0#homework#n. 家庭作业
-0#take  (took, taken)#v. (took,taken) 拿,取v. 修(课程),花费,记录,认为,搭乘
-0#than#conj. 比prep. 比(用于两者之间的比较)
-0#   at present#现在,目前
-0#although#conj. 尽管,虽然
-0#natural #a. 自然的,正常的
-0#district #n. 区,地区,行政区v. 区,区域,地区
-0#out of breath#上气不接下气
-0#classroom#n. 教室
-0#actor #n. 男演员
-0#kitchen#n. 厨房
-0#Canadian#a. 加拿大(人)的n. 加拿大人
-0#tea#N.茶.茶叶.茶树.茶点VT.给.....沏茶
-0#difficulty#n. 困难
-0#everywhere # ad. 到处,无论何处
-0#set out#v.出发, 开始,启程, 展示
-0#matter#n. 事件,物质,原因v. 有关系
-0#o’clock#整点
-0#best#a. 最好的ad. 最好地 
-0#speak  (spoke, spoken)#v. 说，讲；谈话；发言
-0#strict#a. 严格的,精确的
-0#surprise#n. 惊奇v. 使惊奇
-0#   fall ill #生病
-0#scientific # adj.科学的
-0#eastern #a. 东部的,东方的
-0#   all the time#一直
-0#fire #  n. 火,火灾,射击 v. 点燃,解职,开枪
-0#middle#a. 中等的,中间的n. 中间
-0#right now#立刻
-0#loud#a. 大声的ad. 响亮地,大声地
-0#borrow#v. 借,借入,借用
-0#fan # n. 风扇,迷,狂热者 v. 煽,煽动,刺激
-0#English#a. 英国的,英国人的n. 英语
-0#restaurant#n. 餐馆,饭店
-0#aeroplane/airplane*#n. 飞机
-0#strange#a. 陌生的,奇怪的
-0#cow#n. 母牛,母兽
-0#league#n. 联盟,社团
-0#mistake  (mistook, mistaken)#n. 错误,误会 v. 犯错,误认
-0#continent#n. 大陆,洲
-0#   a lot of#许多
-0#exciting  #a. 令人兴奋的
-0#number#n. 号码,数字 v. 编号,加号码,总计 vi. 总计 vt. 编号
-0#stupid #a. 愚蠢的,笨的n. 傻瓜
-0#clock#n. 时钟,计时器
-0#south#n.南部, 南  adj.南的, 南方的  adv.在南方, 向南方
-0#official #a. 官方的,正式的 n. 官员
-0#colour/color#n. 颜色v. 给...着色,染
-0#open#n. 公开,户外,空旷 a. 开著的,开放的,公开的 v. 打开,公开,开放
-0#actress #n. 女演员
-0#something# pron.某事, 某物
-0#examine  #v. 检查,调查,考试 [计算机] 检测
-0#examination/exam #n. 检查,考试
-0#a.m.(am)*#abbr. (ante meridiem的缩写)上午,午前ad. 上午,由午夜至中午 
-0#pair#n. 双,对,  v. 使...成对
-0#anger #n. 忿怒v. 激怒,使...发怒 
-0#sense #n. 感觉，意识
-0#dark#a. 黑暗的n. 黑暗,暗处
-0#music#n. 音乐
-0#in order to#为了
-0#do one’s best#尽力
-0#nail #n. 钉子,指甲 v. 钉,钉牢 vt. 钉,使牢固
-0#hospital# n. 医院
-0#bottle#n. 瓶子
-0#practice #n. 练习,实行,习惯;    v. 练习,实习,开业
-0#as if/though#好像
-0#relate*#v. 讲,叙述,使联系,有关系
-0#geography # n. 地理
-0#grammar  #n. 语法
-0#dare#n. 挑战,挑动v. 敢,胆敢
-0#quarter#a. 四分之一的; n. 四分之一,一刻钟; vt. 四等分
-0#sale # n.出售, 卖出, 贱卖, 廉价出售，销售额
-0#meet (met, met) #n. 会,集会a. 适宜的,合适的v. 遇见,引见,对付
-0#sex #n.性别, 男性或女性
-0#sick#n.病人  adj.不舒服, 有病的, 恶心的, 厌恶的, 病态的  
-0#one after another#一个接一个地
-0#   have (got) to  #必须,不得不
-0#distance #n. 距离
-0#so that#conj.所以, 因此
-0#carry on#继续
-0#dive #v. 扰乱,妨碍,使...不安
-0#means* #n. 方法,手段
-0#take care of#v. 照看,照料 
-0#stick (stuck, stuck)#n. 枝,杆,手杖v. 钉住,粘贴,坚持
-0#express  # n. 快车,快递,专使 a. 急速的,明确的 v. 表达,表示
-0#easy#a. 容易的,安逸的,不费力的
-0#property* #n. 财产,性质
-0#pet #a. 宠爱的; n. 宠物; vt. 抚摸,轻抚
-0#breathe #v.呼吸
-0#check #n. 检查,支票,阻止物v. 检查,阻止,核对
-0#anything#int. 任何事
-0#   hear from  #v. 接到...的信, 受...批评
-0#Monday#n. 星期一
-0#animal#a. 动物的,野兽的n. 动物 
-0#as#ad. 同样地,像prep. 当做 conj. 当...之时,像...一样,因为 
-0#   get along (with) #vi. 前进(过活,友好相处)
-0#the#ad. [用于比较级,最高级前]art. 这(那),这(那)些
-0#fourth #n. 四分之一 num. 第四
-0#aunt#n. 伯母,姑,婶,姨
-0#   so far #迄今为止
-0#bury #v. 埋葬
-0#threaten*#vi. 构成威胁vt. 威胁
-0#seven#num.七, 七个
-0#nearly#ad. 几乎,差不多
-0#computer#n. 计算机
-0#forward # a. 向前的,早的,迅速的,前锋 v. 转交,促进,运送 ad. 向前地
-0#lack #n. 缺乏,无,不足v. 缺乏,短少,不足
-0#hammer # n. 锤,榔头 v. 锤击,敲打
-0#correct#a. 正确的v. 改正,纠正vt. 改正
-0#argue #v. 争论,辩论,争吵,劝说
-0#cloud#n. 云,忧色,云状的烟v. 以云遮敝,笼罩
-0#deep#a. 深的ad. 深深地
-0#return#n. 返回,归还,报答; v. 返回,归还,回来
-0#lady#n. 夫人,女士
-0#every #a. 每,每个,每隔...的
-0#demand#n. 要求,需求v. 要求,查询
-0#front# n. 前面,开头,前线 v. 面对,朝向,对付
-0#I# pron. 我
-0#late#a. 迟的,晚的,已故的ad. 很晚,很迟,晚
-0#hurt  (hurt, hurt) #伤害,(使)疼痛
-0#milk#n. 奶,乳状物v. 挤乳,产乳
-0#sad#adj.忧愁的, 悲哀的
-0#profit* #"n. 利润,赢利,利益; v. 有益,获利,赚钱"
-0#fasten #v. 拴紧,使固定,系
-0#call#n. 呼叫,访问,打电话v. 呼叫,访问,打电话
-0#manage #v. 处理,维持,达成
-0#bill #"n. 帐单,钞票,票据,清单,议案,法案,广告,鸟嘴,喙 vt.开帐单,用海报宣传,把...列成表 "
-0#peaceful #?a. 安宁的,和平的
-0#pride #"n. 自傲,自豪,自尊;  v. 以...自豪"
-0#   be made from#由...制成
-0#leaf (pl. leaves)#n. 叶,树叶,花瓣v. 生叶,翻...的页
-0#soft# adj.软的, 柔软的, 温和的, 温柔的, 不含酒精的  
-0#strike  (struck, struck)#n. 罢工,打击,殴打v. 打,罢工,划燃 
-0#size#n.大小, 尺寸, (衣服等)尺码  
-0#challenge*#n. 挑战v. 向...挑战 
-0#figure  # n. 图形,数字,形状 v. 演算,认为,领会到
-0#   get on #上车
-0#any#a. 任何的ad. 稍 det. 一些 prep. 无论哪个pron. 任何  
-0#French# a. 法国(人)的,法语的 n. 法语
-0#purpose #n. 目的,意图
-0#shop#n.商店, 店铺  vi.买东西, 购货
-0#extra #a. 额外的 ad. 特别地 n. 额外的事物
-0#   let out#vt. 放出(泄露,出去)
-0#ring (rang, rung) #v. （钟、铃等）响；打电话 n. 电话，铃声 ring2 n. 环形物（如环、圈、戒指等）
-0#mother#a. 出生地的 n. 母亲 v. 产生
-0#affair #n. 事件,事情,事务
-0#smile# vi.(～ at) 微笑  n.微笑
-0#Englishman (pl. Englishmen)#n. 英国人
-0#current*#n. (水、气、电)流,趋势a. 流通的,现在的,最近的
-0#kilo #n. 公斤公里之略
-0#disturb #v. 扰乱,妨碍,使...不安
-0#nobody#n. 无足轻重的人 prep. 谁也不 pron. 没有人
-0#hard-working # a. 勤勉的，努力工作的
-0#key#a. 主要的,关键的n. 钥匙vt. 键入
-0#chemical*#a. 化学的n. 化学制品
-0#produce #n. 产品,农产品;  v. 产生,生产,提出
-0#jump#n. 跳跃,跳动,上涨v. 跳越,跃过,突升
-0#drill #n. 钻孔机,钻子,播种机v. 训练,钻孔
-0#me#pron. 我(宾格)
-0#therefore #ad. 因此,所以
-0#at the beginning (of)#在……开始的时候
-0#each#a. 每个,每,每一ad. 每个int. 每个,个人,个自
-0#look#n. 看,神色,样子,脸色v. 看,看,注视
-0#arrive#v. 到达
-0#shape# n. 形状，外形 v. 使成型，制造，塑造
-0#control#v.&n. 克制,控制
-0#behind#ad. 在后地prep. 在...之后
-0#   at least#至少
-0#goods # n. 货物,商品
-0#these#这些
-0#expression   # n. 表达,表示,表现,表情,措辞,词句
-0#memory#n. 记忆
-0#laugh#n. 笑,笑声v. 笑
-0#born#a. 天生的vbl. 出生
-0#lawyer #n. 律师
-0#always#ad. 总是
-0#loaf (pl. loaves)#n. 条,块v. 游手好闲,虚掷光阴
-0#science#n.科学, 自然科学, 理科
-0#poem #n. 诗
-0#dangerous#a. 危险的
-0#example   #n. 榜样,例子
-0#dear#a. 亲爱的int. 啊,哎呀n. 亲爱的人
-0#master#n. 主人,硕士,母机a. 主人的,主要的v. 征服,控制,精通
-0#forever* #ad. 永远
-0#housewife#n. 家庭主妇
-0#forest # n. 森林
-0#nationality #n. 国籍,民族
-0#success #n. 成功
-0#telephone#打电话
-0#opinion #n. 看法,意见 v. 判断,意见,主张
-0#   in fact  #其实,事实上
-0#here # int. [用于引起注意] n.& ad. 这里
-0#each other#互相
-0#pay off#偿清(欠款等),贿赂
-0#prep. 在...之后 "#
-0#mass #n. 块,大多数,质量a. 群众的,大规模的v. 使...集合
-0#fair  # a. 公平的,晴朗的,美丽的 n. 展览会,市集
-0#father #n. 父亲
-0#lead (led, led)#n. 铅,领引,榜样v. 引导,带领,以铅接合
-0#merry #a. 欢乐的,愉快的
-0#adventure #n. 冒险,奇遇v. 大胆进行 
-0#policeman (pl. policemen)#n. 警察
-0#develop #v. 发展,发达,进步,开发,冲洗照片
-0#be afraid of#害怕
-0#full#n. 全部,十分 a. 充满的,完全的,丰富的 ad. 完全地,整整
-0#   plenty of#许多,大量
-0#busy#a.忙的
-0#no#n. 不,拒绝,否决票 a. 没有,不是,绝非 ad. 不
-0#   go on #继续
-0#direct #a. 笔直的,直接的,坦白的v. 指示,指挥,命令
-0#husband# n. 丈夫
-0#century #n. 世纪
-0#other#a. 别的,其他的 pron. 另一个人(或事)
-0#away#ad. 远离,离开
-0#load #n. 负荷,重担,装载量v. 装载,装填,担负,给(枪)装子弹[计算机] 装入
-0#common#a. 共同的,平常的,普通的n. 平民,普通,公地,公园 
-0#   get off #vi. (从...)下来,下车
-0#climb#v. 攀登,上升,爬
-0#level #n. 水平,水准,标准a. 同高的,平坦的,齐平的v. 弄平,瞄准,对准
-0#just#a. 公正的,公平的 ad. 正好,恰好
-0#across#ad. 横过prep. 穿过,横过 
-0#people#n. 民族,人,人们,人民 vt. 居住于
-0#road#  n.路, 道路, 公路, 大道
-0#earth#n. 地球
-0#jacket#n. 短上衣,茄克衫
-0#interest#n. 兴趣,嗜好,利息 v. 使...感兴趣
-0#cup#n. 杯子v. (使)成杯形vt. 使成杯形
-0#care for#vt. 关心(喜欢,介意)
-0#cough#咳嗽
-0#everything # pron. 每件事,一切
-0#close #n. 结束,完结a. 靠近的,亲近的 v. 关,结束,靠近
-0#Canada#n. 加拿大
-0#cover#n. 封面,盖子,表面v. 覆盖,涉及,包含
-0#beef #n. 牛肉v. 抱怨,诉苦 
-0#stay#n. 停留,停止,依靠
-0#contain#v. 包含,容纳,容忍
-0#comrade#n. 同志
-0#she# pron.[主格]她
-0#today#n.&ad. 今天
-0#president #n. (国家)总统,(公司)总裁,总经理,社长(日本)
-0#lay (laid, laid)#v. 放置,铺设,产卵,下注，（俚）发生性关系n. 地形、地势，（俚）姘头，（文）歌谣、民歌adj.俗人而非神职人员的，外行而非专业人士的pt. 动词lie（除“说谎”外的其它语义如：躺卧、摆放、上诉成立）的过去式
-0#our#pron. 我们的
-0#hers # pron. 她的
-0#   be good at  #擅长于
-0#together#ad. 一起
-0#castle #n. 城堡
-0#should#v. mod. 应当，应该，会 v. aux. 会，应该（shall的过去时态）
-0#achieve #v. 完成,达到,实现
-0#port#n. 港口
-0#comb#n. 头梳,鸡冠v. 梳头发,梳毛
-0#rubber #n.橡皮, 橡胶
-0#cat#n. 猫,猫科动物
-0#come down#n. 降落(贬抑)
-0#library#n. 图书馆
-0#anybody#n. 重要人物pron. 任何人 
-0#avoid*#v. 避免vt. 避免,逃避 
-0#pleasure#n. 高兴,愉快
-0#background*#n. 背景
-0#nowhere #ad. 任何地方都不 n. 不知道的地方,无处
-0#plenty#"a. 充足的,相当多的; n. 充足,大量;pron. 充分,够多"
-0#list#n. 目录,名单,明细表v. 列出,列于表上,记入名单内
-0#marry#v. 与...结婚,结婚
-0#p.m.*(pm)#n. 下午
-0#edge#n. 边,边缘,优势v. 侧身移动,挤进
-0#lie (lay, lain) #v. 躺着,位于
-0#   shake hands with* #与…握手
-0#temperature #n. 温度
-0#lie #n. 谎言v. 说谎
-0#alive#a. 活着的
-0#outdoor #a. 户外的,屋外的
-0#day#n. 白天
-0#   as a result#结果
-0#concert #n. 音乐会,一致,和谐
-0#above#a. 上面的ad. 在上面 n. 上面 
-0#limit #n. 限度,限制vt. 限制,限定
-0#deal with#vt. 研究(讨论,处理,涉及)
-0#street#n. 街道
-0#discovery #n. 发现,发现物
-0#Germany #n. 德国 
-0#   listen to#听
-0#hide (hid, hidden/hid)#v. 藏,隐瞒,遮避 n. 兽皮
-0#a good/great deal (of)#大量,非常多
-0#   in public#当众,公开地
-0#pattern # n. 图案,式样,典范 v. 仿造,模仿
-0#litre/liter #n. 公升
-0#finger #n. 手指,指针
-0#basin #n. 盆,脸盆,盆地
-0#overcoat #n. 外套,大衣
-0#tale #n. 传说,故事
-0#   in a minute#一会儿
-0#however # ad. 然而 conj. 然而,可是,不过
-0#call for#需要,邀请,要求
-0#pardon#n. 原谅,赦免 v. 宽恕,原谅
-0#lose (lost, lost) #v. 遗失,损失,失败[计算机] 失去
-0#   hurry up#  赶快
-0#mean (meant, meant) #n.平均值,平均数a. 低劣的,卑贱的,平均的v. 意谓,想要,意欲
-0#elder #a. 年龄较大的,年长的n. 长者,长辈
-0#enemy#a. 敌人的n. 敌人
-0#pity #"n. 遗憾,同情,可惜; v. 同情,怜悯"
-0#flour  #n. 面粉
-0#tight#a. 紧的ad. 紧紧地 
-0#delicious #a. 可口的,美味的
-0#autumn#n. 秋季,秋天
-0#another#a. 另一,再一pron.&prep. 另一个 
-0#compare #v. 比较,比喻,对照
-0#quick#a. 快的,迅速的; ad. 快,迅速地; n.皮下细嫩或敏感的肉；活肉
-0#   feel like doing  #想要
-0#nation #n. 国家,民族
-0#translate #翻译
-0#blue#a. 蓝色的,沮丧的,忧郁的n. 蓝色
-0#attitude* #n. 态度,看法,姿势
-0#race #n. 种族,赛跑; v. 赛跑,竞赛
-0#letter#n. 信,字母
-0#shy #a. 害羞的 sick a. 有病的，患病的；（想）呕吐
-0#belong to#vt. 属于(为...之一员)
-0#had better#应该,还是...好
-0#male* #a. 男性的,雄性的n. 男子,雄性动物
-0#minute#a. 微小的n. 分钟
-0#Mrs#女士
-0#individual*  #a. 个别的 n. 个人,个体
-0#   join in  #参加,加入
-0#difference#n. 不同,差异
-0#mile#n. 英里
-0#catch up with#赶上
-0#serve #vt. 招待（顾客等），服务
-0#beach #n. 海滩v. 拖(船)上岸 vt. 使船冲上滩 
-0#daily #a. 每日的ad. 每日,天天n. 日报
-0#cattle #n. 牛n. 家畜，马，无价值的人 
-0#opportunity* #n. 机会,时机
-0#game # n. 游戏 vi. 赌博
-0#thick#a. 厚的ad. 厚,浓,密 
-0#major #n. 主修,成年人,陆军少校a. 主要的,较多的,大部份的v. 主修
-0#efficient*#a. 效率高的,有能力的
-0#brave#a. 勇敢的v. 勇敢地面对(危险等)
-0#seat#n.座, 座位, 所在地, 场所, 席位  vt.使坐下
-0#agree#v. 同意,赞成,承认
-0#tiger #n. 老虎
-0#soon#ad. 不久，很快，一会儿
-0#capital#n. 首都,大写字母,资产a. 首都的,重要的 
-0#exploit# n. 功绩,勋绩 v. 开发,利用,开拓
-0#large#a. 大的,大量的,宽大的
-0#tired#a. 疲劳的,累的
-0#especially#adv. 特别,尤其
-0#floor #n. 地板,楼层,底部v. 铺地板,击倒
-0#high#a.&ad. 高，高度的，高级的，高尚的
-0#newspaper#n. 报纸
-0#cry#n. 叫声,哭声,大叫v. 哭,叫,喊
-0#pick#n. 精选,鹤嘴锄;v. 摘,挑选,挑惕,剔除
-0#grandmother #  n. (外)祖母
-0#pilot #"n. 飞行员,领航员; v. 领航,驾驶,向导"
-0#cancel*#n. 取消,撤消v. 取消,删去 
-0#regret #n. 遗憾,后悔,抱歉; v. 为...感到遗憾,后悔,惋惜
-0#admission*#n. 许可,入会费,承认
-0#realise (realize) #n. 现实性
-0#photograph#n. 相片;  v. 照相,摄影
-0#native #a. 本国的,本土的n. 本地人
-0#beer #n. 啤酒
-0#not..any more#不再
-0#east#a. 东方的ad. 向东方n. 东,东方
-0#carrot#n. 胡萝卜
-0#message#n. 消息,信息
-0#according to#prep. 按照,根据
-0#down#a. 向下的ad. 向下n. 绒毛,汗毛prep. 沿着...而下
-0#please#v. 取悦,请
-0#point#n. 点,要点,尖端; v. 指出,指,描准
-0#diamond #n. 钻石
-0#increase # n. 增加,增强,提高 v. 增加,提高
-0#thirty#三十
-0#life (pl. lives)#n. 生活,生命
-0#free #a. 自由的,大方的,免费的 v. 释放,解放 ad. 自由地,免费
-0#dentist*#n. 牙科医生
-0#gain #n. 增益,获得,利润 v. 得到,增进,获利
-0#handsome # a. 英俊的
-0#   instead of #代替,而不是…
-0#thing#n. 东西,事情
-0#compete* #v. 竞争,对抗
-0#lorry #n. 卡车
-0#madam#n. 夫人,女士
-0#instruction # n. 说明,须知,指令,教学
-0#abroad   #a. 在国外,海外(一般作表语)ad. 到国外,在国外 
-0#troop* #n. 群,组,多数v. 群集,结队,成群而行
-0#once upon a time#从前
-0#ladder #n. 梯子
-0#college#n. 学院
-0#form #n. 形式,形状,表格 v. 形成,组成,建立
-0#outside#ad. 在外面 n.&a. 外部 prep. 在...外 pron. 在...外边
-0#sheet #n.(一)片, (一)张, 薄片, 被单, 被褥
-0#spell (spelt/spelled, spelt/spelled) #vt.拼写, 拼成
-0#describe#v. 描述
-0#cruel#a. 残酷的,残忍的
-0#at once#立刻,马上
-0#horse# n. 马 v. 骑马
-0#immediate # a. 立即的,即刻的,直接的,最接近的
-0#cigarette #n. 香烟
-0#belong#v. 属于
-0#friendship#n. 友谊,友好
-0#crossing #n. 人行横道,十字路口
-0#nice#a. 美好的,令人愉快的
-0#noisy #a. 喧闹的,嘈杂的 n. 嘈杂声,响声
-0#celebrate #v. 庆祝,祝贺,颂扬
-0#bowl#n. 碗v. 打保龄球
-0#equal#n.对手,匹敌,同辈 adj. 相等的,平等的,胜任的 v.等于,比得上 [计算机] 相等
-0#shot #n. 射击，开枪，开炮，射击声；子弹
-0#make a face# 做鬼脸
-0#industry #n. 工业,产业,勤勉,刻苦
-0#rain#n. 雨; v. 下雨
-0#bell#n. 钟,铃
-0#DVD* #n. 光碟,影碟
-0#cage #n.笼,鸟笼,囚笼,牢房
-0#Europe  #n. 欧洲
-0#come  (came, come)#v. 来
-0#intend*#v. 打算 vt. 想要,打算,计划 
-0#jar#n 广口瓶,震动,刺耳声 v. 震惊,冲突,发刺耳声
-0#desk#n. 书桌
-0#cure #n. 治疗,治愈,治疗法v. 治疗,治愈,改正
-0#southern # adj.南的, 南方的
-0#surface #n. 表面,平面a. 表面的,肤浅的
-0#flood # n. 洪水,水灾v. 淹没,溢出vi. 大量涌到,泛滥vt. 灌溉,淹没
-0#England#n. 英格兰,英国
-0#the Communist Party of China*#中国共产党
-0#cave #n. 山洞v. (使)凹陷vi. (in)塌落,倒坍
-0#fool # n. 愚人,受骗者 v. 愚弄,欺骗
-0#slave #n.奴隶  
-0#brush#n. 刷子,画笔v. 刷,画
-0#like #a. 相似的,同样的v. 喜欢,愿意,想prep. 像,如同
-0#ask#v. 问,要求
-0#raincoat #n. 雨衣
-0#round#ad. 转过来 prep. 环绕一周，围着 a.圆的；球形的
-0#motor #a. 机动的,汽车的 n. 发动机,马达
-0#suitable #a. 合适的,适宜的
-0#active #a. 积极的,主动的
-0#technique #n. 技术
-0#festival* #a. 节日的,喜庆的,快乐的 n. 节日,庆祝及祭祀,欢宴
-0#   keep up* (with)#保持,继续,维持
-0#country#a. 国家(的),农村(的)n. 国家
-0#settle#vt.安放, 使定居, 安排, 解决, vi.安家, 定居
-0#ruin #vt. （使）毁坏；（使） 毁灭 n. (复) 废墟；遗迹
-0#map#n. 地图v. 映射,绘制...之地图,计划[计算机] 存储区分配图
-0#Japan#n. 日本漆; 亮漆 日本式漆器 日本式物品
-0#doctor#n. 医生v. 医治
-0#centre/center#n. 中心v. 置于中央
-0#hat # n. 帽子
-0#sport#n. 运动,游戏,娱乐
-0#pioneer#"n. 先锋,拓荒者;  v. 提倡,作先驱,开劈"
-0#test#n. 测试,试验v. 测试,试验,接受测验
-0#aloud #ad. 出声地,大声地
-0#silver #n.银, 银子  vt.镀银
-0#cheese#n. 乳酪,干酪
-0#pear #?n. 梨
-0#Miss#n. 小姐 vt. 想念vt. 漏掉,错过
-0#socialism #n.社会主义, 社会主义运动
-0#speech #n. 演讲
-0#movement #n. 活动,运动
-0#   League member#共青团员
-0#special# adj.特别的, 特殊的, 专门的, 专用的
-0#partly #ad. 部分地
-0#apple#n. 苹果
-0#eat (ate, eaten)#v. 吃
-0#even if/though #即使,虽然
-0#proud#a. 骄傲的,自豪的
-0#situation #n.情形,情况，境遇
-0#except  #v. 除,除外,反对 prep. 除了...之外,若不是,除非
-0#curious #a. 好奇的,古怪的
-0#old#a. 旧的,老的 n. 古时
-0#happen#v. 发生 vi. 发生,碰巧
-0#lot#ad. 相当n. 许多
-0#metal#n. 金属,质料a. 金属制的v. 以金属覆盖
-0#purse #"n. 钱包, 资金,金钱,财富; v. 皱起，使缩拢"
-0#mild* #a. (烟、酒)味淡的,轻微的,温柔的,文雅的
-0#mind#n. 思想,主意,心意v. 介意,照顾,留心
-0#on#prep. 在...之上 [计算机] 开
-0#he# pron. 他
-0#hand # n. 手,掌握,协助 v. 支持,交给
-0#button#n. 钮扣,按钮v. 扣住
-0#past#a. 过去的 ad. 过 n. 过去 prep. 过,经过
-0#sister#n.姐妹, 姐, 修女, 妹
-0#   hot dog # n. 热狗(红肠面包)
-0#greet # v. 致敬,欢迎,映入眼帘
-0#farmer #n. 农夫
-0#forgive  (forgave, forgiven) #v. 原谅,饶恕,宽恕
-0#then#ad. 那么当时，然后，于是
-0#quality #n. 品质,特质,才能
-0#pile #"n. 堆;  vt. 堆积;  v. 堆,堆积,拥挤进(入)"
-0#gradually  # ad. 逐渐地
-0#pump #"n. 抽水机,打气筒; v. 抽水,打气,盘问"
-0#seek (sought, sought)# v.寻找, 探索, 寻求
-0#farm #n.农场,农田 v. 耕种
-0#course#n. 课程,讲座,过程,路线,一道(菜)
-0#break out#爆发
-0#member#n. 成员,会员
-0#   a little#a. 一点(少许,略微,稍)
-0#pleasant#"a. 令人愉快的,舒适的; vi. 满意,喜欢; vt. 使高兴"
-0#end #n. 结束,终点,目标v. 结束,终结,终止
-0#stomach #n. 胃v. 忍受,容忍 vt. 承受,忍受
-0#set free #释放
-0#from # prep. 从,从...起
-0#peace#n. 和平
-0#declare #v. 宣布,声明,申报
-0#photo (pl. photos)#n. 照片
-0#ourselves#pron. 我们自己
-0#social* # adj.社会的, 爱交际的, 社交的, 群居的
-0#sleep (slept, slept) # vi.睡, 睡觉  n.睡眠
-0#tour #n. 旅游,观光旅行,任期v. 旅行,周游
-0#bitter #a. 苦的,痛苦的
-0#card#n. 卡片
-0#Indian #a. 印度的 n. 印第安人,印度人
-0#grade #n. 年级 v. (学校的)年级,成绩,等级,vt.分级,记成绩
-0#fight# (fought, fought)  [ fait ]  n. 打架,战斗,斗志 v. 对抗,打架
-0#possible#a. 可能的
-0#mark#n. 标志,分数,马克v. 做标记于,留意,打分数
-0#bring up*#教育,培养养育
-0#skin#n. 皮，皮肤；兽皮
-0#tip #n. 顶,尖端,小费v. 装顶端,倾斜,给小费 
-0#article #n. 文章,物品,条款,冠词
-0#till#conj. 直到(...为止)prep. 直到
-0#maybe#ad. 大概,也许
-0#sun#n. 太阳vt. 晒太阳
-0#all right#adv.好, 良好, 顺利, 确实
-0#knife#n. 刀v. 用刀切割,如刀割般
-0#badly (worse, worst)#ad. 严重地,恶劣地,极度地
-0#enter# v. 进入,参加,开始 [计算机] 送入
-0#love#n. 爱,恋爱,爱情vt. 爱,热爱,喜欢
-0#date#n. 日期,约会,枣椰子v. 约会,定日期n.[计算机] DOS命令 : 显示或设置系统日期
-0#northern #a. 北部的,北方的
-0#model #n. 模型,模范,模特儿 a. 模范的,作模型用的 v. 做模型,塑造,模仿
-0#stamp#n. 印,邮票,打印器v. 捺印,顿足,贴上邮票
-0#recent#a. 近来的,新近的
-0#pour#"n. 流出,倾泻,骤雨; v. 倒,倾泻,蜂涌而来"
-0#friendly  # a. 友好的
-0#play#"n. 游戏,游玩,剧本,比赛; v. 玩,进行比赛,演奏,播放"
-0#subject#n. 科目,主题
-0#smooth #adj.平滑的, 平坦的, 平稳的, 流畅的  vt.使光滑
-0#final # a. 最后的 n. 决赛
-0#broadcast  #n. 广播,广播节目a. 广播的v. 广播
-0#downstairs#a. 楼下的ad. 在楼下n. 楼下
-0#hal# a. 一半的,不完全的 ad. 一半地 n. 半,一半
-0#stand  (stood, stood)#n. 站立,停顿,楼台,货摊v. 站立,忍受,位于,坐落
-0#drug #n. 药,麻药v. 下药
-0#bright#a. 明亮的,阳光的ad. 亮
-0#story#n. 故事
-0#polite#a. 有礼貌的
-0#instead#ad. 代替,顶替
-0#cabbage#n.卷心菜,洋白菜
-0#know  (knew, known)#v. 知道,了解,认识
-0#fun  #  n. 乐趣,玩笑,有趣的人或事物
-0#that#pron. 那a. pron. 那,那个
-0#red#a. 红色的; n. 红色
-0#March#n. 三月
-0#suit#n. 套装,诉讼,请求v. 适合,取悦,满足
-0#rice#n.稻米，米饭 
-0#pin #n. 大头针,针,拴;   v. 将...用针别住,钉住
-0#sorry#adj.遗憾的, 对不起的, 可怜的, 抱歉的
-0#musical #a. 音乐的 n. 音乐片
-0#butter#n. 奶油
-0#hero # n. 男主角,男主人公,英雄
-0#make fun of  #取笑某人
-0#eye #n. 眼睛 v. 看,注视
-0#responsible* #a. 有责任的,负责的,责任重大的,应负责的
-0#thus #ad. 如此,这样,因此,从而conj. 因此,于是
-0#clever#a. 聪明的
-0#packet#n. 储存器,讯息封,小包 v. 打包,装进小包
-0#pain# n. 痛苦,疼痛,辛苦 v. 使...痛苦,痛苦,疼
-0#dining-room #n. 餐厅
-0#meal#n. 膳食,一餐vi. 进餐
-0#method #n. 方法,办法n. 类函数，类成员函数（计算机）
-0#moment#n. 片刻,瞬间；力矩
-0#hour #  n. 小时
-0#improve #v. 改良,改善,增进,提高
-0#transport #n.运输、运输工具；(常用复数）强烈的情绪、狂喜或狂怒v.运输；流放；为强烈的情绪所激动
-0#mouse (pl.mice) #n. 老鼠
-0#be fond of  #爱好,喜欢
-0#follow # v. 跟随,沿行,遵循,听得懂
-0#rock #n.岩石, 暗礁, 石头, 摇动vt.摇摆, 使动摇vi.摇, 摇动
-0#gather #n. 集合,聚集v. 聚集,集合,渐增
-0#already#ad. 已经
-0#as…as#和……一样
-0#the day before yesterday#前天
-0#once#ad. 一次,曾经 conj. 一旦 n. 一次
-0#math(s) #n. 数学
-0#pie #n. 馅饼
-0#permit #n. 许可证,执照;  v. 允许,许可
-0#cotton#a. 棉花(的)n. 棉花
-0#national #a. 国家的,民族的n. 国民
-0#door#n. 门
-0#frighten  #v. 使惊吓,惊恐
-0#do (did, done)#aux. 助动词(无词意)v. 干,做
-0#only#a. 唯一的 ad. 只,仅仅 conj. 可是,不过
-0#gentleman (pl. gentlemen)#n. 绅士,先生 
-0#far (farther, farthest, further, furthest) # ad.&a. 远的(地) n. 远处
-0#lesson#n. 课
-0#break down#vt. 打破
-0#run  (ran, run)#vi. 跑，奔跑；（颜色）褪色
-0#   go away  #vt. 离开(走掉)
-0#respect #n. 尊敬,关心,方面; v. 尊敬,尊重
-0#let (let, let)#v. 让,容许,使得,假设,租给
-0#punish #惩罚,处罚
-0#bath#巴斯(英国城市),洗澡,浴盆v. 洗澡,给…洗澡 
-0#again#ad. 又,再
-0#report#n. 报告,报导,成绩单；v. 报告,报导,记录
-0#phone* #n. 电话;  v. 打电话
-0#camera #n. 照相机
-0#blind #a. 盲目的,瞎的n. 百叶窗 v. 使失明
-0#mathematics #n. 数学
-0#call at*#vt. 访问(停靠)
-0#start#n. 起点v. 开始,起身,出发
-0#impossible#a. 不可能的
-0#sign# n.标记, 符号, 记号, 征兆, 迹象v.签名(于), 署名(于)～, 签署
-0#   hand out #分发,散发
-0#drive (drove, driven)#n. 驾车,快车道,推进力,驱使v. 开车,驱使,驾进力n.路，街
-0#garage  #n. 车库,汽车修理厂vt. 把...放入车库
-0#text #n. 本文,文件,正文
-0#lecture #v.&n. 演讲,讲课
-0#boss #n. 老板,上司v. 指挥,控制
-0#goat #n. 山羊
-0#area #n. 地区,区域,面积,方面
-0#hotel  #n. 旅馆，宾馆，酒店，饭店
-0#   give out #分发
-0#encourage #v. 鼓励,激励,支持vt. 鼓励
-0#chief #a. 主要的,首席的n. 首领
-0#   take out#vi. 取出(自动取出装置)
-0#obvious*  #a. 明显的,显而易见的
-0#revolution #n.革命, 变革
-0#guide #n. 引导者,指南,路标 v. 指导,支配,管理
-0#reach#n. 延伸,范围,河段; v. 到达,伸出,延伸
-0#depend #v. 依靠,相信,信赖
-0#coffee#n. 咖啡
-0#afternoon#n. 下午
-0#tear  (tore, torn)#v.撕破
-0#never#ad. 从不
-0#noise#n. 声音,响声,响声,喧哗声,噪声 v. 谣传
-0#piece#"n. 块,片,篇; v. 修补,结合"
-0#come out#出来
-0#dig (dug, dug) #v. 挖,翻土
-0#e-mail* #n. 电子邮件
-0#exercise  #n. 练习,作业,运动 v. 练习,运动,运用
-0#inch#n. 寸,身高 v. 慢慢前进,慢慢移动
-0#broad#a. 宽广的
-0#neat #a. 整洁的,巧妙的,端正的
-0#class#n. 班级,阶级,种类
-0#it#pron. 它
-0#sink  (sank/sunk, sunk/sunken)# vi. 下沉； 消沉   n.水槽, 水池
-0#rest #a. 其余的; v.&n. 休息; vi. 搁(在),休息; vt. 使休息
-0#cause #vt.引起n.原因
-0#cock #n. 公鸡,公鸟v. 耸立,耸起
-0#house #n. 房子,住宅
-0#museum #n. 博物馆
-0#custom#n. 习惯,风俗,海关
-0#treasure #n. 宝物,财富v. 珍爱,重视,储藏 
-0#postcard #n. 明信片
-0#ask for #请求,要求
-0#citizen #n. 公民,市民
-0#hot# a. 热的,热情的,辣的
-0#picture#n. 图画,照片,景色; v. 画,描写,想像
-0#himself # pron. 他自己
-0#ring up#打电话给某人
-0#student#n. 学生
-0#   stick to #坚持
-0#sock#n.短袜
-0#conclude*#v. 结束,作结论,推断
-0#noble #a. 高尚的,宏伟的,贵族的,高贵的 n. 贵族
-0#fox # n. 狐狸,狡猾的人 v. 奸狡地行动
-0#brown#a. 褐色的,棕色的n. 褐色,棕色
-0#bucket #n. 水桶
-0#mum*#a. 沉默的 n. (口语)妈妈
-0#normal #a. 正常的,正规的 n. 正常状态
-0#bear  (bore, borne/born) #n. 熊v. 忍受,负荷 v. 结果实,生子女
-0#flash #n. 闪光,闪现,一瞬间v. 闪光,闪现,闪烁
-0#represent* #vt. 表现,表示,描绘,代表; vi. 提出异议
-0#nut # n. 坚果,螺母, 螺帽,难对付的人(事) vi. 采坚果
-0#as soon as#adv.一...就
-0#lift#n. 举起,帮助,昂扬v. 升高,举起,消散
-0#such#a. 如此的,这样的
-0#future#a. 将来的 n. 将来,未来
-0#a set of#一组, 一套
-0#quite#ad. 很,十分
-0#affect* #v. 影响,作用,感动
-0#remember#v. 记得,记忆
-0#description #n. 描写,描述,说明书,作图
-0#faith #n. 信任,信仰
-0#   lots of#许多
-0#remind #v. 提醒; vt. 使想起,提醒
-0#elephant #n. 大象
-0#owe #v. 欠 vi. 欠钱 vt. 欠(债等),归功于,应感谢
-0#sooner or later#adv.迟早
-0#medicine#n. 药,医学
-0#effort #n. 努力,努力的成果
-0#dance#n. 舞蹈,舞会v. 跳舞
-0#republic#n. 共和国,共和政体
-0#mad#a. 发疯的
-0#page#?n. 页 v. (给...)当听差 vt. (通过扩音器、传呼机等)呼叫
-0#informal*#a. 非正式的
-0#for  #conj. 因为 prep. 给,为
-0#six#num.六, 六个
-0#fit # a. 适宜的,对的,准备好的 v. 适合,安装 n. 适宜,发作,一阵
-0#three#num. 三pron.&a. 三(个,只...)
-0#secretary #n.秘书, 书记, 部长, 大臣
-0#glove  #n. 手套
-0#also#ad. 也
-0#brick #a. 砖似的n. 砖vt. (up)用砖砌,用砖堵住 
-0#   a good/great many#很多的,许多的
-0#prison #n. 监狱
-0#news#n. 新闻,消息
-0#train#n. 火车,行列;长裙拖地部分v. 训练,教养
-0#British#a. 英国的n. 英国人
-0#blow (blew, blown) #n. 吹,打击,殴打v. 吹,风吹
-0#   from time to time#有时,不时
-0#grey # a.灰色的 n.灰色(的) v.变成灰色 [=gray] 
-0#besides #ad. 此外prep. 除...之外 
-0#act #n. 行为,行动,法案v. 行动,扮演,下判决 
-0#invite# v. 邀请
-0#   hold up* #vt. 举起(提出,抓举,支持住,阻挡)
-0#rubbish # n.垃圾, 废物, 废话
-0#party#n. 政党,聚会,开派对
-0#tent #n. 帐篷v. (住)帐篷,宿营
-0#match#n. 比赛,火柴,对手v. 使...相配,与...竞争,相配
-0#classmate#n. 同班同学
-0#suppose #n. 支持,援助,供养vt. 支援,帮助,支持 
-0#may#aux.可能,可以,祝愿
-0#combine*#v. 化合,结合,联合 
-0#heavy# a. 重的 ad. 沉闷地
-0#not at all#一点也不
-0#spring#n. 春天,弹簧,跳跃,泉水v. 弹起，弹出,跳,裂开
-0#   get through #vt. 结束(做完,通过,到达
-0#station#n. 车站,站,位置
-0#push#"n. 推,奋力,决心; v. 推,挤,逼迫"
-0#send for#v.召唤, 派人去拿
-0#shade#n. 阴凉处，树荫处
-0#short#a. 短的；矮的
-0#skill #n.技能, ,技巧, 熟练, 巧妙
-0#first#ad. 首先,第一,优先 a. 第一的
-0#deal   (dealt, dealt)#n. 交易,协定,份量v. (dealt,dealt[delt])处理,应付,分配
-0#explain#n 解释,说明
-0#quarrel#n. 吵架,反目,怨言; v. 吵架,争论,挑剔
-0#grandson #n. 孙子,外孙
-0#really#ad. 真正地,实在
-0#   be made of#prep. 由...组成(由...构成)
-0#experiment#n. 实验,试验,尝试 v. 实验,尝试
-0#song#n.歌, 歌曲
-0#culture* #n. 文化,教养,种植
-0#region* #n. 地区,地域,地带
-0#ban*#n. 禁令v. 禁止 vt. 禁止,取缔 
-0#minor* #n. 未成年人,副修科目a. 次要的,较小的,二流的,未成年的v. 辅修[音乐] 小调
-0#   help...with…#帮助（某人）做（某事）
-0#company#n. 公司,友伴,交际
-0#indeed #ad. 的确,真正地
-0#ride (rode, ridden)#  v.骑, 乘  n.骑, 乘
-0#bye-bye#再见
-0#a bit (of) #一点,少量
-0#   laugh at*#嘲笑,因...而笑
-0#daughter#n. 女儿
-0#living-room #n. 起居室
-0#second#second1 n. 秒 second2 num. 第二 a.第二的
-0#tire #n. 轮胎v. 使疲倦,厌烦 
-0#ninth#a. 第九,九分之一
-0#dog#n. 狗,卑鄙的人v. 尾随,跟踪
-0#storm #n. 暴风雨v. 猛攻,捣毁,起风暴 
-0#dawn #n. 破晓
-0#raise#n. 上升,高地,增高; v. 升起,举起,饲养
-0#hold  (held, held)# v. 握住,拿着,持有 n. 把握,控制,船舱
-0#clothes #n. 衣服
-0#merely #ad. 仅仅,只不过
-0#machine#n. 机器,机械装置,机械般工作的人v. 以机器制造[计算机] 机器
-0#link* #n. 环节,联系v. 连接,联系
-0#meanwhile #ad. 同时n. 其时,其间
-0#project*  #n. 工程,项目,计划,事业;v. 计划,设计,表达;v. 投射,放映,凸出
-0#myself#pron. 我自己
-0#belt #n. 带,腰带v. 用带系上vt. 系上腰带  
-0#pencil#n. 铅笔 v. 用铅笔写
-0#policy*#n. 政策,方针,保险单
-0#grown-up #a. 成人的 n. 成年人
-0#price#n. 价格,代价,价值;  v. 定...的价格,标价
-0#admire #v. 钦佩,羡慕,赞赏
-0#but#ad. 仅仅,只ad. 仅仅,只prep. 除...以外 
-0#safety #n.安全, 保险, 安全设备, 保险装置
-0#pay attention (to)#注意
-0#plate#"n. 碟,盘,金属板; v. 镀金,电镀"
-0#   point out#指出
-0#all over#到处,遍及
-0#include# v. 包括,包含,连...在内 
-0#system* #n. 系统,体系,制度,体制
-0#Russia#n.俄国, 俄罗斯, 苏联
-0#penny (pl. pennies or pence) # n. 便士
-0#granddaughter #n. 孙女,外孙女
-0#basket#n. 篮子
-0#fridge (refrigerator) #n. 电冰箱
-0#FALSE# a. 不真实的,错误的,人造的,假的,虚伪的
-0#talk#n. 谈话,会谈,讲话v. 说话,谈话,讨论
-0#imagine #v. 想像,幻想,猜测
-0#occasion* #n. 场合,机会,理由 v. 致使,惹起,引起
-0#expect   #v. 预期,盼望,期待
-0#in the end (of)#终于,最后
-0#discuss#v. 讨论
-0#budget*#n. 预算v. 编预算,为…做预算 
-0#chance#n. 机会,意外v. 偶然发生,试试看 
-0#cool#a. 凉的,凉快的,酷ad. 冷静地n. 凉快v. 使变凉
-0#careless#a. 粗心的,疏忽的n. 不关心的,粗心的 
-0#between#ad. 在中间prep. 在...之间
-0#by mistake#错误地
-0#make room for#为...腾出空位
-0#pack#n. 包裹,一群,一副 v. 包装,捆扎,塞满
-0#   be made in#在...生产或制造
-0#parent#n. 父母,父母亲,根源
-0#haircut  #n. 理发
-0#ninety#num.&n. 九十
-0#mental #a. 精神的,脑力的
-0#obey #v. 服从,听从
-0#kite#n. 风筝
-0#cupboard#n. 碗橱
-0#her # pron. 她的
-0#agree with#vt. 适合于
-0#persuade #a. 空闲的,有闲的;  vt. 劝说,说服
-0#afford #v. 提供,供应得起,给予
-0#die#n. 金属模子,印模v. 死
-0#pot#"n. 罐,壶;   v. 把...装罐"
-0#tonight#n.&ad. 今晚
-0#poet #n. 诗人
-0#along#ad. 向前prep. 沿着
-0#single#adj. 单一的，单个的
-0#among#prep. 在...之中
-0#earn #v. 赚得,获得,博得
-0#read (read, read) #读,阅读,看懂,理解
-0#composition #n. 作文,著作,组织,合成物，成份
-0#real#a. 实际的,现实的,真的,真实的
-0#necessary#a. 必需的,必要的 n. [pl.]必需品
-0#Communist #a. 共产主义的n. 共产主义者
-0#silence #n. 安静，沉默
-0#take it easy#别着急,放心好了
-0#lightning #a. 闪电般的,快速的n. 闪电
-0#duck #n. 鸭子v. 没入水中,闪避
-0#   not...any longer#不再
-0#supply#n. 补给,供给v. 补给,供给
-0#difficult#a. 困难的
-0#skirt#n. 女裙
-0#thread #n. 线,纤维,思路,线索v. 穿线于,穿过,成线
-0#resource* #n. 资源
-0#interrupt   #n. 中断 v. 打断,妨碍,插嘴
-0#market#n. 市场,交易,推销地区v. 在市场上交易,使...上市
-0# for example #例如
-0#Asian#a. 亚洲的n. 亚洲人 
-0#salt# n.食盐adj.含盐的, 咸的  vt.加盐于, 用盐腌
-0#bend  (bent, bent)#v. 弯曲,屈服
-0#firm # a. 坚定的,坚固的 ad. 稳固地,坚定地 n. 商行,公司 v.(使)变得坚实
-0#in order that#为了,以便
-0#   in time#及时
-0#tongue #n. 舌头,语言
-0#delight #n. 快乐,高兴vi. 给与乐趣,使高兴vt. 使高兴
-0#fist# n. 拳头 vt. 紧握,用拳头打
-0#blouse#n. 女衬衫
-0#nothing#ad. 毫不 n. 微不足道的人或事 pron. 什么也没有
-0#certainly#ad. 当然
-0#fix #v. 使...固定,修理,准备
-0#congratulation#n. 祝贺
-0#plain #"n. 平原,草原; a. 简单的,平坦的,平常的,家常的; a.纯的"
-0#rapid #a. 迅速的,飞快的,急促的
-0#servant# n.仆人
-0#   learn...by heart  #牢牢记住,用心学
-0#nurse#?n. 护士,褓姆,奶妈 v. 看护,照顾,栽培
-0#India#n. 印度
-0#pan #n. 平底锅 v. 严厉批评
-0#marriage #n. 婚姻,结婚
-0#crime* #n. 犯罪
-0#soil # n.土壤, 土地
-0#after#"a. 以后的ad. 以后,后来 conj. 在...以后 
-0#crazy #a. 疯狂的
-0#fountain  #n. 喷泉
-0#queen#n. 女王,王后
-0#lazy#a. 懒惰的
-0#clerk #n. 职员,办事员
-0#decide#v. 决定,判决
-0#hopeless #  a. 没有希望的,绝望的
-0#do well in#在...方面干得好
-0#heart # n. 心,中心,要点 v. 鼓起勇气,激励
-0#ahead #ad. 向前地,胜于,在...前面
-0#often#ad. 经常
-0#flight# n. 飞行,飞机的航程,航班,逃跑
-0#disease #n. 疾病
-0#somewhere#adv.某处, 在某处
-0#splendid #a. 极好的
-0#straight#a. 直的,正直的,坦率的ad. 直接
-0#both#a. 两者的ad. 两者都 int. 两者
-0#lend (lent, lent)#v. 借,贷款,增添
-0#Frenchman (pl. Frenchmen)#n. 法国人
-0#sentence #n.句子, 判决, 宣判, 文句  vt.宜判, 判决
-0#tomorrow#n.&ad. 明天
-0#ill (worse, worst)#a.坏的,有病的ad.坏,不利地 n.不幸,祸害v.生病
-0#four # num. 四 pron.&a. 四(个,只...)
-0#   knock at#vt. 敲
-0# at first ad. #最初(首先,开始时)
-0#car#n. 小汽车
-0#green #a. 绿色的 n. 绿色
-0#pork #n. 猪肉
-0#sweet#a. 甜的,可爱的,悦耳的n. 糖果,甜点
-0#meaning #n. 意义,意思,含义
-0#dry#a. 干的,枯燥无味的v. 把...弄干,干掉
-0#about#a. 准备 ad. 大约prep. 关于
-0#less#a. 更少的,更小的ad. 更少地,更小地
-0#liberate #v. 解放,使获得自由,释出,放出vt. 解放,使获自由
-0#neither…nor#既不…也不…
-0#dislike*#v. 不喜欢,厌恶vt.&n. 不喜爱,厌恶
-0#study#v.&n. 学习,研究vt. 细看,学习,研究
-0#regular#a. 有规律的,有规则的,整齐的,正规的
-0#coal#n. 煤
-0#traffic #a. 交通的n. 交通
-0#roof#n.屋顶, 房顶, 顶
-0#opposite#a. 相对的,相反的,对面的 prep. 对面
-0#prove #v. 证明,查验,显示
-0#product*#n. 产品,成果,乘积
-0#determine #v. 决定,决心要
-0#army#n. 军队,陆军
-0#into # prep. 到...里
-0#show  (showed, shown/showed)#(showed, shown 或 showed) v. 给……看，出示，显示
-0#present #"n. 礼物,现在; a. 现在的,出席的,当面的; v. 赠送,提出,呈现"
-0#ashamed #a. 惭愧,害臊
-0#cent#n. 分
-0#fast # a.快速的,耐久的,紧的 ad. 很快地,紧紧地,彻底地n. vi. 禁食, 绝食, 斋戒
-0#sea#n.海洋, 大浪, 大量, 许多
-0#lamp #n. 灯
-0#same#n. 同样的事 a同样的，同一的
-0#   make sure #vi. 弄明白(查明白)
-0#draw (drew, drawn)#v. (drew,drawn) 拉,拖,挨近,提取,画,绘制
-0#theirs#pron. 他(她,它)们的
-0#smell  (smelt/smelled, smelt/smelled)# n.气味, 臭味, 嗅觉v.嗅, 闻到, 散发(...的)气味, 有(...的)气味
-0#personal #a. 私人的,个人的;   n. 私人信息启示
-0#Greek  #a. 希腊(人)的 n. 希腊人,希腊语
-0#per* # prep. 每,每一
-0#pretty #"a. 漂亮的; ad. 相当地"
-0#garden garden: #n.花园,果园,菜园v. 栽培花木,造园
-0#his# pron. 他的
-0#coat#n. 外套v. 外面覆盖
-0#grass # n. 草
-0#cloth#n. 布
-0#box#n. 盒子,箱v. 装...入盒中 
-0#hi # int. 嗨,引人注意时的喊声,打招呼
-0#afraid#a. 害怕的,担心的
-0#percent #a. 百分之一,(与基数词连用)百分之...的 n. 百分之…
-0#biscuit #n. 饼干
-0#suddenly#ad. 突然地
-0#air#n. 空气,旋律v. 晾干,使通风 
-0#my#pron. 我的
-0#its #pron. 它的
-0#park#n. 公园,停车处 v. 停车,置于,停车
-0#idea # n. 主意,想法,观念
-0#decision #n. 决定,决心
-0#desire #n. 愿望,欲望,情欲n. 愿望,欲望,情欲v. 向往,要求,请求vt. 渴望
-0#kid*#n. 小孩v. 开玩笑,哄骗,嘲弄
-0#charge #n. 电荷,指控,费用v. 控诉,加罪于,要价,赊帐,充电,管理 
-0#run away#v.潜逃, 失控
-0#devote #v. 投入于,献身
-0#admit #v. 允许进入,承认
-0#ordinary #a. 普通的
-0#monitor #n. 监督器,级长,监听员 v. 监视,监听,监督 [计算机] 监视
-0#blood#n. 血,血液
-0#great#a.大量的,很好的,美好的,伟大的,ad.(口语)好极了
-0#   the People’s Republic of China#中华人民共和国
-0#thief (pl. thieves) #n. 贼,小偷
-0#hundred#   n. 百,百个东西 a. 百,百个
-0#shock #n.打击, 震动vt. 使震惊
-0#thousand#a. 千,成千
-0#   look after#vt. 目送(寻求,照料,看管)
-0#fall (fell, fallen)#n. 秋天,落下,瀑布 v. 倒下,落下,来临
-0#grow  (grew, grown) # v. 种植,生长,变成
-0#name#n. 名字,名称,姓名 v. 命名,称呼,任命 [计算机] 名称
-0#fuel #n. 燃料,木炭 v. 加燃料,供以燃料
-0#desert #n. 沙漠v. 放弃,遗弃
-0#downtown #n. 市中心区,市中心a. 市中心的ad. 往闹区
-0#eithor...or...#a. 按位加的(二者择一的)
-0#tailor #n. 裁缝师,成衣匠v. 缝制,做裁缝,使...适应
-0#shame #n.羞耻, 羞愧, 可耻的人(或事物)
-0#excuse  #n. 借口,理由；低劣的样品 v. 原谅
-0#build (built, built)#v. 建立,建筑
-0#egg#n. 蛋;(俚语)人
-0#fry #n. (美)法式炸薯条 v. 油煎,油炸
-0#eve  #n. 前夜,前夕 n. [圣]夏娃
-0#right away*#adv.立刻
-0#European #adj. 欧洲的 n. 欧洲人
-0#drawing #n. 绘图,图画
-0#tiny #a. 极小的,微小的
-0#   take away#vt. 拿走(减去,解除)
-0#blackboard#n. 黑板
-0#king#n. 国王
-0#Friday #n. 星期五
-0#sigh # n.叹息, 叹息声  vi.叹息, 叹气
-0#degree #n. 程度,度数,学位
-0#judge #"n. 法官v. 裁决,判断,审判vt. 断定,判断"
-0#because of#因为,由于
-0#ten#a. 十,十个
-0#awake (awoke, awoken)#a. 醒的v. 唤醒,唤起,醒来 
-0#happy#a. 快乐的,幸福的
-0#flow #n. 流,水流,流量v. 流动vi. 流,流动vt. 淹没
-0#fly (flew, flown)#  [ flai ]  n. 苍蝇,两翼昆虫,飞行 v. 飞,飞翔,逃走
-0#title  #n. 头衔,名称,标题v. 赋予头衔 
-0#sandwich # n.夹心面包, 三明治  vt.夹入中间v.做成三明治
-0#paint#n. 油漆,颜料,绘画作品 v. 油漆,绘画
-0#café #n.咖啡,咖啡馆
-0#thank#int. [-s]谢谢v. 谢谢vt.&n. 感谢 
-0#carpet #n. 地毯,毛毯v. 铺以地毯,铺盖
-0#exhibition  #n. 展览,展览会
-0#in all#总共,共计
-0#nod #n. 点头,打盹,摆动 v. 点头,打盹,使...摆动
-0#ocean #n. 海洋
-0#fortune #n. 财产,命运,运气
-0#living #a. 活着的n. 生活,生计
-0#fine # n.罚款,罚金 a.美好的,晴朗的,健康的 v. 罚款
-0#teacher#n. 教师
-0#   look up#查阅
-0#themselves#pron. 他(她,它)们自己
-0#soldier# n.士兵, 军人
-0#soul #n.灵魂, 心灵, 精神, 精力
-0#board#n. 木板,甲板,董事会n. 木板,甲板,董事会
-0#   take off#起飞起飞,脱掉
-0#Spanish #adj.西班牙的, 西班牙人的, 西班牙语的n.西班牙人, 西班牙语
-0#fetch  # n. 取得 v. 接来,取来,带来
-0#at the age of#在...岁时
-0#captain#n. 船长v. 率领,指挥 
-0#dictation #n. 听写
-0#tough* #a. 强硬的,艰苦的,棘手的,严厉的
-0#trouble#n. 麻烦,困难v. 困扰,麻烦,烦恼
-0#sell  (sold, sold)#v.出售, 卖
-0#bargain #n. 交易,买卖,物美价廉的东西v. 议价,交易,讨价还价 
-0#print #n. 版,印刷物,印迹;  v. 印刷,出版,打印
-0#software* #n.软件
-0#damage #n. (pl.)赔偿金,损坏,毁坏v. 损害,毁坏
-0#France #n. 法国
-0#narrow#"n. 狭窄部份,海峡,隘路 a. 狭窄的,精密的,有限的v. 变窄,使...狭窄"
-0#energy #n. 活力,精力,能力,能,能量
-0#second-hand*#adj.二手的，用过的，旧的
-0#mouth#n. 嘴,开口 v. 装腔作势说话, 高声地说话
-0#damp #n. 湿气a. 潮湿的
-0#customer #n. 顾客
-0#dust #v. 拂去灰尘
-0#pupil#n. 瞳孔,学生,小学生
-0#cross#n. 十字架,十字架形物件,交叉路a. 生气的,交叉的,相反的v. 交叉,横过,越过
-0#tense #a. 紧张的,拉紧的v. 变为紧张,拉紧
-0#introduce#v. 介绍
-0#advertisement (ad)*#n.&ad. 广告
-0#base #n. 基底,垒v. 以...作基础 
-0#knowledge#n. 知识
-0#by car/plane/ship/train#坐车\飞机\船\火车
-0#platform #n. 平台,月台,讲台,坛
-0#   get back# vi. 返回(取回,收回)
-0#boring* #a. 令人厌烦的n. 钻孔
-0#fold#n. 折层,羊栏,折痕 v. 折叠,包,交叉
-0#gun # n. 枪,炮
-0#glass  # n. 玻璃杯
-0#dirty#a. 肮脏的
-0#outdoors #a. 户外的,野外的 ad. 在户外,在野外 n. (在)露天,户外
-0#cinema#n. 电影院
-0#knock#n. 敲,敲打,敲门v. 敲击,互撞,攻击
-0#fifth#a. 第五的
-0#minister #n. 部长,大臣v. 伺候vi. 照顾,给予帮助
-0#total #a. 全体的,总的,全然的v. 总计,共计
-0#law #n. 法律
-0#few# a. 很少的,不多的,少数的 int. 少数的 a. 少数的
-0#gold #a. 含金的,金(制)的  n. 金子
-0#a/an#a.一,一个,一只,一件.
-0#though#ad. 可是,然而,不过conj. 尽管,虽然 prep. 但.
-0#burn (burnt/burned, burnt/ burned)#n. 烧伤,灼伤v. 燃烧,烧着,烧毁,灼伤
-0#early#ad.&a. 早
-0#America#n. 美国,美洲
-0#goodbye  # int. 再见
-0#light (lit/lighted, lit/lighted) #n. 光,光亮,灯a. 轻的,光亮的,容易的v. 点燃,著火,变亮
-0#offer#n. 出价,提议 v. 提供,出价,企图
-0#defence/defense#n. 防务,防御
-0#feeling #n. 感觉,知觉,感情
-0#perform #v. 执行,表演,做
-0#labour/labor#n. (英国)工党
-0#radio#n. 收音机; v. 用无线电通讯
-0#deed#n. 事迹,行为
-0#programme #n. 节目,程序,规划;v. 为...规划程序,拟...节目,制作节目
-0#star#n. 星,明星
-0#those#pron.&a. 那些
-0#row # n.排, 行  v.划(船)
-0#dusty #a. 满是灰尘的
-0#grandfather#n. (外)祖父
-0#lab #n. 实验室
-0#noon#n. 正午,中午
-0#coast#n. 海岸,海滨
-0#actual #a. 实际的,真实的
-0#beginning#n. 开始,开端
-0#suggest #v. 建议,提出
-0#manner#n. 样子,礼貌,风格,方式
-0#live#a. 活的,生动的,精力充沛的,直播的v. 活,居住,过著
-0#electric#a. 电的
-0#calm #"n. 平稳,风平浪静a. 平静的,冷静v. 平静下来,镇静"
-0#building#n. 建筑物
-0#store#n. 商店,贮藏,仓库v. 储存,贮藏,供给
-0#selfish* #adj.自私的
-0#perhaps #   ad. 也许,可能
-0#Ms*#毫秒
-0#they#pron. 他们
-0#give (gave, given)  #vi. 让步,塌下,折断,弯曲 vt. 给
-0#baby#a. (形容用法)婴儿的n. 婴儿 
-0#soup#n.汤
-0#disappear* #v. 消失
-0#medical #a. 医疗的,医学的
-0#famous#a. 著名的
-0#chicken#n. 鸡,鸡肉;胆小，害怕
-0#football #n. 足球
-0#formal #a. 正式的
-0#bedroom#n. 卧室
-0#be angry with#对某人发脾气
-0#take part in#
-0#arrival #n. 到达,到来
-0#enough# adj.足够的 adv.足够地 n.充足,足够pron.足够(的) 
-0#child (pl. children)#n. 小孩
-0#fever#n. 发烧,发热,热病
-0#mend#n. 改进,改良,修补处v. 修改,改进,加快,好转
-0#request #n. 要求,请求; vt. 请求,要求
-0#come on#突然产生, 要求, 成为...负担, 偶遇, 跟着来, 
-0#anyhow #ad. 不管怎样
-0#next#a. 下一个的ad. 其次n. 下一个prep. 靠近
-0#black#a. 黑色的n. 黑人,黑色v. (使)变黑
-0#roll#v. 滚动, 打滚 n. 面包圈，小圆面包；卷状物
-0#dull #a. 钝的,迟钝的,无趣的
-0#tear#n. 眼泪,撕破v. 流泪,撕破
-0#pink #"a. 粉红色的;  n. 粉红色"
-0#over#a. 结束的 ad. 结束 prep. 在...的上方 v. 越过
-0#expensive  #a. 昂贵的
-0#sing (sang, sung)# v.唱, 演唱
-0#five  #num. 五 pron.&a. 五(个,只...)
-0#tail #n. 尾部,后部,辫子;跟踪者v. 附于其后,尾随,逐渐消失
-0#Dream(dreamed/dreamt, #n. 梦v. 做梦
-0#food #n. 食物
-0#interesting #a. 有趣的
-0#cheque #n. 支票
-0#patient #a. 有耐心的,能忍耐的 n. 病人
-0#throw  (threw, thrown)#n. 投,掷,抛v. 丢,掷,抛
-0#miserable* #a. 悲惨的,痛苦的
-0#top#n. 顶端,极点,最高地位;陀螺a. 最高的,顶上的 
-0#leg#n. 腿
-0#Russian# a. 俄国人的，俄语的 n. 俄国人，俄语
-0#bee #n. 蜜蜂
-0#in  # prep. 在,在...之内
-0#either#a. 任一,两方的prep. 任一,随便任一个conj. 或,也
-0#thirteen#十三
-0#save#vt.解救, 保存, 保全, 保留, 节省, 储蓄vi.挽救, 节省, 救球 
-0#relative #a. 相对的,比较的; n. 亲戚,亲属
-0#brother#n. 兄弟
-0#some#a. 一些，若干；有些；某一
-0#shout# v.呼喊, 呼叫  n.呼喊, 呼叫
-0#inside#a. 里面的 ad. 在里面 n. 内部 prep. 在...里面
-0#man (pl. men)#n. 男人,人类,人v. 为...配备人手
-0#probably #ad. 大概,或许
-0#cheer #n. 愉快,激励,欢呼v. 加油,鼓舞,快活起来
-0#so#a. 光滑的； 平坦的
-0#biology#n. 生物学
-0#journey#n. 旅程,旅行,行程v. 旅行
-0#new#a. 新的 n. 新的东西
-0#friend #n. 朋友
-0#hard #a. 硬的 ad. 努力地
-0#more or less#或多或少
-0#orange#a. 橙色的 n. 橘子
-0#senior* #adj.年长的, 资格较老的, 地位较高的, 高级的
-0#rule#n.规则, 惯例, 统治, 章程, vt.规定, 统治, 支配  
-0#by air/land/ sea#坐飞机(通过陆路,坐船)
-0#role #n.角色, 任务
-0#rush#vi. 冲，奔跑
-0#toy#n. 玩具,小玩意儿a. 供玩耍的 
-0#separate#adj.分开的, 分离的, 个别的, 单独的v.分开, 隔离, 分散, 分别
-0#pollution #n. 污染
-0#ago#ad. 以前
-0#serious# adj.严肃的, 认真的, 严重的
-0#process* #"n. 过程; v. 加工; vi. 列队前进; vt. 加工,处理"
-0#corner#n. 角落,转角,窘境v. 将…逼入困境,使...陷入绝境,垄断[计算机] 角点
-0#bathroom#n. 浴室
-0#propose*#v. 计划,打算,向...提议
-0#baggage #n. 行李
-0#state#n. 州,国,情形v. 说,陈述,声明,规定
-0#hold one’s breath#屏息
-0#September#n.九月(略作Sep)
-0#   as a matter of fact  #事实上
-0#feel  (felt, felt) #v. 感觉,觉得,触摸
-0#cheap#a. 便宜的ad. 便宜地 
-0#further #a. 更远的 ad. 此外,进一步地 v. 促进,推动 vt. 促进
-0#escape #n. 逃亡,避难设备v. 逃脱,避开,溜走 [计算机] 换码
-0#review # vt.回顾, 复习  n.回顾, 复习, 评论
-0#   pick out#挑出
-0#guest # n. 客人 v. 款待
-0#   never mind#不要紧,没关系； 算了！
-0#grand#a.豪华的,宏伟的,主要的,重大的 n.(美俚)一千美元
-0#nowadays #ad. 现今,现在 n. 现今,当今
-0#simple# adj.简单的, 简易的, 朴素的, 简朴的, 天真的
-0#accident  #n. 事故,意外的事
-0#previous* #a. 在...之前,先,前,以前的
-0#painting #n. 水彩画,油画
-0#none#ad. 一点也不 prep. 没人,毫无 pron. 没有人,没有任何东西
-0#lip #n. 嘴唇
-0#spirit #n. 精神
-0#sheep (pl. sheep)# (复sheep) n. （绵）羊；羊皮；驯服者
-0#find (found, found) # v. 发现,感觉到,认为
-0#tall#a. 高的
-0#June#n. 六月;琼（女名）
-0#announce #"v. 发表,广播（电台节目）,通告,正式宣布
-0#all the same#adv.仍然
-0#progress #"n. 进步,发展,前进;v. 促进,进步,进行"
-0#million#n. 百万a. 百万
-0#O.K.#a. 好, 对, 行 ad. 好, 对, 可以 n. 同意
-0#   put up#vt. 举起(推荐,提供,提高,建造,贮备)
-0#lately #ad. 最近,不久前
-0#cottage #n. 村舍,小屋
-0#flower# n. 花 v. 开花
-0#butcher #n. 屠夫,肉商,小贩
-0#tax #n. 税,租税,重负. 课以税,使...负重荷,斥责
-0#staff* #n. 全体人员,同事vt. 配备员工
-0#excellent #a. 极好的,优秀的
-0#disappoint #v. 使...失望
-0#good (better, best) #n. 善行,好处  a.好的,优良的,[pl.] 商品
-0#pen#n. 钢笔 v. 圈进
-0#receive#v. 收到,接受,迎接
-0#sweater#n. 毛衣
-0#repeat#n. 重复,反复; v. 重复,复述,复诵
-0#chat #v. 谈天，闲谈
-0#   give in* #屈服,让步
-0#sky#n.天, 天空
-0#money#n. 钱
-0#prepare#v. 准备,预备
-0#   take the place of#代替
-0#join  # v. 参加,结合,加入
-0#habit#n. 习惯
-0#   get in# vt. 进入(到达,收割,收集,当选)
-0#before#a. 以前,在...以前ad. 以前 prep.&conj. 在...以前 
-0#possession #n. 财产,所有,拥有
-0#   at last#终于,最后
-0#hole #n. 孔,洞,穴 v. 挖洞,掘坑,进洞
-0#otherwise # ad. 否则,要不然,不同地,别的方式
-0#physical* #a. 身体的,物理的,物质的; n. 体检
-0#set off#v.出发, 动身, 使爆炸, 引起, 使爆发 
-0#cream#n. 乳酪,奶油,面霜
-0#chest #n. 胸,胸部,衣柜
-0#most#n. 最多,最大 a. 大多数的,几乎全部的,最多的 ad. 最,最多,极其
-0#seem#vi.象是, 似乎
-0#cap#n. 帽子,盖子v. 给戴帽 
-0#boat#n. 船v. 划船
-0#create* #vt. 创造,造成
-0#   fall asleep #入睡,睡着 v. 入睡
-0#ground # n.土地,场地 a.土地的,地面上的 v.放在地上,打基础
-0#catch  (caught, caught)#n. 捕捉,陷阱,捕获物v. 抓住；赶上,了解,感染 
-0#joke#n. 笑话,玩笑 v. 开玩笑
-0#invent #v. 发明 vt. 发明,创造 
-0#scream #v.尖声喊叫  n.尖叫声, 喊叫声
-0#step#n. 步骤,步,踏级v. 踏,以步测量
-0#fairly# a. 公平地,相当 ad. 相当地
-0#pillow #"n. 枕头; v. 枕,搁,垫"
-0#oil#n. 油,油画颜料 v. 涂油,溶化,加油
-0#else#a. 别的ad. 其他,另外
-0#rough #adj.粗糙的, 粗略的v.大体描述  
-0#pool#n. 池,水塘,撞球
-0#rely* #v. 信赖,倚赖,信任
-0#beautiful#a.美丽的，漂亮的
-0#bag#n. 包v. 把...装入袋中,猎杀,占有vt. 把...装进袋子  
-0#on the right#未过...岁
-0#drop#n. 滴,微量,落下v. 放下,掉下
-0#bite (bit, bitten)  #n. 咬,一口v. 咬
-0#destroy#v. 破坏,毁坏
-0#research #v. 调查,研究; n.调查,研究
-0#regard #n. 关心,注意,尊敬; v. 视为,注意,和...有关
-0#possibly #ad. 可能地,也许
-0#risk* #vt.冒...的危险  n.冒险, 风险
-0#kind #a. 仁慈的,友好的n. 种类
-0#problem#"a. 成问题的; n. 问题"
-0#honest # a. 诚实的,正直的
-0#   be made up of*#由...构成,由...组成
-0#choice#a. 上等的,精选的n. 选择
-0#fork # n. 叉 v. 叉起,耙,成叉状
-0#education #n. 教育,培养
-0#trip#n. 旅行,摔倒,差错v. 跌倒,使...犯错,倾斜 
-0#protect #v. 保护
-0#pass#n. 途径,通行,及格 v. 经过,消逝,传递
-0#player #n. 比赛者,运动员
-0#shake (shook, shaken)# v.摇动, 摇, 颤抖, 震动  n.摇动, 摇, 颤抖, 震动
-0#bus#n. 公共汽车
-0#mayor* #n. 市长
-0#direction #n. 方向,指导,用法说明
-0#   put on#vt. 穿上,戴上
-0#important #a. 重要的
-0#hunger # n. 饥饿,渴望,饥馑 v. 饿,使...饥饿,渴望 
-0#gift # n. 礼物,天赋 vt. 给予
-0#north#a. 北,北方(的) ad. 向北方 n. 北,北方
-0#   such as*#例如,诸如
-0#   take one’s place#取代...人;  就坐
-0#altogether #ad. 总共
-0#much (more, most)#a. 许多的 ad. 很,非常 pron.&n. 许多
-0#someone#pron. 某一个人
-0#neither#a. 皆不,两不 int. 两者都不 conj. 既非,既不
-0#spread   (spread, spread)#n. 传布,伸展a. 扩延的v. 传布,推广,伸出
-0#mail #n. 邮件v. 邮寄
-0#strength #n. 力量,力气,长处,强度
-0#illness #n. 病,疾病
-0#lovely#a. 可爱的,令人愉快的
-0#   physical education*#n. 体育
-0#favour/favor#n. 帮助(促进,好感,证实,来信,礼物) vt 促进
-0#Africa#n. 非洲
-0#carry out#vt. 实行(执行,实现)
-0#not only...but also…#不但...而且…
-0#answer#n. 答案,回答v. 回答,符合 
-0#ruler# n.统治者, 管理者, 尺, 直尺
-0#fat#a. 肥胖的 n. 脂肪
-0#Saturday# n.星期六
-0#fill in #填写
-0#attack #n. 攻击,评击v. 攻击,动手,疾病发作 
-0#more#?n. 更多a. 多的,程度较大的,更大的ad. 多,更多,进一步n.[计算机] DOS命令 : 使DOS每次显示一屏信息, 以取代连续卷动
-0#importance #n. 重要(性)
-0#now#n. 现在,此刻 ad. 现在,立刻 conj. 既然=National Organization of Women 全国妇女组织
-0#golden # a. 金(黄)色的
-0#midnight#n. 午夜
-0#birth #n. 出身,血统,出生,诞生,出现,起源
-0#them#pron. 他(她,它)们
-0#October#n. 十月
-0#moon#n. 月亮
-0#team#n. 队,组v. 协同工作
-0#poor#a. 可怜的,贫穷的
-0#travel#v.&n.旅行,传播
-0#   in the middle (of)#中间,中部,当中
-0#   keep in touch#保持联系
-0#influence*# v. 影响,感化 n. 影响力,感化力,势力,
-0#courtyard  #n. 庭院,院子
-0#honour # n. 光荣 vt 尊敬
-0#   get down #vt. 咽下(下来)
-0#no more#不再
-0#guard #n. 守卫者,警戒 v. 保卫,看守,当心
-0#asleep#a. 睡熟了的,麻木的ad. 熟睡地
-0#several#adj.几个, 个别的  pron.几个
-0#diary #n. 日记,日记簿
-0#brief* #"n. 摘要,简报,公事包a. 简短的,简洁的v. 对...作简报,摘要 "
-0#kick#n. 踢,反冲,后座力v. 踢,反抗,反冲
-0#not# ad. 不 [计算机] "非"
-0#cheek #n. 面颊,脸蛋v. 粗鲁地向...讲 
-0#careful#a. 小心的,仔细的
-0#notice#n. 注意,布告,通知 v. 注意,通知,留心
-0#boil#v. 沸腾,煮沸
-0#job #n. 工作
-0#nor#conj.&ad. 也不,也没有 "或非" "非或"
-0#Australia#n. 澳大利亚
-0#gay # a. 欢迎的,放荡的,色彩鲜艳的b. 同性恋
-0#hill # n. 小山
-0#survive* #v. 生存,生还
-0#production #n. 生产,产品, 作品,成果
-0#break (broke, broken)#n. 休息,中断,破裂v. 打破,弄破,弄坏 
-0#gentle #a. 温和的,文雅的 
-0#health # n. 健康,卫生,保健
-0#design #n. 设计,图样v. 设计,计划
-0#economy*#n. 节约,经济
-0#jam#n.果酱,拥塞之物,堵塞 v. 挤,塞满,混杂
-0#   make friends with #v. 与...交友与...交朋友,和睦
-0#anyone#pron. 任何人
-0#root #n. 根，根源，起源
-0#beyond#ad. 在更远处n. 远处 prep. 超出；越过 
-0#certain#a. 一定的pron. 某几个,某些
-0#obtain*  #vt. 获得,得到 vi. 通用,流行,存在
-0#sail#n. 航行 v. 航行，开航
-0#dreamed/dreamt)#
-0#provide #"vi. 供给,提供; vt. 提供"
-0#pole #"n. 极(点); v. 跳,支撑"
-0#heat#n. 热,热度,高潮 v. 加热,激昂,加热
-0#touch#n. 触觉,接触,少许v. 接触,触及,感动
-0#square #n. 正方形,街区,平方a. 正方形的,正直的,公正的
-0#cut (cut, cut) #n. 切口,割伤,降低v. 切割,减少,刺痛vbl. 切割,减少,刺痛
-0#standard #a. 标准的n. 标准
-0#May#n. 五月
-0#sit (sat, sat)#v.(使)就座, (使)坐
-0#attract #v. 吸引,有吸引力
-0#tidy #a. 整齐的,精简的v. 弄整齐,收拾
-0#battle #n. 战争
-0#movie* #n. 电影
-0#menu #n. 菜单
-0#reflect* #v. 反映,归咎
-0#empty#n. 空的东西,空物a. 空的,空虚的,空腹的v. 倒空,使...空
-0#   at the same time#同时
-0#basic #n. 基本,要素a. 基本的,碱性的[计] BASIC语言, 基本高级语言  
-0#department #n. 部,部门,系
-0#Britain#英国 
-0#age#n. 年龄v. (使)变老 vi. 变老 
-0#   help oneself to # v. 自用
-0#on show#被展出
-0#hardly # ad. 几乎不
-0#   have...on #有事,有约会
-0#   rather than#conj. 宁可...也不愿(与其...倒不如,而不是)
-0#dead  #a. 死的ad. 完全地n. 死者
-0#press #"n. 新闻界,压力; v. 按,压"
-0#person#n. 人
-0#foreign #a. 外国的
-0#   take down#记下,写下
-0#object #n. 物,物体,目标,宾语 v. 反对
-0#   get away #逃脱,离开
-0#bank #n. 银行,堤,岸
-0#sight #n.视力, 视觉, 见, 瞥见, 视域, 眼界
-0#near#a. 近的,近亲的,近似的 ad. 接近,亲近,节俭 prep. 靠近,近乎
-0#long #a. 长的,很久的,冗长的v. 渴望,热望,极想ad. 长期地
-0#   hold on# vt. 抓住(继续,坚持,忍受)
-0#noun #n. 名词
-0#able#a. 能干的,有能力的
-0#file #n. 档案,公文箱,锉刀 v. 列队行进,归档,申请
-0#bad (worse, worst)#a. 坏的
-0#funny  # a. 滑稽的,有趣的
-0#dinner#n. 主餐,晚餐,晚宴
-0#income  # n. 收入,所得
-0#remove#n. 距离;  v. 除去,迁移,开除
-0#main #a. 主要的n. 主要部分,干线
-0#of course#当然
-0#carry#n. 进位,超位v. 携带,支持,意味,搬运,拿 
-0#aim #n. 目标,对准v. 对准目标,打算 
-0#shower # n. 阵雨； 淋浴
-0#cold#adj.冷的n. 感冒
-0#beside#prep. 在...旁边
-0#tool#n. 工具
-0#during#prep. 在...期间n. 灰尘,尘埃
-0#remain#v. 保持,依然,剩余,留下，逗留; n.遗迹，剩余物，残骸
-0#prevent #v. 预防,防止
-0#language#n. 语言
-0#teach  (taught, taught)#v. 教,教书,教导
-0#trick #n. 诡计,欺诈v. 戏弄,欺骗n. 恶作剧
-0#January#  n. 一月
-0#passage #n. 通道,走廊,一段文章
-0#bathe#v. 沐浴,用水洗
-0#meeting#n. 会议
-0#frequent# a. 经常的,频繁的 vt. 常到,常去
-0#crop#n. 农作物,产量,平头v. 收割,修剪,种植
-0#couple #n. 对,夫妇,数个v. 加倍,成双,连结
-0#think  (thought, thought)#v. 想,考虑,想像
-0#rise (rose, risen) #n.上升, 增加, 上涨vi.升起, 起身，增长, 上升
-0#appear#v. 出现,显得
-0#score#n.& v. 得分，分数许多
-0#convenient #a. 方便的
-0#get  (got, got) #v. 得到,变成,获得,使得
-0#sharp#a. 锋利的，尖的
-0#   let in#让...进入,放...进来
-0#equipment# n. 设备,装备
-0#eager#a. 渴望的,热切的
-0#side#n. 边，旁边，面，侧面
-0#arm #n. 手臂,袖子v. 武装,装备 
-0#   be proud of#prep. 以...自豪(以...自负)
-0#librarian #n. 图书管理员
-0#courage #n. 勇气
-0#art #a. 美术(品)的,艺术(品)的n. 艺术 
-0#Internet* #n. 因特网
-0#dish#n. 盘子vt. 上菜n.一样菜，一道菜
-0#count#v. 计算,视为,依赖n. 计数
-0#satisfy #vt. 满足，使满意
-0#CD* #n. 激光唱片
-0#lively #活泼的, 活跃的, 栩栩如生的, 真实的
-0#nose#n. 鼻子,突出部分,嗅觉 v. 嗅到
-0#material#n. 材料,原料,物质;n. 素材,题材,资料a. 物质的,实体的
-0#hungry# a. 饥饿的
-0#force  # n. 力量,武力,影响力 v. 强迫,强夺,加压力
-0#general #n. 一般,将军,大体 a. 一般的,普遍的 v. 指挥,作...将军
-0#be  #prep. 是,有,在
-0#plane#a. 平的; n. 飞机,平面,刨子; v. 刨
-0#   find out #vt. 找出(查明,发现,想出,认识到,揭发出来)
-0#midday #n. 正午,中午a. 正午的
-0#believe#v. 认为,相信
-0#ability*#n. 才能,能力
-0#after all#毕竟
-0#room# n.房间, 屋子空间, 机会, 余地
-0#tie#n. 结,束缚,不分胜负,领带, 领结,鞋带v. 系,打结,约束 
-0#pleased#a.高兴的
-0#care#n. 小心,照料,忧虑v. 关心,照顾,喜爱,介意
-0#employ #雇用,使用
-0#fifty#num. 五十
-0#stage #n. 阶段,舞台,驿站v. 上演,表演,乘驿车旅行
-0#make  #v. 做,制造,使n. 牌子,型号
-0#neighbour/neighbor#n. 邻居(邻近的东西,邻近值) vt 邻接(相邻,接近)
-0#enormous* #adj. 巨大的,庞大的
-0#plan #n. 计划,策略,方法;   v. 计划,设计,意欲
-0#shine (shone, shone) #v.照耀, 发光  vt.擦亮  n.光泽, 光亮
-0#public#"a. 公共的,公众的; n. 公众,民众"
-0#move#n. 移动,迁居,步骤,动作 v. 移动,搬家,使...感动,(有时也意译为"跳槽") [计算机] 移动
-0#host* #n. 主机,主人,主持人,东道主. v.主持,做东.
-0#operate #v. 操作,运转,动手术
-0#require #v. 需要,要求
-0#gate #n. 大门
-0#sailor#n.海员, 水手, , 船员
-0#thought #n. 想法,思想v. (think的过去式和过去分词)想,思考,认为
-0#snake #n.蛇  v.迂回前进
-0#post #"n. 邮件,标竿,职位; v. 邮递,公布,布置"
-0#conductor#n. 传导
-0#magazine#n. 杂志
-0#season#n.季, 季节  v.(使)适应, (使)适用, 调味
-0#sand#n.沙, 沙子,沙滩, 沙地  v.撒沙子
-0#playground #n. 操场
-0#everybody/everyone # n. 每个人 pron. 每人,人人
-0#slightly #adv. 轻微地, 苗条地
-0#once more  #再一次
-0#choose (chose, chosen)#v. 选择
-0#ray #n. 光线,射线,雷(男子名)
-0#fill# v. 装满,填充,弥漫
-0#head # n. 头,头脑,领袖 v. 为首,朝向,前进
-0#school#n.学校，全体学生, 学派vt.锻炼, 教育
-0#condition#n. 情况,条件v. 以...为条件,决定,支配,训练
-0#eight#num. 八pron. 八(个,只...)
-0#hall # n. 大厅,礼堂
-0#rather#ad. 宁可,宁愿,有些,相当
-0#smart #a. 灵巧的，伶俐的；（人、服装等）时髦的，帅的
-0#be able to#会,能 v. 能够
-0#stair#n. 楼梯
-0#plant#n. 植物; v. 种植; n. 工厂
-0#beg one’s pardon#请原谅
-0#advantage #n. 优势,有利条件
-0#see (saw, seen) #vt. 看见，看到；领会；拜会
-0#throughout #ad. 到处,自始至终prep. 遍及,贯穿
-0#data*#n. 资料,数据
-0#their#a. 他们的,它们的pron. 他(她,它)们的
-0#safe# a. 安全的 n. 保险柜
-0#discover#v. 发现
-0#big#a. 大的
-0#be fit (for) #适合于
-0#tooth (pl. teeth)#n. 牙齿
-0#"learn (learnt/learned, learnt/learned)"#v. 学习,获悉,记住,了解
-0#court*#n. 法院,庭院,奉承v. 献殷勤,追求,招致危险
-0#ready#a. 准备好的,乐意的,情愿的
-0#passer-by (pl. passers-by) #n. 过路人,经过者
-0#cook#v. 煮，烹调
-0#farther #a. 更远的,进一步的 ad. 更远的,此外
-0#lock #n. 锁,刹车,水闸v. 锁,上锁,拘禁[计算机] 锁定
-0#record# n.记录,唱片,履历;  v. 记录,将(声音等)录下
-0#own #a. 自己的 pron. 特有的 v. 有,拥有 vi. 承认 vt. 拥有
-0#German #a. 德国(人)的,德语的n. 德国人,德语
-0#factory #n. 工厂
-0#cousin#n. 堂(或表)兄弟(姐妹)
-0#the other day#n. 前几天
-0#support#
-0#satisfaction # n.满意, 满足, 令人满意的事物
-0#forty #num.&a. 四十 pron. 四十(个,只...)
-0#might#aux. 可能,也许n. 力量,威力v. 或许,可以
-0#fond #a. 喜欢的
-0#shoot (shot, shot)#shoot1 n. 嫩枝； 苗； 芽 shoot2 (shot, shot) vt. 射击，射中，发射
-0#track #n. 小路,跑道,轨道,踪迹v. 跟踪,追踪
-0#experience  #n. 经历,经验 v. 经历,体验
-0#discussion#n. 讨论v. 讨论,商议
-0#pronounce#v. 发音,宣告,断言
-0#crowd#n. 群众,一伙v. 拥挤,挤满,挤进
-0#headmaster #n. 校长
-0#November#?n. 十一月
-0#extremely #ad. 极其,非常
-0#reply#v.＆n. 回答,答复
-0#hope#希望
-0#stop#n. 停止,车站,滞留v. 停止,停止,制止 
-0#entire #a. 全部的,整个的
-0#smoke#n. 烟 v. 冒烟；吸烟
-0#   a place of interest #名胜
-0#go  (went, gone)   #v. 去,走  [计算机] 执行
-0#low#n. 低点,低价,低a. 低的,消沉的,低等的ad. 低下地,谦卑地,低
-0#huge #a. 庞大的,巨大的
-0#chairman ( pl. chairmen) #n. 主席,会长
-0#send (sent, sent)#vt.送, 寄, 发送, 派遣, 打发
-0#hear (heard, heard)#v. 听到,听说,听取
-0#lake#n. 湖
-0#aircraft #n. 飞机
-0#ripe #adj.熟的, 成熟的, 时机成熟的  v.成熟
-0#girl# n. 女孩
-0#shore# n. 滨，岸
-0#service # n. 服务
-0#birthday#n. 生日
-0#cake# n.蛋糕
-0#almost#ad. 几乎,差不多
-0#pound#"n. 磅,英镑; v. (连续)猛击,捣碎; vt. 猛击,敲打,跳动"
-0#July#n. 七月
-0#bread#n. 面包
-0#space#n.空间, 间隔, 距离
-0#flat #a. 平坦的,单调的,扁平的 ad. 平直地,干脆地 n.[英]公寓
-0#god # n. 神,(G-)上帝
-0#circle#n. 圆周,社交圈,循环v. 包围,盘旋,环绕
-0#practical #a. 实际的,实用的
-0#political #a. 政治的
-0#better#a. 较好的,更好的ad. 更好地
-0#many (more, most)#n. 许多人,许多a. 许多的
-0#electricity#n. 电
-0#on foot #步行
-0#or#conj. 或者,还是 prep.&ad. 或者
-0#   on time#准时
-0#float # n. 漂流物,浮舟,浮萍 v. 浮动,飘,散播
-0#breakfast#n. 早餐vi. 进早餐
-0#town#n. 城镇
-0#population #n. 人口
-0#headache#n. 头痛
-0#taste#v. 尝,体会n. 味道,品味,味觉
-0#rose#n. 玫瑰, 玫瑰红  rise的过去式
-0#fault #n. 故障,过失,缺点 vt. 挑剔,指责
-0#ever  #ad. 曾经,永远,究竟
-0#   hand in #交上,递交
-0#last #a. 最后的,末尾的,最近的,晚了，迟到了v. 持续,支持,维持ad. 最后,后来
-0#swim (swam, swum)#游泳
-0#stare #vt.盯,凝视
-0#group #n. 团体,组,团 v. 聚合,成群 [计算机] 成组
-0#share # vt. 分享，共同使用
-0#bush #n. 灌木,灌木丛
-0#   no longer#不再
-0#advice #n. 忠告,劝告
-0#terrible#a. 可怕的,糟糕的
-0#luggage #n. 行李
-0#occur #v. 发生 vi. 出现,存在,发生
-0#rail* #n. 栏杆,铁轨,扶手; v. 以横木围栏,铺铁轨
-0#ear#n. 耳朵
-0#delay #n. 耽搁,迟滞v. 耽搁,延迟
-0#fear# n. 恐怖,害怕,担心 v. 害怕,恐惧,敬畏
-0#address#"n. 住址n. 致词,讲话 vt. 发表演说，写地址，（图书、文章等）讨论（某主题） "
-0#club #n. 俱乐部v. 用棍棒打
-0#a number of#许多,若干
-0#advise #v. 劝告,通知,与...商量
-0#pale #n. 尖木桩(前哨) a. 苍白的 v. 使苍白 vi. 变得苍白,变得暗淡
-0#organise (organize)#v. 组织,有机化,给予生机
-0#foolish  # a. 愚蠢的
-0#nearby #a. 附近的 ad. 在附近 prep. 在...附近
-0#railway#n. 铁路; v. 由铁道运输
-0#stranger#n. 陌生人
-0#average #n. 平均,平均数a. 一般的,通常的,平均的 v. 平均 
-0#spare #a. 空闲的，多余的，备用的  v.节约, 节省, 不伤害, 宽恕
-0#bone #n. 骨,骨骼v. 剔去(鱼等的)骨 
-0#annual*#a. 每年的,年度的n. 年刊,年鉴 
-0#treat #n. 宴飨,款待v. 视为,对待,处理,治疗 
-0#chocolate#n. 巧克力
-0#chemistry#n. 化学
-0#dozen #n. (一)打,十二个
-0#pocket#"n. 口袋,钱,袋; v. 装...在口袋里,隐藏,私吞"
-0#eleven#num. 十一pron.&a. 十一(个,只...)
-0#murder #v.&n. 谋杀,凶杀 vt. 谋杀
-0#society #n.社会，交际
-0#transportation*#n. 运输,运输系统,运输工具
-0#complete #a. 彻底的,完整的,已完成的v. 完成,使完整
-0#sometimes#adv.不时, 有时
-0#net #n. 网,净利,实价a. 净余的,纯的 v. 用网捕,撒网,净赚
-0#shoulder # n.肩, 肩部  vt.肩负, 承当
-0#exact #a. 精确的 vt. 强求,要求,索取
-0#hit (hit, hit)# n. 打击,打,冲撞,偶然发现 v. 打,打击,碰撞
-0#camp #n. 露营,帐棚v. 露营,扎营
-0#globe # n. 地球,地球仪,球体
-0#kiss#n. 吻,轻触v. 吻,接吻,轻拂
-0#hurry #n. 匆忙,急忙,急促 v. 催促,匆忙,赶快
-0#feather#n. 羽毛
-0#case #n. 情形,情况,箱,案例
-0#question#n. 问题,疑问,疑问句; v. 询问,审问,怀疑
-0#part#n. 部份,零件,角色 v. 分开,分离,分配 ad. 部份地,有几分
-0#hello#int.（见面打招呼或打电话用语）喂,哈罗
-0#bar*#n. 条,棒,横木,酒吧v. 禁止,阻挠 
-0#steal   (stole, stolen)#v. 偷
-0#August#n. 八月a. 威严的,尊严的 
-0#grain #n. 谷物,谷类,颗粒,细粒
-0#leader#n. 领袖,领导者
-0#monkey#n. 猴子v. 胡闹,乱弄
-0#anxious #a. 焦急的,忧虑的
-0#still#a. 静止的,不动的,静寂的ad. 仍然,更,静止地conj. 然而,但是 
-0#series*#n.连续, 系列, 丛书
-0#seldom#adv.很少, 不常
-0#angry#a. 生气的
-0#distant #a. 遥远的,远的
-0#February #n. 二月
-0#strong#a. 强壮的
-0#Chinese#a. 中国的n. 汉语,中国人
-0#agriculture #n. 农业
-0#continue#v. 继续,连续
-0#available*#a. 可用的,有效的
-0#shut  (shut, shut)#v. n. 关上，封闭；禁闭；
-0#set up#v.设立, 竖立, 架起, 升起, 创(纪录), 提出, 开业
-0#barber*#n. 理发师
-0#bake #v. 烘焙,烤
-0#home#a. 家(乡)的 ad. 回家,在家 n. 家
-0#positive* #"a. 肯定的,积极的,绝对的; a. 正面的,正数的,阳性的"
-0#up to date*#a. 最近的, 最新的
-0#first of all #首先
-0#hire#n. 租金,租用,雇用 v. 雇请,出租
-0#theatre/theater#n. 剧场,戏院
-0#modern#?a. 现代的 n. 现代人
-0#somebody# pron. 某人；有人；有名气的人
-0#rude  #adj.粗鲁的, 无礼的, 残暴的
-0#eat up#吃光,吃完
-0#fierce  # a. 猛烈的,残忍的,狂暴的,强烈的
-0#chair#n. 椅子,席位,讲座
-0#   the Young Pioneers#少先队员
-0#history # n. 历史
-0#towards#ad. 向,朝prep. 朝,向 
-0#allow #v. 允许,准许vi. (for)考虑到 vt. 允许 
-0#statement* #n. 声明,陈述
-0#lonely #a. 孤独的,寂寞的
-0#local*#a. 地方性的,当地的,局部的[计算机] 局部的
-0#starve #v. 使饿死,饿得要死
-0#feed  (fed, fed)#n. 饲养,饲料,一餐 v. 喂,饲养,靠...为生
-0#out#a. 外面的,下台的, 出局的 ad. 在外,熄减,出现 prep. 出外,离去,向
-0#how  #ad. 怎样 conj. 如何
-0#relation #n. 关系,家人,亲戚,叙述,陈述
-0#branch#n. 分枝,树枝v. 分枝vi. 分支
-0#below#ad. 在下面,向下prep.&a. 在...下面 
-0#coin #n. 硬币,金钱,货币v. 制造钱币
-0#danger#n. 危险
-0#by#prep.经,由
-0#pause #暂停,中止
-0#little (less, least)#a. 小的ad. 毫不n. 几乎没有
-0#depth #n. 深度
-0#lunch#n. 午餐
-0#oh#int. 啊呀,哦
-0#suitcase #n. 手提箱
-0#can #v. 开罐conj. 能,可以
-0#face#n. 脸,面容 v. 面对,朝,承认
-0#   get up #起床
-0#summer#n. 夏季,夏天
-0#   look out#留神,注意
-0#piano (pl. pianos) #n. 钢琴
-0#sir# n.先生, 阁下
-0#mailbox #n. 邮筒,邮箱
-0#rich#adj.富的, 有钱的, 富有的, 富饶的, 肥沃的, 充足的, 丰富的
-0#steel #n. 钢,钢制品
-0#dad #n. 爸爸
-0#holiday #n. 假期,假日
-0#apologize #v. 道歉vi. 道歉,谢罪 vt. 道歉,谢罪,辩白 
-0#at#prep. 在
-0#begin (began, begun)#开始
-0#the day after tomorrow#后天
-0#slow#adj.慢的, 迟钝的v.(～ down)(使)慢下来, (使)减速, 减缓 ad. 慢慢地，缓慢地
-0#envelope #n. 信封
-0#freeze  (froze, frozen)  # v. 冻结,冷动,僵硬[计算机] 冻结
-0#benefit*#n. 利益v. 获益 
-0#dollar#n. 美元
-0#   make up one’s mind#下决心
-0#officer #n. 官员
-0#around #ad. 大约,到处,在周围prep. 在...周围 
-0#explanation  #n. 解释,说明
-0#clinic #n. 诊所
-0#construction #n. 建设,建造
-0#housework# n. 家务劳动
-0#tomato #n. 西红柿
-0#family #a. 家庭的 n. 家庭
-0#length #n. 长度
-0#if # conj. 如果 n. 条件,设想
-0#Japanese#a.日本的 n. 日本人,日语
-0#dialogue/dialog#n. 对话
-0#   be strict with#对...要求严格
-0#April#n. 四月
-0#clothing #n. (总称)衣服
-0#metre/meter#n. 米,公尺
-0#adult*#a. 成年的,成熟的n. 成年人
-0#left#a. 左边的ad. 向左n. 左边vt. 将...留在...
-0#itself  # pron. 它自己,它本身
-0#repair#n. 修理,补救; v. 修理,补救,补偿
-0#majority #n. 多数,大多数
-0#bottom #n. 底部;屁股，臀部a. 底部的 
-0#trade #n. 贸易,商业,交易v. 贸易,交易,交换 
-0#be full of # prep. 充满(有很多的)
-0#bridge#n. 桥v. 渡过,架桥 
-0#amazing*#a. 令人惊异的
-0#Paris #n. 巴黎
-0#shall#v. aux.将, 会
-0#off#a. 远的,休假的,空闲的 ad. 走开,出发,隔断 prep. 离开,脱落,在...之外
-0#through#ad. 穿越,完全prep. 经过,穿过,凭借 
-0#   look at#看
-0#negative* #a. 否定的,负的,消极的 n. 底片,负数 vt. 否定
-0#ticket#n. 票,券
-0#plastic#a. 塑料的; n. 塑料,(外科)整形的
-0#term #n. 学期,术语,名词,期限v. 称,呼 
-0#media* #n. 媒体,新闻媒介,传播媒介
-0#leave (left, left) #离开,告假,遗留,听任
-0#shave (shaved, shaved/shaven)#v.剃, 刮, 削  n.刮脸
-0#select* #vt.选择, 挑选  adj.精选的
-0#effect #n. 结果,影响,效果v. 招致,引起,完成
-0#needle #n. 针 v. 用针缝
-0#knee #n. 膝,膝盖
-0#collect#ad.&a. 对方付费(的)v. 聚集,堆积,收集 
-0#height  # n. 高度,高处
-0#politics #n. 政治
-0#beg#v. 请求,乞求
-0#curtain #n. 窗帘
-0#ink  #n. 墨水
-0#buy  (bought, bought)#v.买
-0#harvest  #n. 收获,成果,收获物 v. 收割,收获
-0#familiar #a. 熟悉的
-0#later #a. 更迟的,后面的ad. 稍后,后来
-0#training #n. 训练
-0#program #n. 节目,程序,计划;v. 规划,拟...计划,制作节目
-0#seize #vt. 抓住(时机等)
-0#city#n. 城市
-0#position #"n. 位置,职位,状态; v. 安置,决定...的位置"
-0#once again#再一次
-0#prefer#v. 较喜欢,宁可,提出
-0#favourite/favorite# a. 特别喜爱的 n. 特别喜爱的人(或物)
-0#be away from#vt. 离开(从...离去,,在远处远离)
-0#call on*#vt. 号召(约请,访问)
-0#China#n. 中国,瓷器
-0#field # a. 野外 n. 地,田地
-0#mountain#n. 山,山脉
-0#pronunciation #n. 发音
-0#change#n. 变化,零钱v. 改变
-0#soap#n.肥皂
-0#vi. 当电台的播音员 vt. 宣布,宣告 "#
-0#excite #v. 刺激,使...兴奋,激励
-0#recognise (recognize)#v. 承认,识别,认可
-0#evening    #n. 傍晚,晚上
-0#both…and…#既...又...,两个都
-0#defeat #n. 败北,失败v. 击败
-0#banana#n. 香蕉
-0#this#a. pron. 这,这个
-0#juice #n. 果汁
-0#due #n. 应得物a. 预定的,应付的,到期的,应有的
-0#comfortable#a. 舒适的
-0#fruit #n. 水果 v. 结果实
-0#beauty #n. 美,美丽,美人,美的东西
-0#scene #n. （戏剧、电影等的）一场，场景，布景
-0#small#adj.小的, 少的
-0#toilet#n. 厕所,盥洗室
-0#see off#送行
-0#ton#n. 吨
-0#heaven # n. 天堂
-0#chess*#n. 国际象棋
-0#out of#a. 来自(出自,从...当中,越出...范围外,失去)
-0#lifetime #n. 一生,终身
-0#need#n. 需要,必须,缺乏 v. 需要,必需 conj. 需要
-0#(and) so on#等等
-0#   on the left#ad. 在左边(方位词)
-0#activity*#n. 活动
-0#shirt#n.衬衫, 衬衣
-0#oneself# pron. 自己,自身
-0#spoon#n. 匙,匙形的铲子v. 以匙舀起,调情
-0#boy#n. 男孩
-0#island#a. 岛(国)的 n. 岛
-0#him #pron. 他(宾格)
-0#American#a. 美国的n. 美国人 
-0#night#n. 夜晚
-0#freedom  #n. 自由
-0#potato (pl. potatoes)#n. 马铃薯,土豆
-0#double #n. 两倍a. 两倍的,双重的v. 加倍的,快步走,加倍努力
-0#least#a. 最少的,最小的n.&ad. 最少,最小
-0#pretend #v. 假装,伪称
-0#seed #n.种子vt.播种, 结实, 
-0#comfort #n. 舒适,安慰,安慰者v. 安慰 
-0#now and then#时而,不时
-0#order#n.订单,命令 n. 顺序,整齐,勋章,阶级,决议 vt.命令,调整,定购
-0#task #n. 工作,任务
-0#lion #n. 狮子
-0#taxi#n. 计程车,出租汽车v. 乘计程车
-0#central #a. 中心的,中央的
-0#bit#n.一点儿,少量;v. 控制
-0#stone#a. 石制的n. 石头
-0#marvellous/marvelous*#a. 惊奇的
-0#scold #v.责骂, 申斥, 斥责
-0#drawer #n. 抽屉
-0#fifteen # num. 十五 pron.&a. 十五(个,只...)
-0#struggle #n. 竞争,努力,奋斗v. 努力,奋斗,挣扎
-0#help # n. 帮助,援助 v. 帮助
-0#ache #n. 痛v. 痛,渴望 
-0#manager #n. 经理
-0#human # a. 人的,人类的 n. 人
-0#right#n. 权利 a. 对，正确的 ad. 正确地，恰恰，完全地 a. 右，右边的
-0#praise #"n. 赞美,称赞,崇拜;  v. 称赞,归荣誉于,赞美"
-0#tap #n. 轻打,水龙头v. 轻打,轻敲,装上嘴子
-0#transfer* #n. 迁移,移动,换车v. 转移,调转,调任
-0#river# n.河, 江
-0#mix#n. 混合物,混乱v. 混合,弄混,与[计算机] 混合
-0#attempt #v.&n. 企图,试图vt. 尝试,试图 
-0#physics#n. 物理学
-0#burst (burst, burst)#n. 破裂,阵,爆发v. 爆裂,突发
-0#tell  (told, told)#v. 告诉,分辨，辨别
-0#silent #adj.寂静的, 沉默的, 无声的，无对话的
-0#navy #n. 海军
-0#pipe#"n. 管,烟斗,笛;  v. 以管输送,吹哨子,吹笛"
-0#snow#n.雪  vi.下雪
-0#body#n. 身体,主体,正文ad. 亲身地
-0#luck#n. 运气
-0#promise#"n. 诺言,约定,希望;v. 允诺,约定,预示"
-0#style* #n. 风格,时尚,字体v. 称呼,设计
-0#fence  fens ]  #n. 围墙,创术 v. 用篱笆围住,练习创术,防护
-0#since# ad. 从那时以来 conj. 从……以来，……以后，由于 prep. 从……以来
-0#Mr#n. 先生(Mister的缩写)
-0# a few # 有些,几个 pron. 一些
-0#similar #adj.相似的, 类似的
-0#chalk#n. 粉笔v. 用粉笔写,记录 
-0#march#vi. 行军,进军
-0#generation#n. 代,一代
-0#silk #n.丝绸
-0#birthplace #n. 诞生地
-0#prisoner #n. 囚犯
-0#blame #n. 过失,责备v. 责备
-0#back#a. 后面的v. 后退 ad. 向后地n.后背,背脊  
-0#search #n.& v. 搜寻，搜查
-0#Australian#a. 澳大利亚的n. 澳大利亚人 
-0#deliver#v. 递送,表达,释放,交付,接生
-0#   go by  #过去,经过,走过 v. 过去(时间),依照
-0#entrance  #n.入口v.使出神,使入迷  vt. 使出神
-0#assistant #a：助理的；辅助的ad：助手助理；助教，店员
-0#nervous #a. 紧张的
-0#in order #a. 整齐(秩序井然)
-0#tape #n. 录像带,录音带,磁带,带子v. 以带子绑起
-0#sure#a. 确信,必然的,必定的ad. 当然,确实地,无疑地
-0#attend #v. 参加,注意,照料
-0#book#n. 书v. 登记,预订 
-0#thinking #n. 思考,思想a. 思考的,有理性的
-0#measure#n. 措施,办法,量度,尺寸v. 测量,量
-0#Thursday#n. 星期四
-0#bring (brought, brought) #v. 带来
-0#add #v. 增加
-0#period #n. 学时,课时,一段时间,时期,周期,句点
-0#meat#n. 肉
-0#counter #n. 计算器,计算者,柜台a. 相反的ad. 与…相反地vt. 反对,反击vi. 反对,反击
-0#operation #n. 手术, 行动，活动, 操作
-0#tree#n. 树
-0#against#prep. 反对,靠,倚
-0#copy#n. 副本,幕仿,一册v. 复印,抄袭n.[计算机] DOS命令 : 复制或组合文件,拷贝
-0#perfect #a. 完美的,全然的,理想的 v. 使...完美,使...完善,使...熟练
-0#event  #n. 大事,事件
-0#sugar#n. 糖v. 加糖于
-0#cost  (cost, cost)#n. 代价,价值,费用v. 花费,值,需要[计算机] 费用
-0#dictionary#n. 词典,字典,辞典
-0#attention#n. 注意,(口令)立正!
-0#African#a. 非洲的,非洲人的n. 非洲人 
-0#   post office#邮局
-0#third#a. 第三(的)n. 三分之一num. 第三 
-0#supper#n. 晚餐
-0#land#n. 陆地,国土,土地v. 登陆,登岸,卸货
-0#bicycle (bike)#n. 自行车v. 骑自行车
-0#clear#a. 清楚的,明确的,澄清的v. 澄清,清除障碍,放晴 
-0#beard #n. 胡须
-0#fact#n. 实际,事实
-0#award*#n. 奖,奖品v. 授予,给予 vt. 授予
-0#shoe#n.鞋, 鞋子 
-0#exist #v. 存在
-0#   before long#不久以后
-0#onto #?prep. 到...上
-0#silly#adj.  傻的，愚蠢的
-0#passenger#n. 乘客,旅客
-0#fortnight  # n. 两星期
-0#foot (pl. feet) #n. 脚
-0#fresh #a. 新鲜的,无经验的,淡(水)的
-0#precious #a. 宝贵的,珍贵的
-0#director #n. 董事,经理,主管,指导者,导演
-0#hate # n. 憎恨,恨,厌恶 v. 憎恨,憎恶
-0#forget  (forgot, forgotten) # v. 忘记,忽略
-0#shelf (pl. shelves) #  n.架子, 搁板
-0#ship# n.船, 海船, 舰  v.装上船, 航运, 
-0#to#prep. (表示方向)到,向prep. (表示间接关系)给 
-0#block #n. 街区,木块,石块v. 阻塞 
-0#result#n. 结果,成绩,答案; v. 产生,起于,致使
-0#palace #n. 宫殿
-0#recover #v. 恢复,复原,补偿
-0#drink (drank, drunk)#n. 饮料v. 喝,喝酒
-0#fish # n. 鱼 v. 捕鱼,钓鱼
-0#picnic #"n. 野餐; v. (去)野餐"
-0#corn#n. (美)玉米,(英)小麦,谷物(中)包裹
-0#in front of #在...前面
-0#December#n. 十二月
-0#pay for #偿还,付款
-0#alone#a. 单独的,仅仅ad. 单独地
-0#and#conj. 和
-0#power #"n. 力量,势力,动力; v. 使...有力量,供以动力,激励"
-0#speed #n. 速度 v. （使）加速
-0#ours# pron. 我们的
-0#professor #n. 教授
-0#flag # n. 旗标,旗子,信号旗 v.枯萎,减退
-0#government #n. 政府
-0#advance #n. 前进,进步,预支v. 前进,增加,上涨 
-0#listen#v. 听
-0#quiet#n. 安静,闲适,平静; a. 安静的,静止的,宁静的:v. 静止,使...减少
-0#sort #n.种类, 类别  v.分类, 拣选
-0#ice # n. 冰,矜持 v. 冰冻,结冰
-0#reduce #v. 减少,分解,减低
-0#forbid  (forbade, forbidden) #v. 禁止,不准
-0#   keep on #vt. 继续进行(接连,反复,继续)
-0#joy#"n. 欢乐,喜悦,乐趣,乐事v. 欢乐,高兴,乐趣"
-0#   put down#记下
+0#celebrity#n. 名声,名人
+0#abuse#n. 滥用,恶习,辱骂vt. 滥用,辱骂,虐待
+0#journalism#n. 新闻业,报章杂志
+0#postulate#n. 假定,基本条件vt. 要求,假定vi. 要求
+0#simplistic#a. 过分单纯化的
+0#perseverance#n. 毅力,忍耐,不屈不挠
+0#comedy#n. 喜剧,有趣的事情
+0#hike#n. 徒步旅行,远足,提高vi.徒步旅行vt.使高涨
+0#presumption#n. 专横,放肆,可能性,推测,假定
+0#coast#n. 海岸,滑坡v. 沿海岸而行
+0#tactful#a. 机智的,老练的,委婉的
+0#proceed#vi. 进行,开始,起诉,继续进行
+0#plague#n. 瘟疫,麻烦,灾祸vt. 折磨,使苦恼,使得灾祸
+0#inexplicable#a. 不能说明的,不能解释的,费解的
+0#renown#n. 名声,声望vt. 使有声望
+0#chauvinist#n. 沙文主义者,盲目的爱国主义者
+0#insistent#a. 坚持的,迫切的,显著的
+0#unrealistic#a. 不切实际的,不实在的
+0#barnstorm#v. 在全国巡回演出,在乡区作演说旅行
+0#indefinitely #adv. 1 不明确地,模糊地2 无期限地
+0#inconclusive#a. 非决定性,不确定的,不得要领的
+0#profession#n. 职业,表白,声明,公开宣布
+0#impart#vt. 给予,传授,告知
+0#fossilize#vt. 使成化石,使陈腐vi. 变成化石,变陈腐
+0#irritate#vt. 激怒,使发怒,使不舒服,使发炎vi. 引起不快
+0#status#n. 状态,情形,地位,重要身份n. 状态
+0#corporation#n. 公司,合作,法人团体
+0#monumental#a. 纪念碑的,作为纪念的,不朽的
+0#bucket#n.桶，水桶；一桶的量
+0#deformity#n. 残缺,畸形,残障者
+0#callous#a. 麻木的,无情的,起老茧的vt.使麻木
+0#solution#n. 解决,解答,溶液
+0#interact#vi. 互相影响,交互作用n.幕间剧,幕间休息
+0#diplomatic#a. 外交的,老练的
+0#mayor#n. 市长
+0#awe#n. 敬畏vt. 使敬畏
+0#customs #n. 关税(风俗)
+0#publicize#vt. 宣传,公布,广告
+0#manner#n. 样子,礼貌,风格
+0#dominance#n. 1 优越2 权势; 支配; 优势
+0#protest#n. 主张,断言,抗议书v. 反对,抗议,断言
+0#burrow#n. 洞穴,藏身处vi. 掘洞穴,钻研vt. 掘,打洞
+0#hospitality#n. 款待,亲切,殷勤
+0#significance#n. 重要性,意味深长,意义
+0#inexorable#a. 无情的,冷酷的,不屈不挠的
+0#ridge#n. 脊,山脊,山脉
+0#shortage#n. 不足,缺乏
+0#amazement#n. 惊愕,惊异
+0#rotate#a. 轮状的vt. 使旋转,使转动,轮作vi. 旋转,循环
+0#morbid#a. 不健全的,病态的,疾病的,可怕的
+0#association#n. 协会
+0#manufacture#n. 产品,制造vt. 制造,假造vi. 制造
+0#implication#n. 含意,暗示
+0#scheme#n. 方案,计划,图解,阴谋v.图谋,策划
+0#rancher#n. 大农场经营者
+0#lament#n. 悲叹,悔恨,悼词,挽歌vt.哀悼vi.悔恨,悲叹
+0#provincial#n. 乡下人,地方人民a. 省的,地方的
+0#council#n. 会议,评议会
+0#detect#vt. 发现,察觉,探测
+0#interracial#a. 人种间的,人种混合的
+0#engage#vi. 答应,从事,交战vt.使忙碌,雇佣,使参加,使从事于
+0#stray#n. 走失的家畜,浪子a.迷途的,偶然的vi.迷路
+0#conscientious#a. 有责任心的,负责的,本着良心的
+0#voyager#n. 航行者,航海者
+0#sovereign#n. 元首,独立国a. 具有主权的,国王的
+0#deceptive#a. 迷惑的,虚伪的,欺诈的
+0#reliance#n. 信任,信赖,信赖的人或事
+0#booker#n. 登记旅馆、车票、机票、戏票等的人员
+0#earring#n. 耳环,耳饰
+0#predator#n. 掠夺者,食肉动物
+0#motivation#n. 动机,刺激,推动
+0#intermittent#a. 间歇的,断断续续的
+0#dioxide#n. 二氧化物
+0#influential#a. 有影响的,有势力的
+0#contemptuous#a. 轻蔑的,侮辱的,瞧不起人的
+0#inferiority#n. 自卑,次等
+0#condemnation#n. 非难,罪的宣告,非难的理由
+0#friction#n. 摩擦,医疗摩擦,不和
+0#cliff#n. 悬崖,绝壁
+0#theater#n.戏院,电影院,剧场,全体观众,戏剧,活动场所
+0#vague#a. 含糊的,不清楚的,茫然的
+0#unattractive#a. 无魅力的,乏味的,不美的
+0#decorate#v. 装饰
+0#demographic#a. 人口统计学的
+0#debut#n. 初次登场
+0#ineptitude#n. 不适当,愚笨,愚昧的言行
+0#majority#n. 多数,大半
+0#orbit#n. 轨道,常轨,眼眶vi. 进入轨道,盘旋
+0#civil#a. 市民的,公民的,有礼貌的
+0#initiate#n. 入会,开始a. 新加入的vt. 开始,传授
+0#reverse#n. 相反,背面,失败,挫折a.反面的,颠倒的v.反转
+0#intonation#n. 朗诵,语调,唱
+0#miniature#adj. 微型的,小规模的n. 缩图,微型画
+0#steadfast#a. 坚定的,踏实的,固定的,不变的
+0#manuscript#n. 手稿,原稿,底稿a. 手写的
+0#analogy#n. 相似,类似
+0#arises#v. 发生,出现,站立
+0#confuse#vt. 使混乱,使狼狈,使困惑
+0#extensive#a. 广的,广泛的,多方面的
+0#distrust#n. 不信任vt. 不信任
+0#disparage#vt. 蔑视,贬损
+0#unwillingness #n. 不愿意, 不情愿
+0#respond#vt. 回答vi. 回答,响应,承担责任,有反应,回报
+0#foolhardy#a. 愚勇的,有勇无谋的
+0#blink#vi. 眨眼,闪亮vt.眨眼,使闪亮n.瞬间
+0#insofar#ad. 在...的范围
+0#carbon#n. 碳,副本,复写纸
+0#introduction#n. 介绍,传入,初步
+0#portrait#n.肖像,人像,半身像,人物描写n. 纵向
+0#intricate#a. 复杂的,错综的,缠结的,难懂的
+0#excel#vt. 胜过,优于,擅长vi. 胜过其他
+0#landfill#n. (掩埋式) 垃圾处理场
+0#infection#n. 传染,影响,传染病
+0#frame#n. 框,结构,体格vt. 构成,设计,陷害,使适合,制定
+0#embroil#vt. 使卷入,牵连
+0#hence#ad. 因此,从此
+0#texture#n. 织法,组织
+0#appeal#n. 恳求,上诉,吸引力,要求vi.求助,要求vt.控诉
+0#condense#vt. 使浓缩,摘要,缩短vi. 浓缩,凝结
+0#comedic#a. 喜剧的
+0#pictorial#a. 绘画的,插图的n. 画报,插图杂志
+0#bacteria#n. 细菌
+0#blur#vt. 使模糊,弄脏vi. 弄脏,模糊
+0#illustrator#n. 插画家,图解者,说明者
+0#infatuation#n. 迷惑,迷恋,醉心
+0#oppressive#a. 压制性的,压迫的,沉重的
+0#institution#n. 机构,惯例,创立
+0#solitary#n. 独居者a. 孤独的,独居的
+0#remote#a. 遥远的,偏僻的,疏远的,细微的n. 远程
+0#blueprint#n. 蓝图,设计图,(周详的)计划vt.制成蓝图
+0#complicate#vt. 弄复杂,使错综,使起纠纷vi. 变复杂
+0#cover#n. 盖子,封面,vt. 覆盖,掩饰,包括
+0#materialistic#a. 唯物论的,唯物主义的
+0#embellish#vt. 修饰,装饰,润色
+0#ecosystem#n. 生态系统
+0#neatly#ad. 整洁地,干净地,灵活地
+0#repetitive#a. 重复的,反复性的
+0#identical#a. 同一的,恒等的,完全相同的
+0#attachment #n. 附着,附属物,爱慕
+0#obligation#n. 义务,责任,恩惠,契约,约束
+0#senator#n. 参议院议员,上议院议员,现任参议员
+0#shrewd#a. 精明的,锐利的,厉害的,机灵的
+0#vicious#a. 邪恶的,堕落的,品性不端的,有错误的,恶性的
+0#condescend#vi. 谦逊,屈就,堕落
+0#reverence#n. 尊敬,敬重,威望,尊严vt. 崇敬,敬畏,尊敬
+0#creator #n. 创建者
+0#label#n. 标签,签条,商标vt. 贴标签于,分类n.标志
+0#penalty#n. 刑罚,罚款,报应
+0#accessory#n. 附件,同谋a. 附属的,同谋的
+0#droop#vi. 下垂,消沉vt. 使下垂n. 低垂,消沉
+0#recognition#n. 赞誉,认得,承认,重视,认识,认可
+0#chatter#n.v. 饶舌,喋喋不休的谈
+0#imaginary#a. 想象的,虚构的,假想的
+0#sarcasm#n. 挖苦,讽刺
+0#yearn#vi. 渴望,想念,怀念
+0#nest#n. 巢,窝,休息所,隐匿处vi. 筑巢,找鸟巢vt.使套入
+0#surrender#vt. 交出,放弃,听任,让与vi. 投降,自首n. 交出,放弃
+0#essence#n. 基本,本质,精髓,香精
+0#anecdotal#a. 逸话的,多逸事趣闻的,轶事一样的
+0#regime#n. 政权,当权期间,政体,社会制度
+0#sprawl#vi. 伸开手足躺,爬行vt. 懒散地伸开
+0#sinister#a. 不吉利的,凶恶的,左边的
+0#compassionate#a. 慈悲的,富于同情心的vt.怜悯,同情
+0#tire#n. 轮胎,头饰vt.使疲倦,梳理vi.疲劳,厌倦
+0#hybrid#n. 混血儿,杂种,混合物a. 混合的,杂种的
+0#familiar#a. 熟悉的,常见的,亲密的n. 熟友,常客
+0#opposition#n. 反对,敌对,相反,在野党
+0#idealistic#a. 唯心论的,唯心主义的唯心主义者的
+0#alternative#n. 二中择一,变通办法a. 二中择一的,选择性的
+0#tame#a. 驯服的,柔顺的,顺从的vt. 驯养
+0#inbred#a. 天生的,生来的,同系繁殖的
+0#appointment#n. 约会,指定
+0#dynamic#a. 动态的,有动力的,有力的,动力的n.动力,动态
+0#intentional#a. 企图的,策划的,故意的
+0#tedious#a. 沉闷的,冗长乏味的
+0#concentrate#n. 浓缩,精选v. 集中,专心,浓缩
+0#sonnet#n. 十四行诗
+0#conic#a. 圆锥的,圆锥形的
+0#seal#n. 印章,封条,海豹,火漆vt.封闭,盖印
+0#arbitrary#a. 任意的,恣意的,专制的
+0#occasionally#ad. 有时候,偶尔
+0#crack#n. 裂缝,爆裂声vi.(使)爆裂,(使)裂开
+0#stretch#n. 伸展,张开 a. 可伸缩的,弹性的vt.伸展,张开
+0#wary#a. 小心的,机警的,周到的,唯恐的
+0#astronomer#n. 天文学家
+0#sufficiently#adv. 1 充分地2 足够<做…>地
+0#novelist#n. 小说家
+0#substantiate#vt. 使实体化,证实
+0#captivate#vt. 迷住,迷惑
+0#generalization#n. 一般化,普遍化,概括
+0#exclusively#adv. 1 专门地,完全地,仅2 排他性地,独占性地
+0#prolong#vt. 延长,拖延,拖长
+0#impressive#a. 给人深刻印象的,感人的
+0#crib#n. 婴儿小床,食槽,栅栏vi. 抄袭vt. 拘禁
+0#prosperity#n. 繁荣,幸运,成功
+0#struggle#n. 竞争,努力,奋斗vi. 努力,奋斗,挣扎
+0#authoritative#a. 权威的,有权威的,命令式的
+0#representation#n. 表示法,表现,陈述,请求,继承,扮演,代表
+0#rebellious#a. 造反的,反抗的,难控制的
+0#biological#a. 生物学的
+0#jam#n. 果酱,拥塞之物,堵塞vt.挤进vi.堵塞,轧住
+0#displace#vt. 移置,替换,转移
+0#entity#n. 实体,实存物,存在
+0#accuse#vt. 责备,控告,谴责
+0#influence#n. 影响力,权力,势力vt. 影响,改变
+0#conceive#vt. 构思,以为vi. 怀孕
+0#subversive#a. 从事颠覆的,破坏性的n. 破坏分子,危险分子
+0#mastery#n. 征服,统治权,精通,掌握
+0#cosmopolitan#adj.世界主义的,四海为家的n.世界主义者
+0#contend#vi. 奋斗,斗争,竞争vt.为...斗争
+0#habitual#a. 习惯的,惯常的,平常的
+0#solar#a. 太阳的,日光的,源自太阳的
+0#crisp#a. 脆的,新鲜的,活泼的v.(使)烘脆,(使)卷曲
+0#condone#vt. 赦,宽恕
+0#decomposer#n. 分解者
+0#spoil#n. 战利品,赃物vt. 损坏,破坏,溺爱vi.腐坏
+0#steam#n. 蒸汽,精力a. 蒸汽的vi.蒸发,行驶,发怒
+0#stubborn#a. 顽固的,不听话的,执拗的,棘手的
+0#icon#n. 圣像,画像,图标,偶像,肖像n. 像标
+0#presence#n. 出席,面前,态度,风度
+0#elicit#vt. 引出,抽出,引起
+0#propaganda#n. 宣传,宣传活动,宣传机关
+0#generic#a. 一般的
+0#standard#n. 标准,规格,本位,军旗a.标准的,合规格的
+0#unaware#a. 不知道的
+0#perpetuate#vt. 使永存,使不朽
+0#segregation#n. 种族隔离
+0#appreciation#n. 赏识,鉴识,感激
+0#cart#n. 二轮运货马车vi. 驾运货马车
+0#controversial#a. 争论的,论争的,被议论的
+0#tamper#vi. 干预,玩弄,贿赂,窜改vt.窜改
+0#curiosity#n. 好奇心,新奇的事物,珍品
+0#disintegration#n. 瓦解
+0#empower#vt. 授予权力,允许,使能够
+0#suspense#n. 悬疑,焦虑,悬念,悬而不决
+0#flask#n. 细颈瓶,烧瓶,小水瓶
+0#approximately#ad. 大约,大致,近乎
+0#device#n. 装置,设计,策略,发明物n. 设备
+0#inclusion#n. 包含,内含物
+0#caller#n. 访客,召集员,传唤员a. 新鲜的
+0#guilty#a. 犯罪的,心虚的
+0#universal#a. 全世界的,普遍的,,通用的n. 一般概念
+0#vision#n. 视觉,先见之明,视力vt.梦见,想象
+0#perceive#vt. 感觉,认知,理解
+0#thematic#a. 题目的,主题的,主旋律的
+0#major#n. 主修课,成年人,陆军少校a.主要的,严重的vi.主修
+0#envision#vt. 想象,预想
+0#coercion#n. 强迫,威压,高压政治
+0#dimension#n. 尺寸,次元,容积,维数vt. 表出尺寸
+0#quote#n. 引用vt. 引述,举证,报价vi. 引用
+0#tropic#n. 回归线,热带a. 热带的
+0#inflexible#a. 不屈曲的,不屈挠的,顽固的
+0#fragile#a. 易碎的,脆的
+0#barrier#n. 障碍,栅栏
+0#degrade#v. (使)降级,(使)堕落,(使)退化
+0#professional#n. 专业人才a. 专业的,职业的
+0#momentous#a. 重大的,重要的
+0#aboard#ad. 在船上,在火车上,在飞机上
+0#inspire#vt. 使感动,激发,启示,吸入,使生灵感
+0#wrist#n. 手腕,腕关节
+0#imagery#n. 肖像,比喻,雕刻
+0#querulous#a. 鸣不平的,发牢骚的,易怒的
+0#observe#vt. 观察,遵守,注意到,纪念vi. 注意,评论
+0#discord#n. 不调和,不和vi. 不一致,倾轧
+0#fission#n. 裂开,分裂,分体
+0#consultant#n. 顾问,商议者
+0#differ#vi. 不一致,不同
+0#expand#vt. 使膨胀,详述,扩张vi. 张开,发展v. 展开
+0#incompetent#a. 无能力的,无力的,不胜任的n.无能力者
+0#articulate#a. 有关节的,发音清晰的vt.接合,明白地说
+0#singular#n. 单数a. 异常的,单一的
+0#proposition#n. 建议,命题,主张vt. 向...提议
+0#tone#n. 音调,语调,色调,品质,气氛vt.调和,增强
+0#obstinacy#n. 倔强,顽固,固执
+0#villain#n. 坏人,恶根
+0#renowned#a. 有名的,有声誉的
+0#recording#a. 记录的,记录用的n. 录音
+0#somehow#ad. 不知何故
+0#fundamentally#adv. 根本地,完全地,从基础上
+0#intuitive#a. 直觉的
+0#differentiate#v. 区别,区分
+0#inaccessible#a. 难接近的,难达到的,难达成的
+0#drapery#n. 帷帐,布料
+0#monarch#n. 帝王,统治者,元首
+0#divergent#a. 分歧的
+0#invariable#n. 不变的东西,常数a. 不变的,不易的,常数的
+0#independently#ad. 独立地,自立地
+0#absence#n. 缺乏,没有,缺席
+0#unique#a. 独一无二的,独特的
+0#criticism#n. 批评,评论,非难
+0#determinant #n. 判定,决定因素
+0#cajole#vt. 以甜言蜜语哄骗,勾引
+0#diagnosis#n. 诊断
+0#nuance#n. 细微差别
+0#mute#n. 哑巴,弱音器a. 哑的,无声的,沉默的
+0#domesticity#n. 专心于家务,对家庭的挚爱,家庭生活
+0#beard#n. 胡须vt. 使长胡须,公开反对
+0#prefer#vt.宁可,较喜欢,提出
+0#ancillary#a. 补助的,副的
+0#deceitful#a. 欺诈的
+0#reliable#a. 可靠的,可信赖的
+0#imply#vt. 暗示,意味
+0#ornament#n. 装饰,装饰,教堂用品vt. 装饰,修饰
+0#overemphasis#n. 过分的强调v. 过分强调
+0#arid#a. 干燥的,不毛的
+0#reiterate#vt. 反复地说,重申,反复地做
+0#threat#n. 恐吓,噩兆,威胁
+0#quell#vt. 压制,平息,减轻
+0#pundit#n. 学者,梵学者,博学的人,权威
+0#aristocrat#n. 贵族
+0#auntie#n. 伯母,阿姨,姑妈
+0#defy#vt. 藐视,挑衅,使落空n. 挑战
+0#outlet#n. 出口,发泄的方法,代销店
+0#garage#n. 车库,汽车修理厂,机库vt. 把车送入修车场
+0#foe#n. 仇敌,反对者,敌人
+0#muckraker#n. 探听丑闻的人
+0#remorseful#a. 极为后悔的,懊悔的
+0#offense#n. 犯罪,伤感情,攻击
+0#ambiguous#a. 暧昧的,不明确的
+0#according#ad. 根据
+0#pragmatist#n. 实用主义者,爱管闲事的人
+0#purpose#n. 目的,意向,决心,论题,意义vt. 意欲,企图
+0#require#vt. 需要,命令,要求
+0#camouflage#vt. 伪装,欺瞒n. 伪装,隐瞒,幌子
+0#glorify#vt. 赞美,美化,赞扬,使辉煌
+0#copepod#n. 桡脚类的动物
+0#bar#n. 条,棒,障碍物,栅,酒吧vt. 禁止,阻挡,妨碍
+0#commonplace#n. 常事,老生常谈,普通的东西a. 平凡的,陈腐的
+0#formidable#a. 强大的,可怕的,艰难的
+0#expression#n. 表达,语法,措辞
+0#occupation#n. 职业,占有,占有期间
+0#opposite#a. 相对的,相反的prep. 对面n. 对立面
+0#ridicule#n. 嘲笑,愚弄,笑柄vt. 嘲笑,嘲弄,愚弄
+0#affection#n. 爱,情感,影响,病
+0#liken#vt. 比喻,比拟,使象
+0#deplete#vt. 耗尽,使衰竭
+0#nonchalant#a. 不关心的,冷淡的,平静的
+0#likelihood#n. 可能,可能性
+0#sculpture#n. 雕刻,雕塑vt. 雕刻,雕塑vi. 当雕刻师
+0#archaeologist#n. 考古学家
+0#caffeine#n. 咖啡因,茶精(兴奋剂)
+0#resolution#n. 解析,决心,坚定,决定,提案,消除,转变
+0#censorship#n. 检查制度
+0#supporter#n. 支持者,后盾,伴随者
+0#symmetry#n. 对称,调和,匀称
+0#lemur#n. 狐猴
+0#irresponsible#a. 不负责任的,不可靠的
+0#melt#n. 熔化,熔化物,溶解v (使)熔化,(使)溶解
+0#refer#vt. 提交,谈及,使求助于,归诸于vi.提到,涉及
+0#expansion#n. 扩充,开展,膨胀
+0#inclination#n. 倾向,意愿,倾斜度,点头
+0#trustee#n. 受托人,理事
+0#politics#n. 政治,政治学,政见,政治活动
+0#motivate#vt. 给予动机,刺激,提高...的学习欲望,促动
+0#theorist#n. 理论家,空谈家
+0#forlorn#a. 孤独的,悲惨的,凄凉的
+0#scrupulous#a. 小心谨慎的,细心的
+0#scope#n. 范围,机会,广度,导弹射程,观察仪器,眼界
+0#contemporary#n. 同时代的人a.同时代的,属于同一时期的
+0#autonomous#a. 自治的
+0#superintendent#n. 监督人,管理人,所长
+0#deliberately#ad. 故意地
+0#obstruct#vt. 阻隔,妨碍,阻塞vi. 设障碍
+0#navigation#n. 航行,航海,导航
+0#expedient#n. 权宜之计,临时手段a. 权宜的,方便的,有用的
+0#volunteer#n. 志愿者a. 志愿的v. 自愿
+0#trash#n. 垃圾,废物vt. 废弃
+0#vocal#a. 声音的,有声的,歌唱的n. 元音,声乐作品
+0#allusion#n. 提及,暗示
+0#regulate#vt. 有系统的管理,规定,使整齐,调整,调节
+0#perplex#vt. 使困惑,使复杂化,使为难
+0#superficial#n. 表面,外表a. 表面的,肤浅的,面积的
+0#splinter#n. 碎片,尖片,刺,微小的东西v.劈开,(使)破裂
+0#apprehend#vt. 理解,忧虑,逮捕vi. 理解
+0#egalitarian#a. 平等主义的n. 平等主义
+0#mow#n. 草堆,皱眉,怪脸vt. 割草,扫射
+0#hostility#n. 敌意,敌对,反对
+0#tribal#a. 部落的,种族的
+0#gender#n. 性vt. 产生
+0#preservation#n. 保存,贮藏,保护
+0#emission#n. 发射,射出,发行
+0#snap#vt. 咬断,猛咬,争夺,拉断vi. 抓,折断
+0#sacred#a. 神圣的,上帝的,庄严的,祭祀的
+0#detective#n. 侦探a. 侦探的
+0#bioluminescence#n. 生物体之发光
+0#eclectic#n. 折中主义者,折中派的人a.折衷的
+0#marvel#n. 奇异的事物,罕见的例子vt.惊异于
+0#fatal#a. 致命的,重大的,命运注定的,不幸的
+0#playful#a. 爱打趣的,多趣的,嬉戏的
+0#thumb#n. 拇指vt. 以拇指拨弄,笨拙处理
+0#automatically#ad. 自动地,机械地
+0#demagogue#n. 煽动者,群众煽动者
+0#spectacle#n. 值得看的东西,光景,公开展示,场面
+0#chord#n. 弦,和音,情绪
+0#debate#n. 辩论,讨论v. 争论,辩论
+0#subtle#a. 敏感的,精细的,狡猾的,微妙的,精巧的
+0#seclude#vt. 使隔离,使孤立,隔开
+0#perfection#n. 完美,完成,极致
+0#narrator#n.叙述者,讲述者,讲故事的人
+0#backlash#n. 反斜线,后座
+0#enlist#vt. 征募,参与,谋取vi. 从军,应募,赞助
+0#irresolute#a. 无决断的,优柔寡断的,踌躇不定的
+0#orangutan#n. 猩猩
+0#obscure#a. 微暗的,难解的,偏僻的vt.使阴暗,隐藏
+0#compound#n. 混合物,复合字a. 复合的vi. 混合
+0#harmony#n. 协调,和睦,调和
+0#discomfort#n. 不便之处,不适
+0#fingerprint#n. 指纹vt. 采指纹
+0#apart#ad. 分别地,分开的
+0#sublime#a. 壮观的,卓越的v. 提高
+0#convey#vt. 传达,运输,转移
+0#pretension#n. 自负,骄傲,主张
+0#prompt#n. 提示,提醒a.迅速的,敏捷的vt.激励,鼓动
+0#entangle#vt. 使纠缠,卷入,使混乱
+0#genetically#adv. 遗传上地
+0#downright#a. 明白的,率直的,显明的ad. 全然,彻底,完全
+0#leopard#n. 豹,美洲豹
+0#connoisseur#n. 鉴识家,鉴定家,内行
+0#overtime#n. 超时,加班,延长时a. 超时的,加班的
+0#venture#n. 冒险,风险vt.敢于,冒...的危险vi. 冒险
+0#selectman#n. 行政委员
+0#distortion#n. 扭曲,变形,曲解
+0#stalk#n. 茎,追踪,高视阔步vt. 追踪,搜索
+0#rouse#n. 觉醒,奋起vt.唤醒,鼓舞,惊起vi.醒来,奋起
+0#visual#a. 视觉的
+0#costly#a. 昂贵的,奢华的,费用大的
+0#duplicate#n. 副本,复本,复制品vt. 复制
+0#immerse#vt. 沉浸,使陷入
+0#dispel#vt. 驱散,驱逐
+0#lyceum#n. 学园,学会
+0#mundane#a. 现世的,世俗的,宇宙的
+0#triumph#n. 凯旋,胜利,欢欣vi. 得胜,成功
+0#classify#vt. 分类,归类,分等
+0#unlikely#a. 不太可能的
+0#plagiarism#n. 剽窃,剽窃物
+0#perish#vi. 毁灭,死亡,腐烂vt.毁坏,使麻木
+0#deride#vt. 嘲弄,嘲笑
+0#rebellion#n. 谋反,叛乱,反抗
+0#elementary#a. 初步的,基本的
+0#qualify#vi. 取得资格,有资格vt.使合格,准予
+0#prove#vt. 证明,查验,显示,勘探vi.证明是
+0#testimony#n. 证言,证据,声明
+0#thrill#n. 震颤,激动,刺激性vi. 震颤,抖颤,激动
+0#popularize#vt. 使成通俗性,使平易,使普及vi. 通俗化
+0#suburban#adj. 1 (住于) 郊外的,市郊的2 市郊特有的
+0#somewhat#n. 某物,几分ad. 多少,几分
+0#properly#ad. 适当地,相当地,当然地
+0#substantiate#vt. 使实体化,证实
+0#disease#n. 疾病,弊病
+0#organization#n. 组织,结构,团体
+0#excursion#n. 远足,游览,短程旅行
+0#eulogy#n. 赞词,颂德文
+0#extravagant#a. 奢侈的,挥霍无度的,浪费的
+0#neutral#n. 中立者,中立国a.中立的
+0#industry#n. 工业,企业,产业,勤劳
+0#originate#vt. 开始,发明,发起vi. 发源,发生v. 发自
+0#clash#n. 冲突,撞击声,抵触vi. 冲突,抵触
+0#supposedly#adv. [修饰整句]一般相信,传闻
+0#desirable#a. 令人想要的
+0#internal#a. 内在的,国内的
+0#intake#n. 引入口,入口,通风口
+0#conjecture#n. 推测,猜想,揣摩v. 推测,猜想,揣摩
+0#bumblebee#n. 大黄蜂
+0#acoustic#a. 听觉的,声学的,音响学的
+0#suspicious#a. 可疑的,疑惧的,怀疑的
+0#evolution#n. 进化,发展,进展,开方
+0#illogical#a. 不合逻辑的,不合理的
+0#consumption#n. 消费,消费量,憔悴
+0#unchecked#a. 未加抑制的a. 未选中的
+0#transformation#n. 变形,变质,变化,变压,转变
+0#derive#vt. 得自vi. 起源
+0#antic#n. 滑稽动作a. 小丑的
+0#unconsciously#ad. 无意识地,无意中,不知不觉
+0#scenic#a. 风景好的,戏剧性的,舞台的,布景的
+0#protein#n. 蛋白质a. 蛋白质的
+0#explore#v. 探险,探测,探究
+0#combination#n. 组合,合并,联合n. 组合图
+0#plastic#n. 塑胶,可塑体,整形a.塑胶的,有可塑性的
+0#fissure#n. 裂缝,裂沟v. (使)裂开,(使)分裂
+0#participant#n. 参加者,参与者;有关系者[in] adj. 参与的
+0#detach#vt. 分离,分遣
+0#thoughtful#a. 深思的,体贴的
+0#cub#n. 幼兽,年轻人
+0#toll#n. 通行费,代价,钟声vt征收,鸣钟vi.征税
+0#revitalize#vt. 使恢复生气,使复活,使复兴
+0#perceptual#a. 知觉的,有知觉的
+0#copper#n. 铜,警察
+0#hollow#n. 洞,窟窿,山谷a.空的,虚伪的,空腹的
+0#bypass#n. 旁路vt. 省略,绕过,忽视,回避
+0#arc#n. 弧,弧形,弓形
+0#thereby#ad. 因此，从而
+0#alienate#vt. 使疏远,离间,让与
+0#comet#n. 彗星
+0#clientele#n. 诉讼委托人,客户
+0#genealogist#n. 系谱学者,系谱专家
+0#acclaim#n. 喝彩,欢呼,赞同v. 欢呼,喝彩,称赞
+0#recessive#a. 退行的,逆行的,后退的,隐性的
+0#impetuous#a. 冲动的,猛烈的,轻率的,急躁的
+0#breed#n. 种类,品种v. 养育,引起,饲养,繁殖
+0#discourse#n. 谈话,演讲vi. 谈论,演说
+0#blend#vt. 混合n. 混合
+0#colony#n. 殖民地,侨民
+0#evidence#n. 证据,迹象
+0#crisis#n. 危机,危险期,紧要关头
+0#exquisite#a. 精致的,细腻的,敏锐的
+0#profitable#a. 有利润的,有利益的,赚钱的
+0#improper#a. 不合适的,错误的,不道德的
+0#tactic#n. 战略,策略a. 顺序的,排列的
+0#pour#n. 流出,倾泻vt.倒,倾吐,倾泻vi. 倾泻
+0#compensation#n. 补偿,赔偿金,薪资
+0#excerpt#n. 摘录,引用vt. 摘录,引用
+0#survey#n. 纵览,视察,测量,俯瞰vt. 审视,视察
+0#annoyance#n. 烦恼,可厌之事
+0#particular#n. 个别项目,详细说明a. 特别的,独有的,挑剔的
+0#lengthy#a. 冗长的,漫长的
+0#branch#n. 树枝,支店,部门,分部,支流vt. 分割
+0#advent#n. 来到,来临,耶稣降临时
+0#extraordinarily#adv. 1 异常地2 格外地,非常地
+0#exclude#vt. 除外,排除,拒绝,排斥
+0#announcer#n. 广播员,告知者
+0#buoyancy#n. 1 浮力; 浮性2 乐天的性格，恢复力,开朗
+0#kite#n. 风筝,高而轻的帆,空头支票,骗子
+0#religious#a. 宗教性的,虔诚的,宗教上的n.修道士,出家人
+0#lend#vt. 借,贷款给,出租,提供,增添vi.贷款
+0#visually #adv. 依据视觉地; 可见地
+0#disapproval#n. 不赞成
+0#warrant#n. 正当理由,根据,证明,凭证vt.保证
+0#justify#vt. 替...辩护,证明vi. 证明合法
+0#anarchist#n. 无政府主义者
+0#charm#n. 吸引力,魔力,符咒vt.迷住,使陶醉,行魔法
+0#insidious#a. 隐伏的,阴险的,狡猾的
+0#agency#n. 代理,媒介,经销商
+0#cirque#n. 天然的圆形剧场,圆环,圈谷
+0#additional#a. 附加的,另外的
+0#various#a. 不同的,各种的,多方面的,杂色的,个别的,许多的
+0#extraterrestrial #adj. 地球以外的  地球以外的生物
+0#somber #adj.  a. 阴暗的,发黑的b.暗色的,朴素的
+0#reticent#a. 无言的,沉默的,谨慎的
+0#disposal#n. 处理,排列,支配,布置
+0#terrain#n. 地带,地域,范围,领域
+0#shabby#a. 衣衫褴褛的,不体面的,卑鄙的,吝啬的,破旧的
+0#disparate#a. 不同的,全异的,乖离的n.无法相比的东西
+0#innocent#a. 无罪的,不懂事的,无知的n.笨蛋
+0#determine#v. 决定,决心
+0#indignation#n. 愤怒,愤慨,义愤
+0#bacillus#n. 杆状菌,细菌
+0#hallmark #n. 纯度检验证明,品质证明vt.加盖纯度检验证明
+0#temperance#a. 温暖的,温和的,有节制的
+0#editorial#n. 社论,评论a. 编辑的,主笔的,社论的
+0#stun#vt. 使晕倒,使惊吓,打晕n. 晕眩,猛击
+0#usage#n. 用法,使用,利益,惯例
+0#appointment#n. 约会,指定
+0#agreeable#a. 愉快的,和蔼可亲的,同意的
+0#apparent#a. 显然的,外观上的
+0#comb#n. 头梳,鸡冠vt. 梳头发,梳毛vi. (浪)涌起
+0#unrest#n. 不安的状态,动荡的局面
+0#offensive#a. 令人不快的,侮辱的,攻击用的
+0#accompaniment#n. 自然的伴随物,陪伴物,伴奏
+0#partial#a. 部分的,偏袒的,偏爱的n. 泛音
+0#rattlesnake#n. 响尾蛇
+0#imminent#a. 即将来临的,逼近的
+0#evolve#vi. 进展,进化,展开vt. 使发展,推论,使进化
+0#integrate#vt. 综合,使结合,使成整体a.完整的,完全的
+0#tyrannical#a. 暴虐的,压制的,残暴的
+0#reconcile#vt. 使和解,调停,使和谐,使听从,使顺从,使一致
+0#ethnic#adj. 1 民族的2 民族特有的，少数民族的成员
+0#cryptic#a. 秘密的,神秘的,含义模糊的,隐藏的
+0#tap#n. 轻打,水龙头vt.轻打,使流出vi.轻叩,轻拍
+0#ingredient#n. 成分,因素
+0#optimistic#a. 乐观的,乐观主义的,乐天的
+0#belligerent#a. 好战的,交战的,交战国的
+0#atop#ad. 在顶上prep. 在...的顶上
+0#enact#vt. 制定法律,扮演,颁布
+0#astute#a. 机敏的,狡猾的
+0#permanently#adv. 永存地, 不变地
+0#adventurous#a. 喜欢冒险的,大胆的,惊险的
+0#compensate#v. 偿还,补偿,付报酬
+0#ascertain#vt. 确定,探知
+0#commitment#n. 委托,实行,承担义务,赞助
+0#anachronistic#a. 时代错误的
+0#flank#n. 侧面,侧腹vt.攻击侧面,面临着
+0#ruin#n. 毁灭,推翻,废墟vi.毁灭,破产,破坏
+0#comparable#a. 可比较的,比得上的
+0#comprehend#vt. 理解,包括
+0#pedestrian#n. 行人,步行者a. 徒步的,呆板的,通俗的
+0#molecule#n. 分子,些微
+0#intimacy#n. 亲密,熟悉,亲昵行为
+0#manorial#a. 庄园的
+0#token#n. 表征,记号,代币a. 象征的,表意的
+0#pitch#n. 程度,坡度,音高vi.搭帐篷,
+0#durability#n. 耐久性[力],持久性[力],坚牢
+0#constitution#n. 组织,宪法,体格
+0#option#n. 选择权,挑选n. 选项
+0#retrospect#n. 回顾,追忆,回溯v. 回顾,追忆
+0#ambitious#a. 有野心的,抱负不凡的,雄心勃勃的
+0#switch#n. 开关,电闸,转换,软枝vt.转变,切换
+0#observer#n. 观察者,遵守者,评论者
+0#hoop#n. 箍,铁环,呼呼声vt. 加箍于,包围
+0#dominate#v. 支配,占优势
+0#omit#vt. 省略,删除,疏忽,遗漏
+0#absurd#a. 荒谬的,不合理的,可笑的
+0#stamp#n. 印,邮票,打印器,戳子,图章
+0#ultimate#n. 终极,根本,顶点,基本原理a. 终极的,极限的
+0#symptom#n. 症状,征候,征兆
+0#routine#n. 常式,日常工作,惯例a.日常的,常规的
+0#couch#n. 长椅,睡椅,卧榻vt. 横躺,暗示,蹲伏
+0#audacious#a. 大胆的,无礼的,无耻的
+0#invent#vt. 发明,创作,虚构
+0#conversational#a. 会话的,对话的,健谈的
+0#introductory#a. 介绍的,引导的,开端的
+0#summon#vt. 召唤,召集,号召,鼓起,唤起
+0#undertake#vt. 从事,保证,接受,同意,承担
+0#import#n. 进口货,进口,重要性,意义vt.输入,进口
+0#victim#n. 受害人,牺牲者,牺牲品
+0#forge#n. 熔炉,铁工厂vt.打制,锻炼,伪造
+0#commercial#a. 商业的,商用的,商品化的n. 广告节目
+0#artistically#ad. 有艺术地,在艺术上
+0#anxious#a. 忧虑的,热心的,渴望的
+0#hallway#n. 走廊
+0#activist#n. 活跃分子
+0#disapprove#v. 不赞成
+0#constituent#n. 成分,选民,构成物a. 构成的,组织的,有提名权的
+0#bias#n. 偏见,斜线a.ad. 斜(的)vt. 使有偏见
+0#genuine#a. 真正的,真实的,诚恳的
+0#embitter#vt. 使受苦,使难受,使怨恨,加苦味于
+0#unethical#adj. 1 不道德的2卑鄙的
+0#manifest#n. 载货单a. 显然的,明白的vi.显示vt.表明,表现
+0#fray#n. 磨损,打架,争论vt. 使磨损vi. 被磨损
+0#soda#n. 苏打,碳酸水
+0#entail#vt. 使必需,使蒙受,遗传给n.限定继承权
+0#predict#v. 预知,预言,预报
+0#secrete#vt. 隐秘,隐藏,隐匿,分泌
+0#individuality#n. 个性,人格,特征
+0#achieve#vt. 完成
+0#chromosome#n. 染色体
+0#draft#n. 气流,草稿,汇票,草案vt. 起草,征兵n. 草稿
+0#cello#n. 大提琴
+0#skunk#n. 臭鼬鼠,其皮毛,讨厌鬼vt. 使惨败,欺骗
+0#continuous#a. 连续的,继续的,连续不断的a. 连续的
+0#reproduction#n. 再现,复制,复制品,繁殖,生殖
+0#irritation#n. 刺激,烦恼,刺激物
+0#accusation#n. 控告,指控,非难
+0#modesty#n. 谦逊,质朴,羞怯
+0#rival#n. 对手,竞争者a. 竞争的
+0#ecology#n. 生态学,社会生态学
+0#ensure#vt. 确定,保证,担保,保护
+0#pessimistic#a. 悲观的,厌世的
+0#decisive#a. 决定性的,坚定的,果断的
+0#compromise#n. 妥协,折中,折中案,和解vi. 妥协处理vt. 危害
+0#casual#a. 偶然的,不经意的,便装的n.临时工,待命士兵
+0#loyalty#n. 忠贞,忠诚,忠实
+0#cacophony#n. 不愉快的音调,不和谐音,杂音
+0#repeatedly#ad. 重复地,再三地
+0#uncover#vt. 揭露,揭开,暴露vi.揭去盖子
+0#dominant#a. 占优势的,支配的
+0#adhere#vi. 依附,粘着,坚持,
+0#dramatize#vt. 改编成戏剧,编写剧本vi. 戏剧式地表现
+0#frontier#n. 边界,边境
+0#script#n. 手迹,手稿,副本vt. 改编为演出本
+0#stake#n. 桩,炮烙刑,奖金,赌注vt. 打桩vi. 打赌
+0#persuade#vt. 劝,使相信,说服vi. 被说服
+0#splendid#a. 光亮的,灿烂的,杰出的,显著的
+0#incident#n. 事件,事变a. 附带的,易于发生的,外来的
+0#corroborate#vt. 使坚固,确证
+0#reflect#vt. 反射,招致,想到,思考vi.反射,映出,思考
+0#beneficial#a. 有益的
+0#illuminate#vt. 照明,阐明,用灯装饰,使灿烂,说明vi. 照亮
+0#nutritious#a. 有营养成分的,营养的
+0#barbecue#n. 烤肉vt. 烤肉,烧烤
+0#descriptive#a. 描述的,叙述的
+0#restlessness #n. 不安定; 烦躁不安; 躁动不安; 辗转不安
+0#pliable#a. 易曲折的,柔软的,圆滑的
+0#intrusive#a. 打扰的,插入的
+0#allude#vi. 暗示,提及
+0#emerge#vi. 浮现,形成,(事实)显现出来
+0#docile#a. 容易教的,温顺的
+0#humdrum#a. 平凡的,单调的,无聊的n. 平凡,单调,无聊
+0#demolition#n. 破坏,毁坏,毁坏之遗迹
+0#trivialize#vt. 使平凡,使琐碎
+0#concede#vt. 承认,退让vi. 让步
+0#confinement#n. 限制,禁闭,坐月子
+0#negative#n. 否定,否定语,底片a.否定的,消极的,负的n.负数
+0#previously#adv. (无比较级、最高级)以前,事先,预先
+0#infancy#n. 幼年,初期,幼儿期
+0#concur#vi. 意见相同,一致,互助
+0#versatile#a. 多才多艺的,万用的,万向的
+0#serene#a. 宁静的,沉着的,晴朗的n. 晴朗
+0#beverage#n. 饮料
+0#technically#ad. 技术上,学术上,专门地
+0#revenue#n. 收入,岁入,税务局,税收,岁入细目
+0#positively #adv. 明确地; 断然地2 实际上; 建设性地
+0#incompatible#a. 不相容的,不能并存的,矛盾的
+0#wistful#a. 渴望的,想望的
+0#hie#vt. 急忙,疾走,催促
+0#emotional#a. 情绪的,情感的
+0#conservation#n. 保护,保存
+0#desperate#a. 不顾死活的,危急的,令人绝望的,极渴望的
+0#linguistic#adj. 1 语言的2 语言学上的 
+0#industrious#a. 勤勉的,刻苦的
+0#merge#vt. 使合并,使消失,吞没vi.合并失v. 合并
+0#soar#n. 高扬,翱翔vi. 往上飞舞,高耸,翱翔
+0#apt#a. 倾向于的,易于的,恰当的,聪明的
+0#rationalize#vt. 使合理,合理地处理vi.合理地思考
+0#captivity#n. 囚禁,被关
+0#predictable#a. 可预言的
+0#dome#n. 圆顶vt. 加圆顶vi. 成圆顶状
+0#observable#adj. 1可观察的,看得见的2该注意的3该遵守的
+0#methodology#n. 方法学,方法论
+0#factual#a. 事实的,实际的
+0#cease#n. 停止v. 停止,终了
+0#privilege#n. 特权,特别恩典,基本人权,特免
+0#knowledgeable #a. 聪明的,有知识的
+0#hint#n. 暗示,提示v. 暗示,示意
+0#commuter#n. 通勤者,经常往返者
+0#embrace#n. 拥抱vt. 拥抱,包含,收买
+0#recapture#n. 夺回vt.拿回,夺回,再体验
+0#array#n. 排列,衣服,大批vt. 部署,穿着,排列
+0#deceive#v. 欺骗,行骗
+0#wander#vi. 游荡,漫步,徘徊,蜿蜒,离题,迷路vt. 漫游
+0#intense#a. 非常的,强烈的,紧张的,热情的
+0#stupidity#n. 愚蠢,糊涂事
+0#esteem#n. 尊敬,尊重vt. 尊敬,尊重,认为
+0#upstart#n. 暴富者,暴发户,傲慢自负之人a. 暴富的
+0#inhibit#vt. 禁止,抑制vi. 有禁止力
+0#grandiose#a. 宏伟的,宏大的,堂皇的,铺张的
+0#gamble#n. 冒险v. 赌博,孤注一掷
+0#hardly#ad. 刚刚,几乎不,勉强是
+0#wax#n. 蜡,蜡状物,增加vi. 变大,增大,月亮渐满
+0#curious#a. 好奇的,求知的,古怪的
+0#unwise#adj. (文语) 不智的,愚蠢的,轻率的 
+0#agenda#n.pl. 议程,应办事项
+0#external#n. 外部,外面a. 外部的,客观的,表面的
+0#whereby #adv.用以…,借以… (的手段等)
+0#contest#n. 竞赛,争论vt. 竞赛,争取,争辩vi.争夺
+0#continuously#ad. 不断地,连续地
+0#atmospheric#a. 大气的
+0#fabricate#vt. 制造,建造,装配,伪造
+0#folly#n. 愚蠢,荒唐事,轻松歌舞剧,讽刺剧
+0#contrive#v. 发明,设计,图谋
+0#workshop#n. 工厂,研讨会
+0#obvious#a. 明显的,明白的,显然的
+0#exceptional#a. 例外的,异常的,特别的
+0#misery#n. 悲惨,不幸,穷困
+0#unfamiliar#a. 不熟悉的
+0#contradiction#n. 反驳,矛盾
+0#cautiously#ad. 慎重地
+0#adore#vt. 崇拜,爱慕,喜爱
+0#jury#n. 陪审团,评判委员会,陪审员a. 应急的
+0#outdated#a. 旧式的,落伍的,过时的
+0#personage#n. 重要人士,显要,名士
+0#equivalent#n. 同等物,等价物,相等物a. 相等的,同意义的
+0#attempt#n. 尝试,企图vt. 尝试,企图
+0#intelligence#n. 智力,情报,神
+0#impressionist#n. 印象主义者,印象派作家
+0#complement#n. 补足物,补语,余角vt. 补助,补足
+0#borehole#n. 地上凿穿
+0#betrayal#n. 背叛,叛国
+0#oblige#vt. 强制,施恩惠于,束缚,使感激vi. 表示好意
+0#relief#n. 减轻,解除,救济,安慰,调剂,地势的起伏
+0#openly #adv. 1 公然2 显然,率直地
+0#ambivalent#a. 矛盾的,好恶相克的
+0#dedicate#vt. 献出,贡献
+0#suffering#n. 苦楚,受难
+0#irregular#n. 不合规格之物a. 不规则的,不合法的
+0#abstract#n. 摘要,抽象a.抽象的,深奥的vt.摘要 ,使抽象化
+0#well-being #a. 安宁,福利
+0#mineral#n. 矿物,无机物,苏打水a.矿物的,似矿物的
+0#spear#n. 矛,枪,持矛者vt.用矛刺vi.刺
+0#coherent#a. 互相密合着的,凝聚性的,连贯的
+0#deliberate#a. 深思熟虑的,故意的,从容的v.仔细考虑
+0#cord#n. 绳索,束缚
+0#drill#n. 钻孔机,钻子,播种机,卡其v.训练,钻孔
+0#stroke#n. 笔画,打,中风,冲程,摩,抚vt.划尾桨,抚
+0#donate#v. 捐赠
+0#disparity#n. 不一致
+0#cooperation#n. 合作,协力,合作社
+0#shift#n. 变化,移动vt.替换,转移vi.转换,移动 n. 移位
+0#estimate#n. 估计,判断vt. 估计,评价,判断vi. 估计
+0#evenhanded#a. 公平的,公平无私的
+0#fertile#a. 肥沃的,生产多的,能生产的
+0#conspire#vi. 阴谋,协力,共谋vt. 图谋
+0#decline#n. 衰微,跌落,下降vt.使降低vi.下降,衰落
+0#heroism#n. 英勇,勇敢的事迹,豪侠的行为
+0#inspiration#n. 灵感,鼓励者,吸气
+0#crisscross#n. 十字形a. 十字形的ad. 十字形地vi. 交叉往来
+0#sentiment#n. 感情,感伤,情操,意见,感想,情趣
+0#sue#vt. 控告,请愿vi. 提出诉讼,提出请求
+0#howl#n. 吠声,号叫vi. 狂吠,咆哮,呼啸
+0#lighthearted#adj. 轻松的,快活的,爽朗的,兴高采烈的 
+0#forgery#n. 伪造,伪造罪,伪造物
+0#inseparable#a. 不能分的
+0#flirt#n. 卖弄风骚的人,调情的人vi. 调情,玩弄,摆动
+0#inquiry#n. 质询,调查
+0#haven#n. 港口,避难所,安息所vt.庇护,入港
+0#recovery#n. 恢复,复原,痊愈,重获
+0#defiant#a. 挑衅的,目中无人的
+0#geographical#a. 地理学的,地理的
+0#intrigue#n. 阴谋,复杂的事vi. 密谋,私通vt.用诡计取得
+0#continual#a. 持续不断的,继续的
+0#deal#n. 交易,协定,买卖,分量v.处理,应付,做生意,发牌
+0#electorate#n. 选民,有选举权者,选区
+0#appropriate#a. 适当的
+0#acid#n. 酸,酸类物质a. 酸的,酸性的,讽刺的
+0#arrogant#a. 傲慢的,自大的
+0#patron#n. 赞助人,顾客,保护人
+0#eliminate#vt. 除去,排除,剔除,消除
+0#civilize#vt. 使开化,使文明vi. 变文明
+0#doubtful#a. 可疑的,疑心的,不确的
+0#volume#n. 体积,容量,大量, ,许多vi. 成团卷起
+0#unsubstantiated#adj. 未经证实的
+0#extinction#n. 消失,消灭,废止
+0#enthusiastic#a. 狂热的,热心的,热烈的
+0#objectivity#n. 1 客观性2 对象性
+0#endowment#n. 捐助,天赋,才能
+0#cite#vt. 引用,引证,例证
+0#assertion#n. 断言,主张
+0#debunk#vt. 揭穿,暴露,拆穿假面具
+0#heliograph#n. 照相制版,太阳摄影机,日光仪
+0#detachment#n. 分离,分遣,分遣队
+0#supernatural#a. 超自然的,神奇的
+0#victor#n. 胜利者a. 胜利者的
+0#constraint#n. 强制,局促
+0#alter#v. 改变
+0#impatience#n. 性急,难耐,渴望,急躁,焦急
+0#fraternity#n. 友爱,互助会,兄弟会
+0#acquire#vt. 获得,学到
+0#intently#ad. 一心一意地,心无旁物地,专心地
+0#understatement#n. 1 含蓄的陈述2 含蓄的话[说话]
+0#covet#v. 妄想,垂涎
+0#combustion#n. 燃烧,氧化
+0#worship#n. 崇拜,礼拜,尊敬vi. 参加礼拜vt.崇拜
+0#resemble#vt. 相似,类似,像
+0#reformer#n. 改革家,改革运动者
+0#county#n. 县,郡
+0#imbue#vt. 使感染,使蒙受,鼓吹
+0#analyze#vt. 分析,分解
+0#carefree#a. 无忧无虑的,不负责的
+0#subjective#a. 主观的,个人的
+0#garner#n. 谷仓,积蓄vt. 储存,贮藏
+0#evolutionary#adj. 1 进化论的2 展开 [进展] 的,演变的
+0#designate#vt. 指定,指明,称呼a. 选出而未上任的
+0#groundbreaking#n.  (建筑工程之) 破土 (典礼)
+0#robust#a. 健康的,强健的,粗野的,坚定的
+0#beholder#n. 观看者
+0#beaver#n. 海狸(毛皮)
+0#primitive#n. 原始人,早期艺术家a. 原始的,上古的,旧式的
+0#censor#n. 检查员vt. 检查,审查,删改
+0#ambiguity#n. 不明确,含糊,暧昧
+0#lobby#n. 大厅,休息室,游说议员者vi. 游说议员
+0#startle#n. 惊愕,惊恐vt. 吃惊,使惊愕vi. 惊起
+0#shelve#vt. 放置架子上,搁置vi. 倾斜
+0#severe#a. 严格的,凶猛的,严肃的,朴素的,严重的
+0#decipher#vt. 译解,解释n. 密电译文
+0#diagnose#v. 诊断
+0#monetary#a. 货币的,金钱的
+0#herd#n. 兽群,人群,牧人vt. 群集,使成群,放牧vi. 成群
+0#confer#vt. 赠予,协议vi. 协商
+0#satire#n. 讽刺文学,讽刺
+0#complain#v. 抱怨,悲叹,控诉
+0#flatter#vt. 过分夸赞,奉承,阿谀,使高兴
+0#embarrass#vt. 使困窘,使局促不安,阻碍
+0#unsettle#vt. 搅乱,使动摇,使不安定vi. 动乱不定
+0#mediocre#a. 不好不坏的,通常,平凡的
+0#multiplicity#n. 多数,重复,多样
+0#projection#n. 发射,计划,推测,设计
+0#limitation#n. 限制,缺陷,限额
+0#crumble#vi. 崩溃,破碎,灭亡vt. 弄碎n. 面包屑
+0#uneasy#a. 不自在的,心神不安的,不稳定的,不舒服的
+0#inflexibility#n. 不屈曲性,顽固,不变性
+0#peer#n. 同等的人,匹敌,贵族vi. 凝视,窥视
+0#accommodate#vt. 使适应,调节,和解,容纳vi. 适应
+0#impulsive#a. 冲动的,受感情驱使的,任性的
+0#unaffiliated#adj. 独立的; 未结合的; 未附属的
+0#forger#n. 伪造者,赝造者,铁匠
+0#photography#n. 摄影,摄影术
+0#comparatively#ad. 比较地,相当地,多少
+0#hedonist#n. 快乐主义者,享乐主义者
+0#hinder#a. 后面的v. 阻碍,打扰
+0#telemetry#n. 遥感勘测,自动测量记录传导
+0#household#n. 家庭,家族,王室a. 家庭的,家族的,家属的
+0#overcome#vt. 战胜,克服,胜过vi. 得胜
+0#endanger#vt. 危及
+0#implausible#a. 难信的,不像真实的
+0#transition#n. 转变,转换,变调,过渡时期,跃迁
+0#lord#n. 统治者,阁下,上帝vi.称王,作威作福vt.使成贵族
+0#permit#n. 许可证,许可,执照vt. 允许,容许vi. 容许
+0#grave#n. 墓穴,坟墓,雕刻工a. 庄重的,严肃的vt.雕刻
+0#uprise#n. 升起,起立,上坡,出现vi. 起义,上升,登高
+0#converse#n. 相反的事物,逆向a. 相反的,逆向的vi. 交谈
+0#occur#vi. 发生,想到,存在
+0#recount#vt. 详述,叙述,重新计算n. 重新计算
+0#nurture#n. 养育,营养物,教育vt. 养育,给予营养物
+0#corollary#n. 系,推论,必然的结果
+0#revelation#n. 揭露,泄露,启示,展示
+0#scorn#n. 轻蔑,藐视,嘲笑,被叱责的人vt.轻蔑
+0#hypothesis#n. 假设
+0#alacrity#n. 敏捷,轻快,乐意
+0#transient#n. 暂态,候鸟,瞬变值a.短暂的
+0#occurrence#n. 发生,事件,发现
+0#furniture#n. 家具,附属品
+0#reasonably#ad. 适度地,相当地
+0#enforcement#n. 执行,强制
+0#sculptor#n. 雕刻家
+0#negotiate#vi. 商议,谈判,交涉vt. 谈妥,转让,处理
+0#provoke#vt. 激怒,惹起,驱使
+0#personality#n. 个性,人格,名人
+0#signify#vt. 象征,预示vi. 要紧
+0#ineffective#a. 无效的
+0#brilliant#a. 灿烂的,有才气的
+0#accelerate#v. 加速
+0#rigor#n. 严格,严厉,苛刻,精确,严密
+0#circumscribed#adj. 外接的
+0#infertile#a. 不肥沃的,不毛的,不结果实的
+0#mechanize#vt. 使机械化,用机械装置,机动化
+0#amateur#n. 业余技艺家,爱好者
+0#waterfall#n. 瀑布
+0#fictional#a. 虚构的,编造的,小说式的
+0#possess#vt. 持有,占有,使拥有,迷住,支配
+0#impulse#n. 冲动,驱使,刺激,脉冲,冲力vt. 推动
+0#adhesive#a. 粘着的,有粘性的n. 粘剂
+0#autobiographical#a. 自传的,自传体的
+0#encumbrance#n. 阻碍,妨害物,累赘
+0#valid#a. 有确实根据的,有效的,正当的,正确的
+0#browse#v.n. 浏览,吃草,放牧n. 浏览
+0#portable#a. 可携带的,可搬运的,可移动的
+0#dictate#vi. 听写,口述,口授vt.口述,命令n. 命令,指挥
+0#crook#n. 钩,弯曲部分,恶棍vt.使弯曲,诈骗vi. 弯曲
+0#clarity#n. 清楚,透明
+0#illusion#n. 幻影,错觉,幻想
+0#immutable#a. 不可变的,不变的,不能变的
+0#invocation#n. 祈祷,符咒
+0#dense#a. 密集的,浓厚的
+0#foresight#n. 远见,深谋远虑
+0#engrave#vt. 刻上,雕刻,铭记
+0#pipe#n. 管,导管,输送管,管状器官,声带,管乐器
+0#fiction#n. 小说,虚构的故事,法律的拟制
+0#unplug#vt. 拔开,拔栓,拔
+0#telescope#n. 望远镜vi. 嵌进,挤撞,缩短vt.使套入,使缩短
+0#unprepared#a. 无准备的,即席的,还没有准备好的
+0#choreographer#n. 舞蹈指导
+0#disbelief#n. 不信仰,不信,怀疑
+0#reelect#vt. 重选,改选
+0#turtle#n. 海龟
+0#sophisticated#a. 诡辩的,久经世故的
+0#borough#n. 自治的市镇,区
+0#fictitious#a. 假想的,编造的,虚伪的
+0#specific#n. 特效药,特性a. 特殊的,明确的,具体的
+0#prehistoric#adj. 1 史前的2 太古的,旧式的,古老的
+0#outrageous#a. 暴虐的,极无礼的,可恶的
+0#premise#n. 前提,房屋vt. 提论,预述,假定vi. 作出前提
+0#economist#n. 经济学者,经济专家
+0#adversary#n. 敌手,对手
+0#seize#vt. 抓住,逮捕,俘获,掌握,扣押vi. 突然抓住,利用
+0#overnight#n. 前晚a. 通宵的,晚上的,前夜的ad.整夜
+0#disdain#n. 轻蔑vt. 蔑视,鄙弃
+0#sympathetic#a. 有同情心的,合意的,赞成的n.容易感受的人
+0#philanthropic#a. 博爱的
+0#culminate#vi. 到绝顶,达于极点vt.使达到高潮
+0#dearth#n. 缺乏,粮食不足,饥谨
+0#wilderness#n. 荒野,荒地,大量
+0#underbrush#n. 树林下的草丛,丛林
+0#credible#a. 可信的,可靠的
+0#consistent#a. 一致的,调和的,并立的,坚固的
+0#mission#n. 任务,代表团,使命,传教团
+0#dispose#vt. 处理,排列,布置vi. 处置
+0#patronage#n. 赞助,光顾,任免权,保护人的身份
+0#belie#vt. 掩饰,与...不符,使失望
+0#luminescent#a. 发冷光的,发光的
+0#interrupt#vt. 中断,妨碍,插嘴vi. 打断n. 中断
+0#inappropriate#a. 不适当的,不相称的
+0#grieve#vt. 使悲伤vi. 悲痛,伤心
+0#venturesome#a. 冒险的,冒危险的,不顾一切的
+0#founder#n. 创立者,建立者vt.弄摔倒,弄跛vi.摔到
+0#frantic#a. 狂乱的,疯狂的
+0#vaccine#n. 疫苗a. 疫苗的,牛痘的
+0#evident#a. 显然的,明显的
+0#conjure#vt. 以咒文召唤,变戏法,想象vt. 祈求,恳求
+0#poetic#a. 诗的,诗意的,诗人的,理想化的
+0#infrequent#a. 稀少的,珍贵的,罕见的
+0#proposal#n. 提议,计划,求婚
 0#ceiling#n. 天花板
-0#glad   #a. 高兴的
-0#divide #
-0#enlarge*  #v. 扩大,增大 
-0#refer #v. 把…提交,谈及,谘询,参考
-0#particular # n. 个别项目,详细说明 a. 特别的,独有的,挑剔的
-0#spend  (spent, spent)# v. 度过；花费（钱、时间等）
-0#succeed #v. 成功,继承,继续
-0#secret#n.秘密, 秘诀, 奥秘  adj.秘密的, 隐秘的
-0#pay (paid, paid)#?n. 薪资,付款,报偿v. 支付,付清,报偿
-0#shadow#n.阴影, 影子
-0#paper#n. 纸,文件,论文,报纸 v. 用纸糊,贴壁纸 adj.纸制的
-0#candle#n. 蜡烛
-0#so...that#如此......以致于......
-0#connect #v. 连接
-0#sound# vi. 听起来；发出声音n. 声音
-0#   put away#把…收拾好;把…放好
-0#ash #n. 灰,灰烬
-0#pure #a. 纯的,纯洁的,纯理论的,抽象的,完全的
-0#bench #n. 长凳,工作台
-0#because#conj. 因为
-0#business#n. 商业,生意,事务
-0#sweep  (swept, swept)#n. 扫除,席卷,范围v. 扫除,用手指弹,掠过
+0#tough#n. 恶棍a. 强硬的,艰苦的,坚强的,强横的
+0#ardor#n. 热心,热情
+0#competence#n. 胜任,资格,能力
+0#curve#n. 曲线,弯曲,曲球vt.弯,使弯曲vi.成曲形
+0#constantly#ad. 不变地,不断地,时常地
+0#faith#n. 信心,信任,忠实,保证
+0#plead#vi. 辩护,恳求vt. 为...辩护,托称
+0#universality#n. 普遍性,一般性,普及
+0#advantageous#a. 有利的,有益的,方便的
+0#foundation#n. 基础,根据,建立
+0#underscore#vt. 划线于...下n. 底线
+0#correspondent#n. 通讯记者,通信者
+0#self-determination #n. 自主,自我决定
+0#isolation#n. 隔绝,孤立,隔离
+0#thereafter#ad. 其后,从那时以后
+0#impugn#vt. 责难,抨击,攻击
+0#predominant#a. 优越的,卓越的,有力的
+0#artistry#n. 艺术之性质
+0#medication#n. 药物治疗,药物处理,医药
+0#indirectly #adv. 间接地, 拐弯抹角地
+0#kitten#n. 小猫,淘气姑娘vt. 产仔,卖弄风情
+0#animate#vt. 使有生气,赋予生命a. 有生命的
+0#barn#n. 谷仓
+0#extol#vt. 颂扬,称赞,吹捧
+0#abigail#n. 使女
+0#refine#vt. 精炼,净化,使优雅,使精练vi.精炼,净化
+0#sensational#a. 使人感动的,非常好的
+0#violate#vt. 违犯,亵渎,干扰,妨碍,侵犯,违反
+0#react#vi. 起反应,起作用,反抗,反攻
+0#mistakenly#adv. 错误地,误,错,误解地
+0#administrator#n. 管理人,行政官
+0#lane#n. 小路,巷,弄,单行道
+0#indecisive#a. 非决定性的,犹豫不决的,不明确的
+0#garbage#n. 垃圾,废物
+0#reclusive#a. 隐遁的,隐居的
+0#venerable#a. 庄严的,值得尊敬的
+0#yeast#n. 酵母,发酵粉
+0#automobile#n. 汽车
+0#cosmology#n. 宇宙哲学,宇宙论
+0#mote#n. 尘埃,微粒
+0#eccentricity#n. 古怪,古怪的行为,怪癖
+0#bureaucracy#n. 官僚,官吏
+0#rigid#a. 硬的,坚硬的,刚性的,刻板的,精密的
+0#analysis#n. 分析
+0#impassioned#a. 感激的,狂热的,热烈的
+0#evil#n. 邪恶,不幸,罪恶a. 邪恶的,有害的,诽谤的
+0#nostalgic#a. 乡愁的,怀旧的
+0#acquaintance#n. 相识者,熟悉
+0#warp#n. 弯曲,歪曲，差vt.弄歪,翘曲
+0#incomplete#a. 不完全的,不定的
+0#activity#n. 活动,动作,活力
+0#indispensable#n. 不可缺少之物a.不可缺少的,不能避免的
+0#commemoration#n. 纪念,纪念节,庆典
+0#declaration#n. 宣告,说明,宣布
+0#unleash#vt. 解开...的皮带,解除...的束缚,解放
+0#stylistic#a. 格式上的,体裁上的
+0#sibling#n. 兄弟,同属
+0#invoke#vt. 祈求,恳求,引起,援引,实行
+0#vital#a. 重要的,生命的,致命的,生死攸关的
+0#involve#vt. 包括,使陷于,潜心于,包围
+0#misconception#n. 误解
+0#halt#n. 停止,立定,休息vt. 使停止,使立定
+0#conditional#a. 有条件的,假定的
+0#controversy#n. 论争,辩论,论战,争论
+0#intimidate#vt. 威胁,恐吓,胁迫
+0#wrinkle#n. 皱纹,缺点,妙计,技巧,方法,消息vi.起皱
+0#progressive#n. 改革论者,进步论者a. 前进的,累进的,进步的
+0#enigma#n. 谜,不可思议的东西
+0#didactic#adj. 1 教训的,教诲的;说教的2 好教诲的
+0#devoid#a. 全无的,缺乏的
+0#naive#a. 天真的,纯真的,朴素的
+0#supplant#vt. 排挤掉,代替
+0#spell#n. 符咒,魅力,轮值,轮班vt.拼写
+0#profundity#n. 深,深度,深厚,深刻,深奥
+0#penchant#n. [对…的]强烈嗜好,偏好;倾向[for]
+0#conscience#n. 良心
+0#orchid#n. 兰花,淡紫色
+0#souvenir#n. 纪念品
+0#elf#n. 小精灵,矮人,淘气鬼
+0#silently#ad. 默默地,静静地
+0#batch#n. 一次所烘的面包,一次所制之量
+0#chorus#n. 合唱队,齐声v. 齐声说道,合唱
+0#visible#a. 看得见的,明显的,显然的n.可见物
+0#crave#v. 渴望,热望,恳求
+0#urgency#n. 紧急,催促,强求
+0#affirm#v. 断言,确认,肯定
+0#unsophisticated#a. 未变成世故的,单纯的,纯洁的
+0#slip#n. 滑,滑行,事故,溜,错误,滑台
+0#corporate#n. 组织
+0#flippant#a. 轻率的,没礼貌的,嘴碎的
+0#contemplate#vt. 注视,沉思,打算vi. 冥思苦想
+0#overwhelm#vt. 淹没,受打击,制服,压倒
+0#critical#a. 批评的,决定性的,危险的,临界的
+0#periodic#a. 周期的,定期的,循环的,高碘的
+0#elite#n. 精华,精锐,中坚分子
+0#patiently #adv. 忍耐地; 耐心地,容忍地
+0#jade#n. 玉,翡翠,老马v. (使)疲倦
+0#premature#a. 早熟的,过早的,不按时的n.早产儿
+0#inner#a. 内部的,内心的n. 内部
+0#instrument#n. 工具,手段,仪器
+0#fantasy#n. 幻想,白日梦
+0#expedite#vt. 加快,促进,派出a. 畅通的,无阻碍的,迅速的
+0#studio#n. 工作室,画室,演播室
+0#assistance#n. 协助,援助
+0#instance#n. 例证,建议,例子,情况vt. 引以为例
+0#folklore#n. 民俗学,民间风俗,民间传说
+0#chestnut#n. 栗子,栗树,栗色a. 栗色的
+0#loquacious#a. 多嘴的,好辩的,吵闹的,潺潺的
+0#practically#ad. 实际地,实用地,事实上
+0#politically#adv. 政治上, 贤明地
+0#ultimately#adv. 1 最后,终于,终结2 [修饰整句]终究
+0#obstacle#n. 障碍,妨害物,阻碍
+0#corrupt#a. 腐败的,贪污的 vt.使腐烂,腐蚀,使恶化
+0#chiefly#ad. 主要地
+0#reservation#n. 保留,预定,保留品,保留地
+0#insignificant#a. 无关紧要的,无意义的,琐碎的
+0#tend#vi. 有某种的倾向,易于,注意vt.照料,护理
+0#stifle#vt.使不能呼吸,窒息,抑制vi. 窒息,闷死
+0#unorthodox#a. 非正统的,异教的
+0#formerly#ad. 从前,以前
+0#domestic#a. 家庭的,国内的,驯服的
+0#societal#a. 社会的
+0#attract#vt. 吸引,诱惑vi. 有吸引力
+0#hypocrite#n. 伪君子,伪善者
+0#erudite#a. 博学的n. 博学者
+0#overview#n. 概观,总的看法n. 概述
+0#spacecraft#n. 太空船
+0#demonstration#n. 示范,实证
+0#sanctuary#n. 圣所,耶路撒冷的神殿,避难所
+0#analytical#a. 分析的,解析的
+0#allege#vt. 宣称,申述,主张,断言
+0#synonymous#a. 同义字的,类义字的,同义的
+0#modicum#n. 少量
+0#cope#vi. 竞争,对抗,克服n. 长袍
+0#humanity#n. 人性,人类,博爱
+0#spare#n. 剩余,备用零件,备用轮胎a.多余的,备用的
+0#endeavor#n. 努力,尽力vi. 努力,尽力
+0#boundary#n. 边界,分界线
+0#colonial#a. 殖民的,殖民地的
+0#methodical#a. 有方法的,有系统的
+0#assiduously #adv. 勤勉地, 恳切地
+0#bother#vt. 烦扰,迷惑vi. 烦恼,操心n.纠纷,讨厌的人
+0#nostalgia#n. 乡愁,向往过去,怀旧之情
+0#hail#n. 冰雹,致敬,招呼vt.致敬,招呼vi. 招呼,下雹
+0#acceptance#n. 接受,容纳,承诺
+0#offer#n. 出价,提议,意图,报价vt.提供,出价vi.出现
+0#robotics#n. 机器人学
+0#surprisingly#adv. 1 令人惊讶地,非常地2令人惊讶的是
+0#purist#n. 纯化论者
+0#powwow#n. 仪式,巫师,医师vi. 举行仪式,商谈
+0#forgo#vt. 摒绝,放弃
+0#emphatic#a. 语调强的,用力的,强调了的
+0#actively#ad. 活跃地,积极地
+0#distribute#vt. 分配,散布,分发
+0#twist#n. 一扭,扭曲,曲折vt. 拧,扭曲,捻,编织
+0#pathos#n. 感伤,悲怆,悲情
+0#reminder#n. 提醒的人,暗示
+0#residue#n. 残渣,剩余,余数
+0#reprehensible#a. 应斥责的,应该谴责的
+0#imperceptible#a. 不能感知的,不知不觉的,微细的
+0#actually#ad. 事实上,如今,现在
+0#prospect#n. 景色,希望,展望vt. 勘探vi.勘探,有前途
+0#decision#n. 决定,决心,决断力
+0#reconstruct#vt. 重建,改造,复兴
+0#luminescence#n. 无热光,冷光,发光
+0#barb#n. 倒钩vt. 装倒钩
+0#purely#ad. 纯粹地,清洁地,贞洁地
+0#monarchy#n. 君主政体,君主国,君主政治
+0#veil#n. 面纱,面罩,借口,遮蔽物,帐,幕
+0#ludicrous#a. 可笑的,滑稽的,荒唐的
+0#adorn#vt. 装饰,佩戴
+0#adequate#a. 适当的,足够的
+0#identity#n. 相同,身份,恒等式,特性,一致
+0#detrimental#a. 有害的
+0#intimate#a. 亲密的,私人的vt. 暗示,告诉n. 熟友
+0#coarse#a. 粗糙的,下等的,粗俗的a. 粗略的
+0#falsify#vt. 伪造,歪曲vi. 说谎
+0#grate#n. 1  炉格子,炉架2  格子
+0#defer#vi. 推迟,延期,听从vt. 使推迟,使延期
+0#resourceful#a. 策略的,机智的,资源丰富的
+0#deserve#vt. 该得到,值得vi. 应得报答
+0#fantastic#a. 奇妙的,稀奇的,空想的
+0#incisive#a. 敏锐的,机敏的,锋利的,切入的,激烈的
+0#continuity#n. 连续性
+0#marine#n. 舰队,水兵,海运业a. 海的,海产的
+0#puzzle#n. 难题,迷惑vt.使困惑,使为难 vi.迷惑,苦思
+0#manipulate#vt. 操纵,利用,假造,应付
+0#specifically#ad. 特定的,明确的
+0#alien#n. 外侨a. 外国的,相异的
+0#impatient#a. 不耐烦的,着急的,急切的
+0#cowardice#n. 懦弱
+0#porch#n. 门廊,走廊
+0#machinery#n. 机器,机关,结构
+0#encompass#vt. (文语)1 围绕,包围2 包含,含有3 造成 
+0#humility#n. 谦逊,谦虚,谦卑
+0#spice#n. 药料,香料，调味品,香气vt. 加香料
+0#planetary#adj. 1 行星的,似行星的2 地球的,世界性的
+0#superstring#n. 超弦
+0#collector#n. 收集家,收税员
+0#astonishment#n. 惊异,惊愕,使人惊异的事物
+0#harmonize#vi. 协调,以和声唱vt. 使一致,使和谐
+0#vigorous#a. 精力充沛的,元气旺盛的,有力的
+0#disregard#n. 忽视,漠视vt. 忽视,不顾
+0#witty#a. 富于机智的,诙谐的
+0#restoration#n. 恢复,归还,复位
+0#preface#n. 序文,绪言,前言vi. 作序vt. 给...作序
+0#disposition#n. 性情,处置,处理,布置
+0#poll#n. 投票 vt. 轮询,剪树枝vi. 投票
+0#instantly#ad. 立即地,即刻地
+0#technique#n. 技术,方法,表演法
+0#drawback#n. 不利点,退税
+0#sterile#a. 不毛的,不孕的,无菌的,枯燥的,无效的,贫瘠的
+0#considerable#a. 相当的,可观的,重要的
+0#muscular#a. 强壮的,肌肉发达的,有力的
+0#confound#vt. 使混淆,使狼狈,挫败
+0#comprehensive#a. 广泛的,有理解力的,包容力大的
+0#inexpensive#a. 便宜的,不贵重的
+0#promptly#ad. 敏捷地,迅速地
+0#trim#n. 整齐,装饰,修剪a.整齐的vt.整理,修剪
+0#correlation#n. 相互关系,相关,关连
+0#jealous#a. 嫉妒的,羡慕的,留心的,戒备的
+0#meteorite#n. 陨星
+0#debacle#n. 崩溃,溃裂
+0#leap#n. 跳跃,剧增,急变,飞跃vi. 跳跃,猛冲vt跃过
+0#optimism#n. 乐观主义,乐观,乐天
+0#reveal#vt. 露出,显示,透露,泄露n.窗侧,门侧
+0#flee#vt. 逃避,逃跑,逃走vi. 逃,消失
+0#erase#vt. 抹去,擦掉
+0#sustain#vt. 承受,支持,支撑,供养,忍受,准许,证实,蒙受
+0#pamper#vt. 放纵,使吃饱,使过量
+0#greed#n. 贪欲,贪婪
+0#crafty#a. 狡诈的,诡计多端的,巧妙的
+0#distinctive#a. 有特色的,出众的
+0#inhabitant#n. 居民,居住者
+0#bizarre#a. 奇异的
+0#violent#a. 暴力的,猛烈的,激烈的,歪曲的,凶暴的
+0#bulb#n. 球茎,电灯泡
+0#grab#n. 抓握,掠夺,强占,挖掘机vi.抓取
+0#clip#n. 修剪,夹,回形针 vt.修剪,痛打
+0#uplift#n. 高扬,道德的向上 vt. 提高,抬起vi. 上升
+0#fearful#a. 恐怕,可怕的,严重的
+0#scalpel#n. 小刀,解剖刀vt. 解剖,割
+0#gene#n. 因子,基因
+0#invisible#a. 看不见的,无形的
+0#strictly#ad. 严格地,确实地
+0#manipulation#n. 处理
+0#credibility#n. 可信用,确实性,可靠
+0#irreconcilable#a. 不能和解的,不能协调的,矛盾的
+0#disrupt#a. 分裂的,分散的vt. 使分裂,使瓦解
+0#irreversible#adj. 1 不能倒逆的; 不能翻转的2 不能撤回的
+0#mandatory#a. 命令的,托管的
+0#celestial#a. 天的,天国的,天空的
+0#subsequent#a. 后来的,并发的
+0#increasingly#ad. 逐渐地,渐增地
+0#literacy#n. 读写能力,识字,精通文学
+0#benefactor#n. 恩人,捐助者,赠送者
+0#role#n. 角色,职责,任务
+0#visualize#vt. 使看得见,使具体化,想象vi.想象,显现
+0#phenomenology#n. 现象学
+0#vigilant#a. 警醒的,警戒着的,警惕的
+0#enclosure#n. 附件,围墙,围绕
+0#disingenuous#a. 不老实的,不诚实的,虚伪的
+0#elbow#n. 手肘,急弯,扶手v. 用手肘推开,推挤
+0#quantum#n. 分配量,额,量,量子
+0#irrelevant#a. 不恰当的,无关系的,不相干的
+0#contrast#n. 差别,对比,对照物vt.使对比
+0#formulate#vt. 用公式表示,明确的叙述,制订
+0#secrecy#n. 秘密,保密
+0#annoy#vt. 使苦恼,骚扰
+0#plea#n. 恳求,辩解,托词,请愿
+0#approve#vt. 赞同,核准,证实vi. 赞许
+0#negligible#a. 可以忽略的,不足取的,无用的
+0#mystery#n. 秘密,神秘,奇谈
+0#reinforce#vt. 加强,增援,补充vi.求援 n. 加固物
+0#abolition#n. 废除,废除奴隶制度
+0#bald#a. 秃头,光秃的,单调的,赤裸的
+0#moderation#n. 缓和,适度,温和
+0#proximity#n. 接近,亲近
+0#calamity#n. 灾难,不幸事件
+0#constant#n. 常数,恒量a. 不变的,一定的,时常的
+0#drafty#a. 通风良好的,有缝隙风吹入的
+0#eruption#n. 爆发,火山灰,出疹
+0#superiority#n. 优越,高傲
+0#commit#vt. 委托(托付),犯罪,押往,使承担义务
+0#origin#n. 起源,起因,出身,开端
+0#discourage#vt. 使气馁,阻碍
+0#distort#vt. 扭曲,歪曲
+0#literature#n. 文学,文艺,著作
+0#avoid#vt. 避免,消除
+0#renovation#n. 革新,刷新,修理
+0#genre#n. 类型,流派
+0#revere#vt. 崇敬,敬畏,尊敬
+0#unfounded#adj. 无根据的,无理由的
+0#substance#n. 物质,实质,主旨,牢固,本质,资产
+0#benevolent#a. 慈善的
+0#artificial#a. 人造的,虚伪的,武断的
+0#activate#vt. 刺激,使活动,创设
+0#obstinate#a. 倔强的,顽固的
+0#creative#a. 有创造力的,创作的,生产的
+0#sentimental#a. 感伤性的,感情脆弱的
+0#perspective#n. 远景,看法,透视a. 透视的n. 透视
+0#forebode#v. 预示,预兆,预感
+0#tissue#n. 薄的纱织品,薄纸,连篇,组织,棉纸
+0#grammar#n. 文法,入门
+0#jeer#n. 嘲笑,讥讽,戏弄,v.嘲弄,揶揄
+0#blossom#n. 花,花开的状态,兴旺期vi.开花,兴旺
+0#unnatural#a. 不自然的,反常的,不近人情的
+0#denounce#vt. 告发,公然抨击,谴责
+0#potential#n. 潜在性,可能性,潜力,潜能a. 有潜力的
+0#appear#vi. 出现,显得,来到
+0#possibility#n. 可能性,可能的事
+0#migrate#vi. 移动,移往,随季节而移居vt. 使移居
+0#burdensome#a. 累赘的,恼人的,艰难的
+0#patriot#n. 爱国者
+0#nationalism#n. 民族主义,民族之特性
+0#jeopardize#vt. 危害,使受危困,使陷危地
+0#shin#n. 胫骨v. 攀,爬
+0#newly#ad. 重新,最近
+0#conspicuous#a. 显著的,显眼的,出众的
+0#computation#n. 计算,计数,计量
+0#present#n. 礼物,现在,瞄准a.现在的vt.介绍,引见,赠送
+0#legislation#n. 立法,法律
+0#throw#vt. 投,掷,抛,施加vi. 丢,掷,抛n. 投掷,掷骰子
+0#rid#vt. 免除,清除,使获自由,使摆脱
+0#contradict#vt. 反驳,与...抵触,与...矛盾vi. 反驳
+0#instinctive#a. 本能的,天生的,直觉的
+0#exert#vt. 发挥,运用,施以影响
+0#dye#n. 颜料,染料vt. 染,染色vi. 着色
+0#enrich#vt. 使富足,使肥沃
+0#punctual#a. 准时的,守时的,点状的,正确的
+0#gradually#ad. 逐渐地
+0#vindictive#a. 有报仇心的,怀恨的,惩罚的
+0#hook#n. 钩,钩状,镰刀,陷阱vt钩住,偷窃vi.钩紧
+0#freeway#n. 高速公路
+0#inauguration#n. 1 就任,就职[of]2 正式开始,开幕,成立
+0#prejudice#n. 偏见,成见,伤害vt. 使存偏见,使有成见,伤害
+0#luxury#n. 奢侈,豪华a. 奢侈的,豪华的
+0#represent#vt. 表现,表示,扮演,再上演vi.提出异议
+0#gum#n. 树胶,橡皮,上帝,牙床vt.涂以树胶,使有粘性
+0#buffer#n. 缓冲,缓冲区vt. 缓冲n. 缓冲区
+0#dissatisfaction#n. 不满,不平
+0#forestall#vt. 先...一步行动,占先一步,垄断,阻碍
+0#inbreeding#n. 同系繁殖,近亲交配
+0#dismissal#n. 免职,解雇
+0#trivial#a. 琐细的,日常的,轻微的,平常的
+0#hardness#n. 坚硬,困难,严厉,勇气
+0#retirement#n. 退休,隐居,撤退
+0#supplement#n. 补充物,增刊,补充vt. 补充,增补
+0#coastal#a. 海岸的,沿海的,沿岸的
+0#bloom#n. 花,开花,青春vi. 开花,茂盛
+0#exacerbate#vt. 恶化,增剧,激怒,使加剧
+0#profile#n. 侧面,轮廓,人物素描vt.描绘...轮廓
+0#sketch#n. 素描,草图,小品v.描绘略图,写生
+0#spiritual#a. 精神上的,神圣的,崇高的,高尚的
+0#adapt#vt. 使适应,改编vi. 适应
+0#dissatisfy#vt. 使感觉不满,不满足
+0#immigrant#n. 移民a. 移入的,移民的
+0#judicious#a. 头脑精明的,贤明的,判断正确的
+0#transportation#n. 运输,输送,交通业
+0#taunt#n. 辱骂,嘲弄vt. 嘲弄,奚落a. 很高的
+0#scavenger#n. 1 吃腐肉腐尸的动物2 捡破烂者,收购废物者
+0#periphery#n. 外围
+0#inexperienced#a. 无经验的,不熟练的
+0#explicit#a. 外在的,清楚的
+0#popularity#n. 名声,受大众欢迎,流行
+0#emphasize#vt. 强调,加强语气,着重
+0#circulation#n. 流通,循环,发行量
+0#fascinate#vt. 令人入神,使着迷vi. 入迷
+0#forage#n. 粮草,饲料,搜寻粮草vt.喂,掠夺vi. 搜寻粮草
+0#abundance#n. 丰富,充足
+0#blunt#a. 钝的,坦率的,麻痹的
+0#dire#a. 可怕的,悲惨的,阴惨的,极端的
+0#essayist#n. 随笔作家,评论家
+0#environmentalist#n. 环保人士
+0#outright#a. 率直的,完全的,总共的ad.率直地,立刻地
+0#stimulation#n. 刺激,激励,鼓舞
+0#dispense#vt. 分发,分配
+0#invention#n. 发明,创作能力,虚构的故事
+0#infallible#a. 绝无错误的,绝对可靠的n. 一贯正确的人
+0#clueless#adj. 1 无线索的2 (英俚)无可救药的; 无知的
+0#circumstance#n. 环境,状况,事件
+0#sprint#n. 短距离赛跑vi. 奋力而跑,冲刺vt. 全速跑过
+0#sensation#n. 感觉,感情,感动
+0#prudent#a. 审慎的,三思而后行的,精明的,节俭的
+0#deck#n. 甲板,覆盖物vt. 装饰,打扮装甲板
+0#instructor#n. 教师,讲师,指导书
+0#prevent#v. 预防,防止,妨碍,阻止,避免
+0#mock#n. 嘲笑,戏弄,模仿a. 假的,伪造的vt.嘲弄
+0#indeterminate#a. 不确的,不确定的,含混的
+0#divisive#a. 区分的,分裂的,不和的
+0#preference#n. 偏爱,优先,喜爱物n. 首选项
+0#recall#n. 回忆,召回,取消vt.回想,召回,恢复
+0#lace#n. 饰带,花边,缎带,鞋带vt. 结带子vi. 缚带子
+0#nickname#n. 绰号,昵称vt. 给...取绰号,叫错名字
+0#partisan#n. 党羽,同党的人,游击队员a. 党徒的,效忠的,献身的
+0#refusal#n. 拒绝,推却,优先决定权
+0#unspoiled#adj. 1 未损坏的; 未受破坏的2 未宠坏的
+0#ancestral#a. 祖先的,祖传的
+0#congress#n. 国会,会议,讨论会
+0#pumpkin#n. 南瓜
+0#dissemination#n. 散播,传播,普及
+0#royalty#n. 皇室,王权,庄严
+0#summarize#v. 概述,总结,摘要而言
+0#variation#n. 变更,变化,变种,变奏
+0#observation#n. 观察,注目,观测
+0#edifice#n. 大厦,大建筑物
+0#typical#a. 典型的,象征性的
+0#climate#n. 气候,民意状况,社会趋势,风土
+0#tongue#n. 舌,语言能力,口语vt.舔,闲谈,斥责
+0#conclusive#a. 决定性的,确实的,最后的
+0#auditory#a. 耳的,听觉的
+0#decorous#a. 有礼貌的,高雅的,端正的
+0#ceremonial#n. 仪式a. 正式的
+0#compare#vt. 比较,比喻,匹敌vi. 相比n. 比较
+0#diligence#n. 勤奋
+0#harness#n. 马具,系在身上的绳子,甲胄vt.束以马具
+0#legitimacy#n. 合法,适法,正当
+0#collision#n. 碰撞,冲突,抵触
+0#commission#n. 委任状,任官令,委托,犯法vt.委任
+0#fossil#n. 化石,古物a. 化石的,陈腐的,守旧的
+0#crush#n. 压碎,群众vt. 压破,弄皱,冲入vi.被压碎
+0#restrain#vt. 抑制,阻止,束缚
+0#appreciate#vt. 赏识,鉴赏,感激,欣赏vi. 增值,涨价
+0#spectacular#a. 公开展示的,惊人的n. 展览物
+0#indulgent#a. 纵容的,任性的,放纵的
+0#villa#n. 别墅
+0#inherent#a. 固有的,与生俱来的
+0#remarkable#a. 不平常的,值得注意的,显著的
+0#transform#vt. 转换,改变,改造 vi. 改变,转化
+0#comprehension#n. 理解,包含
+0#pierce#vt. 刺穿,穿透,洞悉vi. 刺入
+0#unauthorized#a. 未经认可的
+0#reprimand#n. 谴责,惩戒,非难vt. 谴责,惩戒,严责
+0#juxtaposition#n. 并排,并置,并列
+0#loom#n. 织布机,若隐若现的景象vi. 朦胧地出现
+0#psychic#a. 灵魂的,精神的,心灵的n.巫女,灵媒
+0#rejection#n. 拒绝,抛弃,驳回,呕出物,排泄物,被抛弃的东西
+0#distribution#n. 分配
+0#gloat#vi. 满足地看,独自暗笑,贪婪地盯n.幸灾乐祸
+0#disaffect#vt. 使疏远,使成为敌人,使不满意
+0#requirement#n. 需求,必要条件,要求
+0#definition#n. 定义,精确度,清晰度
+0#disbelieve#v. 不信,怀疑
+0#anarchy#n. 无政府状态,混乱
+0#collective#a. 集体的,聚集的,共同的
+0#mythology#n. 神话
+0#commodity#n. 日用品,商品,有用的物品
+0#altruistic#a. 利他的,无私心的
+0#disseminate#vt. 散播,传播,宣传vi. 广为传播
+0#rail#n. 横杆,围栏,扶手vt.铺铁轨vi.责骂,抱怨
+0#detest#vt. 厌恶,憎恨
+0#primarily#ad. 主要地,首先地,基本地
+0#arrange#v. 安排,排列,协商
+0#longevity#n. 长命,长寿,寿命
+0#manifestation#n. 显示,证明,示威运动
+0#precede#vt. 在...之前,优于,较...优先vi. 在前面
+0#vacuum#n. 真空,空间,真空吸尘器a. 真空的,产生真空的
+0#reserve#n. 预备品,贮存,预备舍vt.保留,推迟
+0#cousin#n. 堂兄弟姊妹,表兄弟姊妹
+0#benign#a. 良性的
+0#dispatch#vt. 派遣n. 派遣,急件
+0#literal#a. 逐字的,字面上的,文字的,字母的n. 印刷错误
+0#wan#a. 苍白的,无血色的,病态的,暗淡的
+0#uncertainty#n. 不确定,不可靠,半信半疑
+0#cultivation#n. 教化,培养,耕作
+0#antisocial#a. 非社交的,不擅社交的,反社会的
+0#protective#a. 给予保护的,保护的
+0#asphalt#n. 柏油a. 用柏油铺成的vt.以柏油铺
+0#recruit#n. 新兵,补给品vt.使恢复,补充vi.征募新兵
+0#rigorous#a. 严厉的,严酷的,严格的,严密的
+0#self-serving#a. 自私的,自私自利的
+0#elusive#a. 难懂的,易忘的,难捉摸的
+0#contempt#n. 轻视,轻蔑
+0#exaggerate#v. 夸大,夸张
+0#remainder#n. 剩余物,其他的人,残余v.廉价出售
+0#inevitable#a. 不可避免的,必然的
+0#organism#n. 生物,有机体,社会组织
+0#camaraderie#n. 友情,友爱,同志爱
+0#prolific#a. 生子的,结果实的,多产的,丰富的
+0#violation#n. 违反,违背,妨碍
+0#fame#n. 名望,传说
+0#contributor#n. 贡献者,捐助者,赠送者,投稿者
+0#eloquent#a. 雄辩的,有口才的,动人的
+0#phrases#n. 字句
+0#sideways#ad. 向旁边,斜地里,向侧面地a.旁边的
+0#preempt#vt. 先买,先取vi. 阻击叫牌
+0#reject#n. 被拒之人,不合格品vt.拒绝,抵制,否决
+0#climber #n. 登山者
+0#alleviate#vt. 减轻,使缓和
+0#satirize#vt. 讽刺,挖苦 vi. 写讽刺作品
+0#swamp#n. 沼泽,湿地vt. 淹没,击溃,清除,使陷于沼泽
+0#discretion#n. 慎重,辨别力,考虑,处理权
+0#pattern#n. 模范,典型,式样,格调,图案,样品vt.模仿,仿造
+0#statue#vt. 以雕像装饰n. 雕像
+0#nourishment#n. 滋养品,养料,营养
+0#equation#n. 相等,等式,平衡
+0#tile#n. 砖瓦,瓷砖,瓦片vt.铺以瓦n.平铺
+0#placid#a. 平静的,沉着的,平稳的
+0#commentary#n. 注释,评论,批评
+0#prestige#n. 声望,威望,威信
+0#elegant#a. 优雅的,端庄的,高雅的
+0#exclaim#v. 大叫,呼喊,大声叫
+0#stringent#a. 迫切的,严厉的,银根紧的
+0#corp#n. 公司;股份有限公司
+0#obviously#adv.显然
+0#consciously#adv. 有意识地,自觉地
+0#frustrate#vt. 挫败,击败,破坏a.无益的,挫败的,挫折的
+0#dazzle#v. (使)眼花,目眩n. 耀眼
+0#fabric#n. 织物,布,构造,结构,建筑物
+0#impressionable#a. 易感的,敏感的,易受影响的
+0#pacifist#n. 和平主义者,反战论者,不抵抗主义者
+0#substantial#n. 重要部分,本质a. 实质上的,物质的,有内容的
+0#distract#vt. 转移,分心,使发狂
+0#resident#n. 居民,常驻程序,居住者,留鸟a.居留的,定居的
+0#independence#n. 独立,自立,自主
+0#hedge#n. 树篱,障碍,套头交易vt.用树篱围,妨碍
+0#contribution#n. 捐助,捐助之物,贡献
+0#gracious#a. 亲切的,高尚的
+0#accustom#vt. 使习惯
+0#correctly#v. 改正;订正ad. 正地;正确地;端正地
+0#reality#n. 真实,事实,实在,逼真
+0#brood#n. 一窝,一伙vt. 孵,沉思
+0#discriminating#a. 识别的,有识别力的,有差别的
+0#shock#n. 震动,冲突,震惊vt.使震动vi. 震动,吓人
+0#putt#vt. 击球入洞vi. 击高尔夫球n. 轻轻一击
+0#precocious#a. 早熟的,早成的
+0#comparison#n. 比较,对照,比喻
+0#tolerate#vt.宽容,默认,有耐力
+0#bind#vt. 绑,约束,包扎,装订vi.凝固,有约束力
+0#ambivalence#n. 正反感情并存
+0#fad#n. 时尚,一时流行的狂热
+0#figurative#a. 比喻的,形容多的,修饰丰富的
+0#convenience#n. 方便,便利的事物,无忧虑
+0#possessive#n. 所有格a. 所有的,占有的
+0#vacuous#a. 空的,空虚的,心灵空虚的
+0#scrap#n.碎片,残余物,片断vt. 扔弃,敲碎
+0#depletion#n. 消耗,耗尽,放血
+0#distinguish#v. 区别,辨别
+0#establish#vt. 建立,确立,制定vi. 移植生长
+0#egotist#n. 自我中心主义者
+0#condemn#vt. 判刑,责备,谴责,声讨,处刑
+0#trap#n. 圈套,陷阱,诡计,存水弯vi.设圈套vt.诱捕
+0#luxurious#a. 豪华的,奢侈的,放纵的
+0#attest#vi. 证明,作证vt. 为...作证
+0#emulate#vt. 效法,尽力赶上,同...竞争
+0#narrowly#adv. 1 狭窄地2 勉强地
+0#engagement#n. 诺言,约会,婚约,交战
+0#rigidity#n. 硬,僵化,硬度,刚性,坚硬
+0#impression#n. 印象,意念,盖印,印记,效果,底色
+0#overlook#vt. 俯瞰,远眺,没注意到n. 眺望
+0#series#n. 串联,序列,连续,系列,丛书,组n. 系列
+0#scenario#n. 情节,剧本,方案
+0#identify#vt. 识别,认明,鉴定,使等同于vi. 一致,变成一致
+0#appall#vt. 使胆寒,使惊骇
+0#beautify#vt. 美化,变美,修饰
+0#respectively#adv. (无比较级、最高级) 个别地,各个地
+0#ironic#adj. 讥讽的,说讥讽话的,反语的
+0#desert#n. 沙漠a.沙漠的,不毛的vt.放弃,逃跑vi.逃掉
+0#insect#n. 昆虫,卑鄙的人
+0#spectroscope#n. 分光镜
+0#intent#n. 意图,目的,意向a. 专心的,决心的,热心的
+0#philosophy#n. 哲学,人生观,原理
+0#backyard#n. 后院,后庭
+0#hay#n. 干草,秣vt. 制干草,供给干草
+0#precarious#a. 不稳定的,不安的,危险的
+0#associate#n. 同伴,伙伴vt. 联合,联想vi. 交往n. 关联
+0#chimpanzee#n. 黑猩猩
+0#incidentally#ad. 附随地,偶然,顺便
+0#aura#n. 气味,气氛
+0#persist#vi. 坚持,固执,持续
+0#mystical#a. 神秘的,奥秘的
+0#socially#ad. 在社会上,在社交上,亲切地
+0#immediately#ad. 立刻,刚,立即
+0#archaeology#n. 考古学
+0#community#n. 社区,公众,共有,共同体
+0#replicate#vt. 折叠,折转,复制a.折转的
+0#toothpaste#n. 牙膏
+0#loudspeaker#n. 扩音器,喇叭
+0#conform#vt. 使一致,遵守,使顺从vi.一致
+0#photograph#n. 相片,照片v. 照相,摄影
+0#gap#n. 缝隙,缺口,间断vt.打开缺口vi.豁开n.间距
+0#outdoor#a. 户外的,屋外的,露天的
+0#reaction#n. 反应,反作用,影响,反动,反馈
+0#void#n. 空虚,空间,空虚感,真空a.空的,无人的
+0#misfortune#n. 不幸,灾祸,坏运气
+0#solve#vt. 解决,付给,溶解v. 求解
+0#flaw#n. 缺点,裂纹,瑕疵,一阵狂风
+0#courageous#a. 勇敢的,大胆的,有胆量的
+0#relay#n. 驿马,替班,中继,接力vt.分程传递
+0#uniformity#n. 同样,划一,一致
+0#baggage#n. 行李
+0#snapshot#n. 快照
+0#indirect#a. 间接的,次要的,欺骗的
+0#neglect#n. 疏忽,忽略,怠慢vt. 疏忽,忽视,不顾
+0#promotion#n. 晋级,筹办,增进
+0#construction#n. 建筑,构造,建筑物
+0#tide#n. 潮,潮汐,趋势,高潮,涨潮,潮流
+0#unwelcome#adj.  不受欢迎的,不被喜欢的
+0#museum#n. 博物馆
+0#essential#n. 要素,要点,本质a.必要的,重要的,本质的
+0#mystic#a. 神秘的,奥秘的n. 神秘主义者
+0#aspersion#n. 洒水,诽谤,中伤
+0#effective#a. 有效的,有力的,实际的n. 有生力量
+0#coral#n. 珊瑚,珊瑚色
+0#gospel#n. 福音,信仰,真理
+0#hover#vi. 盘旋,翱翔,徘徊vt. 孵n. 翱翔
+0#prodigy#n. 惊人的事物,不凡的人,神童
+0#caterpillar#n. 毛虫
+0#respectable#n. 品格高尚的人a. 值得尊重的
+0#iconoclastic#a. 偶像破坏的,打破旧习的
+0#retrieve#vt.弥补,回忆,补偿vi. 找回猎物n
+0#trader#n. 商人,商船
+0#gossip#n. 闲聊,随笔,流言,爱讲闲话的人vi.说闲话
+0#insert#n. 插入物vt. 插入,镶补vi. 附着n. 插入
+0#twine#n. 合股线,麻线,搓v.编饰,(使)缠绕
+0#blindly#ad. 轻率地,盲目地,无分别地
+0#sail#n. 帆,篷,船只,帆状物,航行,航程vi. 航行
+0#priority#n. 优先权,优先顺序,依次,前,优先n. 优先级
+0#diligent#a. 勤勉的,用功的
+0#psychoanalysis#n. 心理分析
+0#incoherence#n. 1 没有条理,不连贯, 2不连贯的思想
+0#ire#n. 愤怒
+0#epilogue#n. 结语,后记收场白
+0#jungle#n. 丛林,生死关头
+0#comedian#n. 喜剧演员
+0#accusatory#a. 非难的,问罪的,控诉的
+0#sophistication#n. 诡辩,强词夺理,混合
+0#dinosaur#n. 恐龙
+0#content#n. 内容,满足,要旨a.满足的vt.使...满足
+0#minority#n. 少数,未成年,少数民族a. 少数的
+0#strategy#n. 策略,军略
+0#exploit#n. 功绩,勋绩vt. 开发,利用,开拓,剥削
+0#roughly#ad. 概略地,粗糙地
+0#informal#a. 非正式的,不拘礼的,通俗的
+0#contract#n. 合约,婚约,契约vt. 使缩短,承包,订约
+0#wit#n. 机智,机警,智力,头脑,机智的人,妙语,理智
+0#convivial#a. 酒宴的,欢宴的,欢乐的
+0#mischievous#a. 淘气的,有害的,恶作剧的,胡搅的
+0#believable#a. 可信的
+0#insolence#n. 傲慢,无礼,傲慢的态度
+0#infinite#n. 无限,神a. 无穷的,无限的,极大的
+0#media#n. 媒体
+0#novice#n. 新手,初学者
+0#unexpected#a. 料想不到的,突然的,意外的
+0#inland#a. 内陆的,国内的n. 内地
+0#afoot#a. 徒步的 ,在进行中的ad.在准备中
+0#speculative#a. 思索性的,投机的,推理的
+0#pursuit#n. 追踪,追捕,追求,职业,工作,追赶
+0#passive#a. 消极的,被动的,无源的
+0#redundant#a. 多余的,过多的,冗长的
+0#contentment #n. 满足
+0#vulnerability#n. 易受伤,易受责难,弱点
+0#inheritance#n. 遗传,遗产
+0#request#n. 请求,需要,请愿vt. 请求,要求,邀请
+0#behold#vt. 看到,注视vi. 看
+0#deprivation#n. 剥夺,剥夺官职,免职
+0#alloy#n. 合金vt. 使成合金vi.合铸
+0#restrict#vt. 限制,限定,约束
+0#accuracy#n. 精确,正确
+0#patent#n. 专利权,执照,专利品a. 专利的,显著的
+0#purity#n. 纯净,纯正,纯粹
+0#fate#n. 命运,运气vt. 注定
+0#mariner#n. 水手
+0#hesitate#vi. 犹豫,迟疑,踌躇,支吾
+0#artisan#n. 工匠,技工
+0#criterion#n. 标准,准据,轨范
+0#inaccuracy#n. 错误
+0#feminine#a. 女性的,阴性的,柔弱的
+0#meticulous#a. 一丝不苟的,精确的,过细的
+0#revive#vt. 使苏醒,使复兴,使振奋,回想起vi.苏醒,复活
+0#insightful#adj. 具洞察力的
+0#repeal#n. 废止,撤消vt. 废止,撤消,放弃
+0#dough#n. 生面团；[美俚]金钱
+0#combine#v. (使)联合,(使)结合n.集团,联合收割机
+0#swindle#n. 骗取,欺诈,骗局v. 骗取,诈取
+0#mystify#vt. 使神秘化,使难解,迷惑n. 变幻线
+0#cull#vt. 采,摘,拣n. 拣开的东西,被排斥出来的动物
+0#literary#a. 文学的,文艺的,精通文学的
+0#hasty#a. 匆匆的,轻率的,急忙的
+0#sting#n.刺,刺痛,讽刺vt. 刺,刺痛,使苦恼vi.刺,刺痛
+0#bully#n. 欺凌弱小者,土霸vt.威胁,恐吓,欺负
+0#empathy#a. 移情作用的
+0#adviser#n. 顾问,指导教授,劝告者
+0#generation#n. 一代,一世,产生
+0#notion#n. 概念,观念,主张,打算,想法
+0#inflation#n. 胀大,夸张,通货膨胀
+0#merit#n. 优点,功绩,真相,功过,价值vt.值得vi. 应受
+0#secondary#a. 中级的,中等的,次要的,辅助的,从属的
+0#peasant#n. 农夫,乡下人
+0#pave#vt. 铺设,安排,为...铺路
+0#mechanical#a. 机械的,机械性的,力学的
+0#conversation#n. 会话,说话,交谈
+0#supervisor#n. 管理者,舍监,监督者
+0#cabbage#n. 卷心菜
+0#gently#ad. 轻轻地,逐渐地
+0#congenial#a. 同性质的,适意的,趣味相同的
+0#archaic#a. 已废的,古老的,古代的
+0#privately #adv. 私下地,个人地; 以私人身份
+0#specialization#n. 特别化,特殊化,专门化
+0#adapt#vt. 使适应,改编vi. 适应
+0#indicate#vt. 显示,象征,指示,指出
+0#assume#vt. 假定,承担,摆架子vi. 专擅
+0#reflective#a. 反射的,反映的,熟虑的
+0#project#n. 计划,设计,事业vt.计划,设计,发射,表达,放映
+0#concession#n. 特许,让步,认可
+0#harsh#a. 粗糙的,刺耳的,严厉的
+0#carnivorous#a. 食肉的
+0#precious#a. 宝贵的,珍贵的,过于精致的,珍爱的
+0#expense#n. 费用,代价,损失,开支
+0#altruism#n. 利他主义,利他
+0#offend#v. 犯罪,冒犯,违反
+0#cherish#vt. 珍爱,怀有,爱护
+0#idealism#n. 1 理想主义2观念论,唯心论
+0#advocate#n. 提倡者,拥护者vt. 主张,提倡
+0#sniff#n. 以鼻吸气vt. 闻,用力吸
+0#conventional#a. 传统的,习惯的,约定的
+0#premium#n. 额外费用,奖金,奖赏,保险费
+0#minimize#vt. 将...减到最少,小看，极度轻视
+0#repulsive#a. 逐退的,可恶的,冷淡的,排斥的
+0#prospective#a. 有希望的,预期的,将来的
+0#neuroscience#n. 神经科学
+0#bodily#a. 身体的ad. 亲自
+0#admonition#n. 警告,劝告,训诫
+0#tendency#n. 趋向,倾向
+0#paralyze#vt. 使瘫痪,使麻痹
+0#digress#vi. 走向岔道,离题,扯到枝节上
+0#approval#n. 赞成,承认
+0#scholarly #adj. 1 有学者风度的,学究型的2 学术上的
+0#recipe#n. 食谱,处方,秘诀
+0#abrupt#a. 突然的,唐突的,无礼的,不连贯的
+0#self-portrait#n. 自画像
+0#regularly#ad. 有规则地,一丝不苟地,正式地
+0#consistency#n. 坚固性,浓度,一致性
+0#environment#n. 环境,外界,围绕
+0#deceit#n. 欺骗,谎言
+0#garlic#n. 大蒜
+0#appraisal#n. 评价,估价,鉴定
+0#organize#vt. 组织,有机化,给予生机vi. 组织起来
+0#religion#n. 宗教,信仰
+0#boast#n. 吹牛vi. 吹牛,自夸vt. 夸口说,自恃有
+0#accordingly#ad. 因此,于是,如前所说,相应地
+0#contribute#vt. 有助于,捐助,投稿vi. 出力,捐献,投稿
+0#soothe#vt. 缓和,使安静,安慰,奉承vi. 起安慰作用
+0#rudimentary#adj. 1 基本的，初步的2 未发达的，早期的
+0#habituate#vt. 使习惯于,使熟习于
+0#presume#vt. 假定,推测,擅自,意味着vi. 擅自行动
+0#available#a. 有用的,有空的
+0#await#vt. 等候
+0#vocalization#n. 发声的样子,发声法,发声
+0#whale#n. 鲸vi. 捕鲸,猛攻vt. 使惨败,猛揍
+0#chop#n. 厚肉片,排骨,砍vt. 剁碎,砍,切
+0#allocate#vt. 分派,分配
+0#efficient#a. 有效率的,能干的
+0#insincere#a. 不诚实的,无诚意的,伪善的
+0#disrespect#n. 不敬,失礼,无礼
+0#dissolve#v. 溶解,解散
+0#aggravate#vt. 使恶化,使更严重加重
+0#inconsistency#n. 不一致,不调和,矛盾
+0#substantive#a. 表示实在的,有实质的,独立的n.实词,名词
+0#politely#ad. 殷勤地,优雅地,委婉地
+0#fuse#n. 保险丝,导火线v. 熔化,融合
+0#humpback#n. 驼背,座头鲸,小鲑鱼
+0#frown#n. 皱眉vi. 皱眉头vt. 皱眉表示
+0#ineffable#a. 无法形容的,说不出的,不应说出的,避讳的
+0#distress#n. 苦恼,贫困,痛苦vt.使苦恼a.亏本出售的
+0#enthusiastically#ad. 热心地,狂热地
+0#tempt#vt. 诱惑,引诱,冒...风险,吸引
+0#frighten#vt. 使惊吓vi. 惊恐
+0#diminish#v. (使)减少,(使)变小
+0#facetious#a. 滑稽的,爱开玩笑的
+0#democracy#n. 民主政治,民主主义
+0#humble#a. 卑下的,谦逊的,粗陋的vt.,挫,贬抑
+0#chronological#adj. 1 按年代顺序的2 年代学的,年表的
+0#maintenance#n. 维护,保持,维修,生活费用,赡养义务,扶养
+0#clay#n. 泥土,肉体,粘土
+0#frivolous#a. 轻佻的,妄动的,琐碎的
+0#plentiful#a. 许多的,丰富的,丰饶的
+0#implement#n. 工具,器具vt. 实现,使生效,执行
+0#privacy#n. 隐私,隐居,秘密
+0#initially#ad. 最初,开头
+0#destructive#a. 毁灭性的,破坏的,有害的
+0#minor#n. 未成年人,副修科目a.较小的,未成年的vi.辅修
+0#temperate#a. 温和的,适度的,有节制的
+0#assault#n. 攻击,突袭vt. 袭击,突袭vi. 动武
+0#antagonism#n. 反对,敌对,敌意
+0#identification#n. 视为同一,证明同一,确认
+0#chemical#n. 化学药品a. 化学的,化学用的
+0#unity#n. 个体,一致,结合
+0#psych#vt. 智胜,想出,精神分析治疗
+0#physiological#a. 生理学的,生理学上的
+0#theoretical#adj. 1 a. 理论 (上) 的,学理的b.理论上的
+0#geological#a. 地质学的,地质的
+0#foul#a. 污秽的,邪恶的vt. 弄脏,妨害
+0#delightful#a. 令人愉快的,可喜的
+0#trail#n. 踪迹,痕迹 vt. 拖,尾随vi.拖曳,垂下
+0#shiny#a. 有光泽的,发光的,辉煌的
+0#inescapable#a. 逃不掉的,不可避免的
+0#boycott#n. 联合抵制vt. 联合抵制
+0#description#n. 描述,说明,种类
+0#constitute#vt. 构成,组成,任命
+0#overland#a. 陆路的,经过陆地的,陆上的ad. 经陆路
+0#talent#n. 才能,有才干的人,天才,天资
+0#nutritionist#n. 营养学家; 营养专家
+0#gaze#n. 注视,凝视vi. 注视,凝视
+0#inertia#n. 惯性,惰性,迟钝
+0#foster#a. 收养的,养育的vt. 养育,抚育 ,鼓励
+0#briefly #adv. 1 简单地,简短地2 [修饰整句]简言之
+0#drama#n. 戏剧,戏剧艺术
+0#imaginative#a. 想象的,虚构的
+0#physicist#n. 物理学者,唯物论者
+0#fidelity#n. 忠实,诚实,忠诚,保真度
+0#reassure#vt. 使...安心,再保证
+0#acumen#n. 敏锐,聪明
+0#relentless#a. 无情的,冷酷的,残酷的
+0#unpopular#adj.不受欢迎的,名声不佳的,不流行的
+0#pragmatic#a. 忙碌的,活跃的,实用主义的,国事的
+0#strip#n. 长条,条状,带,脱衣舞vt.脱衣,被剥去
+0#neutrality#n. 中立,不偏不倚,中间状态
+0#staff#n. 全体人员,同事,棍棒,杆,权杖,支柱,拐杖
+0#candid#a. 坦白的,率直的,公正的
+0#necessity#n. 需要,必需品,必然
+0#blunder#n. 大错,大失策vi. 失策,绊倒,犯错vt. 做错
+0#grind#n. 磨,碾,苦差,书呆子vt. 摩擦,压榨,折磨
+0#ritual#n. 仪式,典礼,宗教仪式a.仪式的,依仪式而行的
+0#curative#a. 治病的,有治病效力的n. 医药,治疗药
+0#slight#n. 轻蔑,怠慢a. 轻微的,苗条的vt.轻视,忽略
+0#demonstrate#vt. 示范,证明vi. 示威
+0#tenant#n. 承租人,房客,不动产占有人,居住者vt.租借
+0#arena#n. 竞技场,舞台
+0#tiny#a. 很少的,微小的
+0#elucidate#vt. 阐明,说明
+0#imaginable#a. 可想象的,可能的
+0#destiny#n. 命运,定数
+0#survival#n. 留住生命,生存,残存,幸存者
+0#auditorium#n. 礼堂,会议厅,听众
+0#irrationality#n. 不合理,无条理,无理性
+0#apparatus#n. 装置,器具,器官
+0#cuisine#n. 烹调风格,烹调法,烹饪,厨房
+0#constrain#vt. 强迫,勉强,驱使
+0#sensationalism#n. 1 煽情主义,激情主义,哗众取宠2 感觉论
+0#commercialization#n. 商业化
+0#occasional#a. 偶然的,临时的,备不时之需的
+0#horror#n. 惊骇,恐怖,惨事
+0#motive#n. 动机,目的,主题,发动力a.运动的
+0#chaotic#a. 混乱的,无秩序的
+0#unexpectedly#adv. 出人意料地,意想不到地,突然
+0#rural#a. 乡下的,田园的,乡村风味的
+0#catalyst#n. 1[化学]触媒2 催化剂3 激发对方的人 
+0#haughty#a. 傲慢的,骄傲的,不逊的
+0#ecologist#n. 生态学者
+0#deferential#a. 恭敬的
+0#marsh#n. 沼泽,湿地a. 沼泽的
+0#accentuate#vt. 以重音念,强调,重读
+0#equitable#a. 公平的,公正的
+0#connotation#n. 含蓄,内涵
+0#refrigerator#n. 电冰箱,冷藏库
+0#effect#n. 结果,影响,效果,印象vt.招致,引起v.效果
+0#conducive#a. 有益于...的,有助于...的,助长的
+0#atrocity#n. 残暴,凶恶,暴行
+0#antiquate#vt. 使古旧,废弃
+0#inadequate#a. 不充分的,不适当的
+0#ascetic#n. 禁欲者,修道者a. 修道的 ,苦行
+0#flavor#n. 滋味,香料vt. 加味于
+0#dreadful#a. 可怕的
+0#agent#n. 代理商
+0#tolerant#a. 宽容的,宽大的,默认的
+0#particularly#adv. 1 特别地,尤其2 仔细地,详细地
+0#papyrus#n. 纸草,草制成之纸
+0#empirical#a. 完全根据经验的,经验主义的
+0#infer#vt. 推论出,推断vi. 作推论
+0#ignore#vt.不理睬,忽视,驳回v. 忽略
+0#statistical#a. 统计的,统计上的,统计学的
+0#favor#n. 好意,喜爱vt. 支持,喜欢,证实
+0#admire#vt. 赞美,钦佩,喜欢,爱慕
+0#meditation#n. 沉思,冥想
+0#mutual#a. 相互的,共有的
+0#deliberation#n. 熟虑,熟思,协议
+0#range#n. 排,行,山脉,射程,行列vt.排列vi.延伸,漫游
+0#cordial#n. 兴奋剂,补品a. 热忱的,诚恳的,兴奋的
+0#averse#a. 不愿意的,反对的
+0#unnecessary#a. 不必要的,无用的,无益的
+0#ethic#n. 道德规范,伦理
+0#immune#a. 免疫的,免除的,不受影响的n. 免疫者
+0#camper#n. 露营者
+0#abandon#vt. 放弃,沉溺n. 放任
+0#compel#vt. 强迫,迫使
+0#weary#a. 疲倦的,萎靡的vt. 使疲倦,使厌烦
+0#coma#n. 昏迷,麻木,慧发
+0#idiosyncratic#a. 特质的,异质的,特殊的
+0#complex#n. 合成物,情结,复杂a. 复杂的,合成的
+0#scarcely#ad. 简直不,一定不,仅仅
+0#patch#n. 片,补缀,碎片,傻瓜vt.掩饰,平息
+0#stereotype#n. 铅版,陈腔滥调,老套vt.使一成不变
+0#exasperation#n. 恼怒
+0#vessel#n. 船,容器,脉管
+0#virtue#n. 德行,美德,优点,英勇,效力
+0#archetypal#a. 原型的
+0#bitterly#ad. 怨恨地,悲痛地,残酷地
+0#miraculous#a. 奇迹的,不可思议的
+0#cloak#n. 斗篷,宽大外衣,掩护vt. 遮掩,隐匿
+0#psychological#a. 心理学的,精神上的,心灵的
+0#inaudible#a. 听不见的,不可闻的
+0#confess#v. 承认,坦白,忏悔,供认
+0#mutineer#n. 暴徒,反抗者vi. 暴动,反抗
+0#allure#vt. 引诱,吸引n. 魅力,诱惑力
+0#adversity#n. 不幸,灾祸
+0#divulge#vt. 泄露,暴露
+0#client#n. 客户,顾客,委托人n. 客户
+0#atypical#a. 非典型的
+0#pasty#a. 面糊似的,苍白的n. 馅饼
+0#cognitive#a. 认知的,认识的,有认识力的
+0#ties#n. 结v. 绑,连接
+0#depict#vt. 描述,描写
+0#humiliation#n. 耻辱,丢脸,谦卑
+0#delay#n. 耽搁,迟滞v. 耽搁,延迟v. 延迟
+0#indistinct#a. 不明了的,朦胧的
+0#crevice#n. 裂缝
+0#subtlety#n. 微妙,精明
+0#amuse#vt. 消遣,娱乐,使发笑
+0#mortality#n. 必死的命运,死亡数目,死亡率
+0#gravitational#a. 重力的
+0#judgment#n. 裁判,宣告,判决书
+0#consciousness#n. 意识,知觉,自觉
+0#extent#n. 范围,程度,区域
+0#ecological#a. 生态学的,社会生态学的n. 生态学
+0#obsolete#a. 荒废的,成废物的,陈旧的n. 废词,废物
+0#accurately#ad. 正确地,精确地
+0#species#n. 种,类,外形
+0#confront#vt. 使面对,对抗,比较,使对质
+0#disobedience#n. 不服从,不孝,违反
+0#bear#n. 熊vt. 忍受,怀有,产生vi. 忍受
+0#obsess#vt. 迷住,使困扰
+0#sufficient#a. 充分的,足够的
+0#venerate#vt. 尊敬,崇敬,崇拜
+0#bubble#n. 泡沫vi. 冒泡,沸腾vt. 使冒泡,滔滔不绝地说
+0#nocturnal#a. 夜的,夜曲的
+0#amount#n. 数量,总额vi. 总计,等于
+0#conviction#n. 定罪,信服,坚信
+0#ecstatic#n. 狂喜的人a. 狂喜的
+0#milkweed#n. 乳草属植物
+0#provocative#a. 气人的,挑拨的,刺激的n. 刺激物,挑拨物,兴奋剂
+0#coverage#n. 覆盖的范围,保险总额,新闻报道
+0#dash#n. 冲撞,破折号vi. 猛掷,冲撞vt.使沮丧
+0#frequently#ad. 时常,屡次,经常地
+0#renaissance#n. 复活,复兴,文艺复兴a. 文艺复兴的
+0#chemistry#n. 化学,化学作用
+0#aesthetic#a. 美学的,审美的,有美感
+0#quizzical#a. 古怪的
+0#merchant#n. 商人,店主a. 商业的,商人的
+0#unavoidable#a. 不可避免的,不得已的,不能作废的
+0#peculiar#a. 奇特的,罕见的,特殊的,特别的
+0#colonialism#n. 殖民主义
+0#runoff #n. 流量,决赛,决定性竞选
+0#bestseller #n. 畅销书 [唱片] 的
+0#picturesque#a. 生动的,如画的,独特的
+0#tribe#n. 种族,部落,一群人
+0#myth#n. 神话,虚构的事,虚构的人
+0#propose#vt. 计划,打算,向...提议vi.打算,求婚
+0#decorative#a. 装饰的
+0#wool#n. 羊毛,毛织物,毛线,绒线
+0#verse#n. 诗,韵文,诗句vt.用诗表达vi. 作诗
+0#impropriety#n. 不适当,不得体,用词不当
+0#sloth#n. 怠惰,懒惰
+0#economy#n. 经济,理财,节约
+0#refute#vt. 驳倒,反驳
+0#scrutiny#n. 细看,仔细检查,监视,选票的复查
+0#prosperous#a. 成功的,繁盛的,顺利的,幸运的
+0#crab#n. 螃蟹,偏航 vi.捕蟹,偏航,发牢骚
+0#classic#n. 古典作品,杰作a.最优秀的,古典的
+0#fluent#a. 流利的,流畅的
+0#transcend#vt. 超越,胜过
+0#investment#n. 投资,可获利的东西
+0#distinction#n. 区别
+0#availability#n. 有效,有用,有益
+0#axiom#n. 自明之理,公理,格言
+0#paradox#n. 似非而是的论点,自相矛盾的话
+0#journalist#n. 新闻记者,报人,从事新闻杂志业的人
+0#saint#n. 圣徒,圣人a. 神圣的
+0#shrink#n. 收缩,萎缩,畏缩vi.收缩,缩小,萎缩
+0#familiarity#n. 亲密,熟悉,精通
+0#reuse#vt. 再使用n. 重新使用
+0#delineate#vt. 描绘...的轮廓,描绘,描写
+0#adjust#vt. 调整,使适应于,校准vi. 调整,适应于,校准
+0#morality#n. 道德,教训,品行
+0#theft#n. 盗窃,盗窃罪,赃物
+0#suburb#n. 市郊,郊区,边缘
+0#molecular#a. 分子的,由分子组成的
+0#coal#n. 煤,木炭v. 加煤
+0#confidently #adv. 信赖地, 安心地
+0#attribute#n. 属性,定语,标志vt. 归于,属于
+0#cohesive#a. 粘着的
+0#self-evident #a. 自明的
+0#coincide#vi. 一致,符合
+0#primate#n. 大主教,首席监督,灵长类的动物
+0#inaccurate#a. 错误的,不准确的
+0#productive#a. 能生产的,有生产价值的,多产的
+0#genu#n. 膝,膝关节
+0#generous#a. 有雅量的,量大的,慷慨的,丰富的
+0#innovator#n. 改革者,刷新者
+0#pretend#v. 假装,伪称,自命,自称
+0#antagonistic#a. 反对的,敌对的
+0#ignorance#n. 无知,不知
+0#arrogance#n. 傲慢态度,自大
+0#conceit#n. 自负,空想,狂妄
+0#puppy#n. 小动物,自负的青年
+0#dealer#n. 经销商,商人
+0#newscaster#n. 新闻广播员,新闻评论广播员
+0#dramatic#a. 戏剧性的,生动的
+0#particle#n. 粒子,点,极小量
+0#arouse#vt. 唤醒,鼓励,引起vi. 睡醒
+0#interpretation#n. 解释,演出,翻译
+0#pristine#a. 原来的,古时的,原始的
+0#yawn#n. 哈欠vi. 打哈欠,张口vt. 打着哈欠地说
+0#symbolism#n. 象征主义,符号论
+0#monologue #n. 独白, 独角戏
+0#germ#n. 细菌,种子,根源
+0#apathetic#a. 缺乏感情的,缺乏兴趣的,无动于衷的
+0#portion#n. 部分,一份,命运,嫁妆vt. 将...分配,分配
+0#imitate#vt. 模仿,效法,冒充,仿造
+0#response#n. 反应,回答,响应v. 应答
+0#autobiography#n. 自传
+0#objective#n. 目的,受格,实物a. 客观的,外在的
+0#inability#n. 无能,无力
+0#groom#n. 马夫,新郎,男仆vt. 喂马,整饰,推荐
+0#playwright#n. 剧作家
+0#spark#n. 火花,火星,活力,朝气vi. 闪烁vt.发动,求婚
+0#reception#n. 接待,欢迎,接收力,招待会,接受
+0#scrutinize#vt. 1 细察,详审2 仔细打量,端详
+0#roam#v. 漫游,闲逛,徜徉n. 漫步,漫游
+0#uninformed#adj. 1 不具有充分知识的2 未得到通知的
+0#inapt#a. 不适当的,不合宜的,不相配的
+0#accessible#a. 易接近的,可进入的,易受影响的,可理解的
+0#exceed#vt. 超过,超越,胜过vi. 超过其他
+0#reverent#a. 尊敬的,虔诚的
+0#dial#n. 刻度盘,针面,转盘v. 拨
+0#amino#adj. [化学]氨基的
+0#myopic#a. 近视的
+0#pace#n. 速度,步调,步法vi. 踱步,缓慢的走vt. 用步测
+0#authentic#a. 真实的,可靠的,可信的
+0#nevertheless#ad. 然而,虽然如此conj. 然而
+0#vulgar#a. 粗俗的,庸俗的,本土的,通俗的,普通的
+0#intellect#n. 智力,理解力,知识分子
+0#occasion#n.理由,诱因vt. 致使,惹起,引起
+0#facial#n. 美颜术,脸部按摩术a. 脸的,脸部用的
+0#outburst#n. 爆发,突发,破裂
+0#cargo#n. 货物
+0#incapable#a. 无能力的,不能的
+0#assign#vt. 分配,指派v. 赋值
+0#concord#n. 一致,和睦,和睦的例子
+0#worsen#vt. 使更坏,使恶化vi. 变得更坏,恶化
+0#astound#vt. 使惊骇,使大吃一惊
+0#musing#a. 沉思的,冥想的
+0#convince#vt. 说服,使相信
+0#notable#n. 著名人士,值得注意之事物a.值得注意的
+0#gong#n. 铜锣,盘形钟vt. 打锣作停车信号
+0#remark#n. 备注,评论,注意vt. 评论,谈及vi. 评论
+0#estate#n. 不动产,时期,阶层,财产
+0#maturity#n. 成熟,完备,到期
+0#abolitionist#n. 废除主义者,废奴主义者
+0#impose#vt. 课征,强迫,以...欺骗vi.利用,欺骗,施影响
+0#cote#n. 棚,窝,栏
+0#ingrain#vt.使根深蒂固 生染的,生来的
+0#mural#a. 壁的,壁上的,壁似的n. 壁画
+0#legendary#adj. 1 传说 (上) 的2 传奇性的, 著名的
+0#temper#n. 脾气,心情,回火,趋向,调剂vt.锻炼,调剂,
+0#discern#v. 辨别,看清楚
+0#alumnus#n. 男毕业生,男校友
+0#millennium#n. 太平盛世,一千年
+0#moderate#a. 适度的,稳健的,节制的vt.节制,使缓和
+0#enroll#vt. 登记,使加入vi. 参军,注册
+0#glitter#n. 灿烂,闪烁,辉耀vi. 灿烂,闪烁,辉耀
+0#habitable#a. 可居住的
+0#bolster#n. 支持,长枕vt. 支持,支撑
+0#conundrum#n. 谜,难题,谜样的人
+0#ominous#a. 恶兆的,不吉利的,预兆的
+0#assess#vt. 估定,评定
+0#magnify#vt. 放大,扩大,赞美,夸大vi. 有放大能力
+0#discrepancy#n. 相差,差异,差别
+0#inception#n. 起初,获得学位
+0#backhoe#n.  (有伸缩挖掘装置的) 锄耕机
+0#certify#v. 证明,保证
+0#tribute#n. 贡物,礼物,感谢辞
+0#surely#ad. 的确地,安全地
+0#guilt#n. 罪行,内疚
+0#phonograph#n. 留声机,电唱机,vi. 灌入留声机
+0#predecessor#n. 前任,先辈,以前的东西
+0#unprecedented#a. 空前的
+0#apprehension#n. 理解,忧惧,逮捕
+0#inquire#v. 询问,问明,查究
+0#precision#n. 精密,精确,精确度a. 精密的,精确的n. 精度
+0#strive#vi. 努力,奋斗,斗争
+0#exhibition#n. 表现,展览会,展览品
+0#funeral#n. 葬礼,出殡
+0#gesture#n. 手势,姿态vi. 作手势,作姿态
+0#demolish#vt. 毁坏,破坏,粉碎
+0#concise#a. 简洁的,简明的
+0#symbolize#vt. 象征,用符号表现vi. 采用象征,使用符号
+0#symphony#n. 交响乐,交响曲
+0#populate#vt. 1 居住于 <国家、城市等> 2 使人居住于
+0#evaporate#vi. 蒸发,失去水分,消失vt. 使蒸发
+0#distinct#a. 清楚的,显著的,不同的
+0#mitigate#vt. 镇静,缓和,减轻
+0#morose#a. 郁闷的,乖僻的
+0#intrinsic#a. 本质的,原有的,真正的
+0#polecat #n.[动物]1 (英)鸡貂2 (美)斑纹臭鼬
+0#rehabilitate#vt. 恢复原状,修复,使恢复
+0#countless#a. 数不尽的,无数的
+0#decorum#n. 端正,礼貌合宜,礼仪
+0#override#vt. 弃绝,藐视,奔越过,践踏
+0#adulthood#n. 成人期
+0#session#n. 期间,开庭期,会议,学期
+0#impair#vt. 损害,减少,削弱
+0#radical#n. 激进分子,语根,基础a. 激进的,根本的
+0#executive#n. 执行者,经理主管人员a. 执行的
+0#depression#n. 不景气,消沉,沮丧,洼地
+0#nihilism#n. 虚无主义,怀疑论,虚无主义
+0#illustrate#vt. 举例说明,作图解,阐明vi. 举例
+0#diver#n. 潜水者
+0#faculty#n. 才能,能力,全体教员,(大学的)系
+0#intervention#n. 插入,介入,调停
+0#gourmet#n. 美食家
+0#leisure#n. 空闲,闲暇,悠闲a. 空闲的,有闲的
+0#latent#a. 潜伏性的,隐藏的n. 隐约的指印
+0#profound#a. 极深的,深奥的,深厚的,极度的,渊博的,深刻的
+0#anachronism#n. 时代错误,不合潮流的人(物)
+0#antique#n. 古董,古物a. 旧式的,过时的
+0#defensibility#n. 可防卫性,防卫的可能性
+0#ideology#n. 观念学,空论,意识形态,思想
+0#prohibit#vt. 禁止,阻止
+0#inferior#a. 次等的,较低的,下方的,下级的n.低下的人,次品
+0#brook#n. 小溪vt. 容忍
+0#inducement#n. 诱因,动机,刺激物
+0#ignorant#a. 无知识的,不知道的,幼稚的
+0#lucrative#a. 有利益的,获利的,合算的
+0#odd#a. 奇数的,古怪的,剩余的n. 奇数,奇校验
+0#entropy#n. 熵
+0#undermine#vt. 渐渐破坏,挖掘地基,暗地里破坏
+0#apologetic#a. 道歉的,认错的,辩护的
+0#budget#n. 预算vi.编预算vt.编入预算,安排a.廉价的
+0#descendant#n. 后裔,传下来的东西a. 传下的,下降的
+0#dilemma#n. 困境,进退两难的局面
+0#persistence#n. 固执,坚持,持续
+0#presentation#n. 赠与,陈述,介绍n. 简报
+0#census#n. 户口普查vt. 实施统计调查
+0#addition#n. 附加,增加,加法
+0#brutal#a. 残忍的,野蛮的,不讲理的
+0#consequently#ad. 结果
+0#medieval#a. 中古的,中世纪的
+0#glacier#n. 冰河
+0#confrontation#n. 对审,面对面,面对,对质
+0#naked#a. 裸体的,无装饰的,无保护的,坦白的
+0#progression#n. 前进,连续,级数
+0#naturalist#n. 自然主义者,博物学者
+0#eventually#ad. 最后,终于
+0#abstraction#n. 抽象化,心不在焉,提炼,抽象派作品
+0#concordance#n. 调和,一致,用语索引
+0#cumulative#a. 累积的
+0#cantankerous#a. 心地不良的,爱吵架的
+0#reckless#a. 不注意的,大意的,鲁莽的,不顾后果的
+0#fungus#n. 菌类,蘑菇
+0#demonstrative#a. 说明的,指示的
+0#inequality#n. 不平等,不同,不平均n. 不等式
+0#impend#vi. 迫近,逼迫,悬挂
+0#descend#vi. 下降,传下,屈尊,袭击vt. 下降
+0#constructive#a. 建设性的,构造上的,作图的
+0#withstand#vt. 抵抗,对抗,经得起
+0#surrounding#n. 环境a. 周围的
+0#devour#vt. 吞食,挥霍,吞没
+0#resign#vt.辞职,放弃,使顺从vi.辞职,屈从
+0#interfere#vi. 妨碍,冲突,干涉,抵触
+0#martial#a. 军事的,尚武的,威武的
+0#scornful#a. 轻蔑的
+0#lime#n. 石灰,粘鸟胶,酸橙
+0#debatable#a. 可争论的,成问题的,未决定的
+0#gratification#n. 使满足之事或物,满足,喜悦
+0#ensue#vi. 跟着发生,继起vt. 追求
+0#systematic#a. 有系统的,分类的,体系的
+0#decay#n. 衰退,腐败vi. (使)衰退,(使)腐败
+0#prophecy#n. 预言,预言能力
+0#gnaw#v.咬,啃,侵蚀,折磨
+0#hound#n. 猎犬vt. 带猎犬狩猎,追捕,激励,使追逐
+0#algae#n. 藻类,海藻
+0#episode#n. 插曲,插话,有趣的事件,一段情节
+0#negotiator#n. 磋商者,交涉者,议定者
+0#account#n. 账目,报告,记录,算账vi.解释,认为vt.认为
+0#intelligent#a. 聪明的,伶俐的,有才智的
+0#maternal#a. 母亲的,母系的,母方的
+0#unsolicited #adj. 未经同意的,自发的,自我推荐的
+0#charitable#adj. 慈悲为怀的; 仁慈的,慈善的
+0#timid#a. 胆小的,羞怯的
+0#orderly#a. 有秩序的,整齐的,值班的ad.依次地
+0#unparalleled#a. 无比的,优良无比的,空前的
+0#crawl#n. 爬行,匍匐而行,围栏v. 爬行
+0#stack#n. 堆叠,堆,大量,烟囱vt.堆积,堆满
+0#solemn#a. 严肃的,郑重的,庄严的
+0#devalue#vt. 1[经济]减低<货币>的价值2降低…的价值
+0#reappear#vi. 再出现
+0#inter#vt. 埋葬,葬,埋prep. 在中间
+0#extinct#a. 熄灭的,灭绝的,耗尽的
+0#military#n. 军队a. 军事的,军人的,好战的
+0#indulge#vt. 纵情于,放任,迁就vi. 沉溺
+0#penetrate#vt. 穿透,渗透,看穿vi. 刺入,看穿,渗透
+0#unwanted#a. 不必要的,空闲的
+0#immoral#a. 不道德的,邪恶的
+0#confessional#a. 自白的,忏悔的n.忏悔室,告解聆听席
+0#atomic#a. 原子的,微粒的
+0#confident#a. 有信心的,有把握的
+0#infusion#n. 注入,鼓吹,熬煮
+0#glance#n. 一瞥,闪光,一滑,辉矿类vi.扫视,掠过,闪光
+0#fantasize#vt. 1 想像; 幻想2 使幻想化 
+0#poultry#n. 家禽
+0#undesirable#a. 不受欢迎的,不良的
+0#cavity#n. 洞,空穴,腔
+0#brilliance#n. 卓越,光辉
+0#furious#a. 狂怒的,激烈的,吵闹的
+0#crude#a. 天然的,未成熟的,粗糙的,粗鲁的n. 天然的物质
+0#futility#n. 无用,无益,无价值
+0#discount#n. 折扣,贴现率vt. 打折扣vi. 贴现
+0#defuse#vt. 去掉...的雷管
+0#encode#vt. 改为密码
+0#shun#vt. 避开,规避,避免
+0#intricacy#n. 纷乱,复杂,错综
+0#scientifically#ad. 合乎科学地,学问上,有系统地
+0#diet#n. 日常饮食,议会vt. 照规定饮食vi. 忌食
+0#territory#n. 领土,领地,活动范围,地区,版图
+0#royal#n. 王室,皇族a. 王室的,皇家的,庄严的
+0#atrophy#n. 萎缩,萎缩症
+0#endear#vt. 使亲密,使受钟爱
+0#dialect#n. 方言,语调
+0#beam#n. 光线,横梁,容光焕发vi.微笑,闪亮vt.发射
+0#cling#vi. 粘紧,附着,紧贴,坚持
+0#remedy#n. 药物,治疗法,治疗vt. 治疗,补救,矫正,修补
+0#decadent#a. 衰微的,颓废的n. 颓废派
+0#mammal#n. 哺乳动物
+0#narration#n. 叙述,故事,叙述文
+0#solely#ad. 独自地,单独地
+0#jerry#a. 草率的,偷工减料的
+0#contagious#a. 传染性的,会蔓延的,会传播的
+0#microscopic#adj. 1 显微镜的2 显微镜的3 极微细的,极微的
+0#hastily#ad. 匆忙地,急速地,慌张地
+0#fluid#n. 液体,分泌液,流体a. 流动的,可改变的
+0#caution#n. 小心,慎重,警示vt. 警告n. 警告
+0#rational#a. 理性的,合理的,推理的n. 有理数
+0#comic#n. 连环图画,喜剧演员,杂耍滑稽演员a.滑稽的
+0#narrate#v. 说故事,说明,叙述
+0#quotation#n. 引用语,价格,报价单
+0#infant#n. 婴儿,儿童a. 婴儿的,幼稚的
+0#asteroid#n. 小游星,小行星,海盘车a. 星状的
+0#modest#a. 谦逊的,羞怯的,端庄的,适度的
+0#indifference#n. 不重视,无兴趣,漠不关心
+0#loan#n. 贷款,借出,债权人v. 借,供应货款,借给
+0#calculation#n. 计算,考虑,计算的结果
+0#overall#a. 全部的,全体的,一切在内的ad.全部地n.罩衫
+0#coeducational#adj. 男女合校的
+0#sardonic#a. 嘲笑的,冷笑的,讥讽的
+0#delude#vt. 迷惑,蛊惑
+0#microbe#n. 微生物,细菌
+0#petty#a. 琐碎的,小气的
+0#expanse#n. 宽阔的区域,宽阔
+0#gush#n. 涌出,滔滔不绝的讲话v.迸出,滔滔不绝的讲话
+0#quest#n. 探索,寻求,调查v. 寻找,找,追寻猎物
+0#perform#vt. 履行,完成,执行,表演vi.行动,演出
+0#authority#n. 权威,专家,威信
+0#feminist#n. 男女平等主义者,女权扩张论者a.男女平等主义的
+0#democratic#a. 民主的
+0#desperately #adv. 1 自暴自弃地;绝望地，穷途末路地
+0#investigative#a. 研究的,调查的,好研究的
+0#alike#a. 相似的,同样的ad. 一样,以同样的方式
+0#realization#n. 实现,领悟,实得
+0#discharge#vt. 卸下,放出,解雇,放电,履行
+0#conflict#n. 冲突,矛盾,争执vi. 争执,撞斗,冲突,抵触
+0#universe#n. 宇宙,星系,思想等范围
+0#accountant#n. 会计员,会计师
+0#stem#n. 茎,柄,堵塞物,船首vt.装柄于
+0#category#n. 种类,类项
+0#stern#n. 尾部,船尾,臀a. 严厉的,严格的
+0#byproduct #n. 副产品
+0#consent#n. 同意,许可vi. 同意,承诺
+0#outline#n. 大纲,轮廓,概要vt. 描画轮廓n.大纲
+0#prevalent#a. 普遍的,流行的
+0#decode#vt. 解码,译解
+0#reef#n. 暗礁,礁,缩帆v. 缩(帆)
+0#motion#n. 移动,手势,动作,提议,请求v. 打手势
+0#entrench#vt. 围以壕沟,防护,保卫,使盘踞vi.侵犯
+0#troublesome#a. 麻烦的,讨厌的
+0#dangerously#adv. 危险地
+0#astronomical#a. 天文学的,天文数字的,庞大的
+0#alley#n. 小路,巷
+0#explosive#n. 炸药,爆炸物a. 易爆发的,爆炸的,暴躁的
+0#gem#n. 珠宝,宝石,珍贵之物vt. 饰以宝石
+0#prediction#n. 预言,预报
+0#sensible#a. 有感觉的,有判断力的,明智的
+0#apprentice#n. 学徒,生手vt. 使做学徒
+0#racial#a. 人种的,种族的
+0#pilgrim#n. 旅行者,朝圣者,香客vi. 朝圣
+0#compete#vi. 竞争,对抗
+0#impact#n. 冲击,冲突,影响,效果vt.挤入,撞击,压紧
+0#diction#n. 措辞,言语,用语
+0#violinist#n. 小提琴演奏者,小提琴家
+0#reconnect#vt. 使再接合
+0#personnel#n. 人员,职员
+0#garish#a. 炫耀的,过分装饰的
+0#suppress#vt. 镇压,使止住,查禁,抑制,禁止
+0#scout#n. 守候,侦察,侦察机,搜索vt.侦察,跟踪
+0#intellectual#n. 有知识者,知识分子 a.智力的
+0#migration#n. 移民,移往,移动
+0#culpable#a. 该责备的,有罪的,不周到的
+0#insult#n. 侮辱,无礼vt. 傲慢无礼,侮辱,刺激
+0#distaste#n. 讨厌,嫌恶
+0#manufacturer#n. 制造业者,厂商
+0#variable#n. 变数,可变物a. 可变的,不定的,易变的
+0#accurate#a. 正确的,精确的
+0#crumb#n. 碎屑,面包心,少许vt. 捏碎,弄碎
+0#stress#n. 压力,紧迫,强调,重点vt.加压力于,着重
+0#fade#vi. 褪色,消失,凋谢vt.使褪色a. 平淡的
+0#imagination#n. 想象,听觉,想象力
+0#massive#a. 大而重的,宽大的,宏伟的
+0#incessant#a. 不断的,不绝的,无尽的
+0#inherit#vt. 继承,遗传vi. 接受遗产
+0#liberal#n. 自由主义者,开明的人a. 慷慨的,不拘泥的
+0#geologic #adj. 地质(学)的,地质(学)上的
+0#cabin#n. 小屋,客舱vt. 关在小屋
+0#portrayal#n. 1 a. 描绘,描写[of]b. 叙述[of]2 肖像
+0#precursor#n. 先驱者,前导,先进者
+0#multiple#n. 倍数,并联a. 多样的,复合的,复杂的
+0#headstrong#a. 顽固的,刚愎的,任性的
+0#extraordinary#a. 非常的,特别的,非凡的
+0#relic#n. 神圣的遗物,遗迹,残片,遗风,纪念物
+0#architecture#n. 建筑学,建筑
+0#preeminent#a. 优秀的,超群的,卓越的
+0#oppression#n. 压抑,沉闷,压迫手段
+0#virtually#ad. 事实上
+0#fragment#n. 碎片,破片,断片
+0#obsession#n. 迷住,困扰
+0#inflame#vt. 激怒,点火,使发炎vi. 着火,激动,发炎
+0#footnote#n. 脚注
+0#enormous#a. 巨大的,庞大的
+0#static#n. 静电,静电干扰a. 静态的,静电的
+0#argument#n. 争论,引数,要旨
+0#endorse#vt. 支持,赞同,背书于,签
+0#collapse#n. 崩溃,倒塌,虚脱vi. 倒塌,崩溃,瓦解vt.使倒塌
+0#contact#n. 交际,接触vi.接触,会晤vt. 使接触
+0#paramount#n. 首长,最高当局a.最重要的,最高的
+0#desktop #n. 桌面
+0#unpredictable#a. 不可预知的
+0#legislator#n. 立法者,立法官,立法委员
+0#impediment#n. 妨碍,阻碍,行李,口吃
+0#restriction#n. 限制,限定,约束
+0#rack#n.架,行李架, ,vt. 放在架上
+0#antarctic#a. 南极的,南极地带的n. 南极圈
+0#conciliatory#a. 安抚的,怀柔的,融和的
+0#negotiation#n. 谈判,磋商,交涉
+0#livelihood#n. 生计,营生,生活
+0#complacency#n. = complacence
+0#imprint#vt. 印,印记号,铭刻n. 印,印记,痕迹,版本说明
+0#guesswork#n. 臆测,猜测,凭猜测所作之工作
+0#stock#n. 树干,祖先,股份a. 存货的,平凡的,普通的
+0#universally#adv. 一般地,无例外地,普遍地
+0#maintain#vt. 维持,维修,保持,主张,供养,坚持
+0#accommodation#n. 适应,调解,膳宿,贷款
+0#dehumanize#vt. 剥夺…的人性,使…无人性
+0#counterpart#n. 副本,复本,配对物,相应物
+0#panic#n. 恐慌,惊惶a. 惊慌的vt. 使惊慌
+0#nonetheless#adv. 然而，虽然如此，但是 
+0#belated#a. 迟来的
+0#habitat#n. 栖息地,居留地,自生地,聚集处
+0#virtuoso#n. 艺术品鉴赏家
+0#hostile#a. 怀敌意的,敌对的n. 敌对分子
+0#impede#vt. 妨碍,阻碍,阻止
+0#bump#n. 撞击,肿块vt. 碰撞vi. 撞,颠簸而行
+0#qualification#n. 资格,条件,限制
+0#classification#n. 分类,分级
+0#supreme#n. 至高,霸权a. 至高的,终极的,极端的,最大的
+0#elitist#n. 优秀人才,杰出人才a.优秀人才的,杰出人才的
+0#arboreal#a. 树的,乔木的,栖于树木的
+0#mere#n. 池塘a. 仅仅的,只不过的
+0#amphibian#a. 两栖类的,水陆两用的n.两栖动物,水陆两用飞机
+0#masterpiece#n. 杰作,名著
+0#disinformation#n. 故意的假情报
+0#insecurity#n. 不安全,不安全感
+0#reduce#vt. 减少,分解,降低 vi. 减少 v.缩小
+0#adolescent#a. 青春期的,青年的n. 青少年
+0#contemplation#n. 注视,沉思,打算
+0#outstanding#a. 杰出的,突出的,未付的
+0#gigantic#a. 巨人般的,巨大的
+0#entitle#vt. 取名为,给予名称,叫做
+0#muskrat#n. 麝香蔷薇
+0#vocalist#n. 声乐家,歌手
+0#dictator#n. 命令者,独裁者,独裁政权执政者
+0#aristocracy#n. 贵族,贵族社会,高级知识分子
+0#raise#n. 上升,高地,增高,提出vt.升起,举起,唤起,饲养
+0#poke#n. 刺,戳,懒汉,袋子vt. 戳,捅,拨开
+0#receptivity#n. 感受性,接受能力
+0#undaunted#a. 大无畏的,勇敢的
+0#improvement#n. 进步,改善,利用
+0#ability#n. 能力,才干
+0#bemoan#vt. 惋惜,认为遗憾,哀叹
+0#homogeneous#a. 同种的,同质的,均质的
+0#statement#n. 陈述,指令,声明
+0#tideland#n. 沙滩
+0#wield#vt. 使用,挥舞,运用
+0#viewer#n. 1 看者,观察者,参观者,看电视的人,幻灯机
+0#absent#a. 缺席的,不在的,缺乏的,漫不经心的vt. 缺席
+0#resist#v. 抵抗,耐得住,抵制,反抗n. 防染剂
+0#innovative#adj. 创新的
+0#artwork#n. 艺术品,美术品
+0#symbol#n. 符号,象征,代号,信条
+0#vividly #adv. 鲜明地,清晰地,生动地,活泼地
+0#disaster#n. 灾祸,不幸
+0#faithful#a. 忠实的,详确的,可靠的n.信徒
+0#parental#a. 父母亲的,做双亲的
+0#situate#vt. 使位于,使处于
+0#committee#n. 委员会
+0#botany#n. 植物学
+0#uniquely #adv. 独特地,唯一地,珍奇地
+0#hoar#a. 白的,灰色的,发白的n. 灰白,灰白色
+0#perch#n. 栖木,高位,杆,河鲈v. (使)栖息
+0#faction#n. 小派系,内讧
+0#complacent#a. 满足的,自满的,得意的
+0#enthusiast#n. 热心家,狂热者,爱好者
+0#synthesis#n. 综合,组织,综合体
+0#disastrous#a. 损失惨重的,悲伤的
+0#clinic#n. 诊所,临床教学
+0#candidate#n. 候选人,投考者
+0#horrible#a. 可怕的,极可憎的,极可厌的
+0#petition#n. 请愿,诉状,陈情书v.请求,恳求,请愿
+0#nutrient#a. 营养的,滋养的n. 营养物,滋养物
+0#blight#n. 枯萎病vt. 染上枯痿病,挫折vi. 枯萎
+0#starve#vt. 使饿死vi. 饿得要死
+0#reconciliation#n. 和解; 调停; 和谐,一致
+0#contestant#n. 竞争者
+0#ensemble#n. 全体,合唱曲,女人的全套服装
+0#conservatism#  a. 保守主义b. 保守性,保守的倾向
+0#catastrophic#a. 悲惨的,灾难的
+0#summit#n. 顶点,最高阶层a. 政府首脑的
+0#carp#n. 鲤鱼vi. 吹毛求疵,挑剔
+0#canoe#n. 独木舟,轻舟vi.乘独木舟vt.用独木舟运
+0#disturb#vt. 扰乱,妨碍,使不安
+0#vet#n. 兽医vi. 当兽医vt. 诊断,检审
+0#stiff#a. 坚硬的,严厉的,呆板的,生硬的,刚强的
+0#recognize#vt. 认出,认可,赏识,公认vi. 具结
+0#citizenry#n. 市民
+0#ethical#a. 伦理的,民族的,民族特有的
+0#expressive#a. 表达的
+0#flexibility#n. 弹性,适应性
+0#corruption#n. 腐败,堕落,贪污
+0#coin-operated #adj. <机器>投入硬币即发生作用的,投币式的
+0#arctic#a. 北极的,极寒的n. 北极圈,北极地方
+0#prior#a. 更重要的,较早的,在先的ad.居先n. 院长
+0#worldly#a. 世间的,世俗的,世上的
+0#encourage#vt. 鼓励,支持,激励
+0#competition#n. 竞争,竞赛
+0#embarrassment#n. 困难,阻碍,困窘
+0#intention#n. 意图,目的,观念
+0#peril#n. 危险,冒险vt. 置...于险境,冒险
+0#mistrust#n. 不信任,疑惑v. 不信任,疑惑
+0#freight#n. 船货,运费,货运vt. 装货,使充满,运送
+0#pronouncement#n. 宣言,宣告,发表
+0#reflection#n. 反映,沉思,映像,责难,想法,思考
+0#vine#n. 攀爬植物,藤,蔓,葡萄树vi. 形成蔓藤
+0#slang#n. 俚语v.辱骂,用俚语说
+0#foreshadow#vt. 成为前兆,暗示,预示
+0#levy#n. 征税,召集,课征vi. 征税vt.征收,发动
+0#paragraph#n. 段落,短评vt.,分段落n. 段落
+0#dismiss#vt. 解散,开除,解职vi. 解散v. 解散
+0#deter#vt. 制止,使断念,威慑
+0#brink#n. 边缘,水滨
+0#vehement#a. 热烈的,激烈的
+0#dignity#n. 尊严,高贵
+0#tragic#a. 悲惨的,悲剧的
+0#debilitate#vt. 使衰弱
+0#sociable#a. 好交际的,社交的,友善的n. 联谊会
+0#clan#n. 氏族,宗族,党派
+0#incorporate#a. 合并的,一体化的vt.合并vi.合并,混合
+0#condor#n. 秃鹰
+0#discard#vt. 丢弃,抛弃,解雇
+0#binary#a. 二进位的,二元的
+0#dignify#vt. 增威严,使高贵,故作显贵
+0#dramatist#n. 剧作家
+0#sustenance#n. 生计,食物
+0#geology#n. 地质学,地质概况
+0#pigeon#n. 鸽子
+0#obedience#n. 服从,顺从,忠实
+0#temperament#n. 气质,性质,性情
+0#corrective#a. 纠正的,改正的,矫正的n. 改善法,矫正物,中和物
+0#ethnicity#n. 1 属于少数民族2 少数民族的自尊心
+0#encounter#n. 相会,相遇,遭遇vt. 遇见,邂逅,会战vi.偶然相遇
+0#consign#vt. 交付,分配,委托,寄存
+0#preoccupy#vt. 先占领,先取,迷住
+0#economic#a. 经济上的,实用的,节省的
+0#bewilder#vt. 使不知所措
+0#unusually#adv. 1 异常地,特别地2 显著地,非常地
+0#despair#n. 绝望,失望vi. 绝望
+0#deference#n. 顺从,尊重
+0#opponent#n. 对手,敌手,反对者a. 敌对的,反对的
+0#instinct#n. 本能,直觉a. 充满的
+0#render#vt. 报答,归还,汇报,提出,反映vi.给予补偿
+0#interpret#vt. 解释,演出,翻译vi. 翻译,解释
+0#foam#n. 泡沫,水沫,泡沫材料vi.起泡沫,吐白沫
+0#potentially#ad. 可能地,潜在地,假定地
+0#inefficient#a. 无效率的,无能的
+0#interconnection#n. 互相连络
+0#racism#n. 种族主义,人种偏见
+0#exhibit#n. 展览品,陈列品,展览vt.展现,陈列
+0#bestow#vt. 授予,适用,留宿,放置,使用
+0#lean#n. 瘦肉,倾斜,弯曲 vi.倚靠,倾斜,依赖
+0#recrimination#n. 揭丑,反责
+0#mosquito#n. 蚊子
+0#initiative#n. 初步行动,主动a. 自发的,起始的
+0#disprove#vt. 证明...是不对的,提出...的反证,反驳
+0#speculation#n. 沉思,推测,投机
+0#contradictory#a. 反驳的,反对的,抗辩的n.正反对,矛盾对立
+0#therapeutic#a. 治疗的,治疗学的
+0#biography#n. 传记
+0#dwindle#vi. 减少,缩小,衰落vt. 使缩小
+0#contentious#a. 好争吵的,爱争论的,有异议的
+0#snout#n. 鼻口部,鼻子,猪嘴,蛇管的前端
+0#edify#vt. 启迪,熏陶,教诲
+0#reenact#vt. 再制定 (法律)  n. ~ment
+0#chronicle#n. 年代记,记录,编年史vt. 载入编年史
+0#technological#a. 科技的
+0#vanish#vi.消失,不见,成为零
+0#parallel#n. 平行,对比a.平行的,相似的vt.使平行
+0#survive#vt.生存,生还,幸免于vi. 活下来,幸存
+0#plausible#a. 似真实的,似合理的 ,巧嘴的
+0#confusion#n. 混乱,混淆,无秩序
+0#occupy#vt. 占领,占,使从事,担任,住进
+0#incineration#n. 烧成灰,焚化,灰化
+0#regional#a. 地方的,地域性的
+0#ecstasy#n. 狂喜,心醉神迷,忘形
+0#appease#vt. 安抚,缓和,平息,满足
+0#applaud#v. 拍手喝彩,称赞,赞同
+0#underlie#vt. 位于...之下,成为...的基础
+0#irreverence#n. 不敬,非礼,不敬的行为
+0#repetition#n. 重复,复诵,副本,复制品
+0#allegiance#n. 忠贞,效忠
+0#passionate#a. 热情的,热烈的,易怒的
+0#resent#vt. 愤恨,憎恶,怨恨
+0#taxes#n.税务；税捐；税收，税金
+0#toxic#a. 有毒的,中毒的
+0#subdue#vt. 使服从,压制,克制,抑制
+0#deduction#n. 减除,扣除,减除额,推论
+0#pyramid#n. 角锥,金字塔v. (使)渐增
+0#compost#n. 混合物,堆肥vt. 施堆肥
+0#completely#ad. 完全地,十分地,全然
+0#mythical#adj. 1 神话的; 神话中的2 虚构的
+0#modem#n. 调制解调器
+0#conscious#a. 有意识的,知觉的,觉察的
+0#tradition#n. 传说,传统,交付,引渡,惯例
+0#application#n. 应用,申请,志愿书n. 应用程序
+0#gloom#n. 忧沉,幽暗vi. 变忧沉,变黑暗vt. 使黑暗
+0#nomad#n. 游牧民族,流浪者a. 游牧的,流浪的
+0#momentum#n. 动力,要素
+0#explicitly#adv. 明白地, 明确地
+0#awful#a. 可怕的,庄严的
+0#counterfeit#n. 赝品,伪造品v.仿造,伪装
+0#whimsical#a. 心情浮动的,反复无常的,古怪的,异想天开的
+0#psychologist#n. 心理学者
+0#blast#n. 阵,一阵风,爆炸vi. 猛攻,公开批评,枯萎
+0#developmental#a. 发展上的,进化的,启发的
+0#tragedy#n. 悲剧,惨案,悲惨
+0#verbal#a. 词语的,言语的,动词的,逐字的,口头的
+0#excite#vt. 刺激,使兴奋,激励
+0#ostentatious#a. 装饰表面的,夸示的,华美的
+0#construct#vt. 构造,建造,想出,作图n. 构成物
+0#designer#n. 设计家,打图样的人,计划者,企图者,阴谋者
+0#critique#n. 批评,批评法,评论
+0#rearrange#vt. 再排列,重新整理
+0#ingenious#a. 灵敏的,精巧的,聪明的
+0#costume#n. 装束,服装
+0#ancestor#n. 祖先,祖宗
+0#informality#n. 非正式
+0#convolute#v. 回旋,卷旋,盘旋a. 旋绕的
+0#noteworthy#a. 值得注目的,显著的
+0#pervasive#a. 普遍的,蔓延的,渗透的
+0#severely#adv. 1 严格地,严厉地2 朴素地,简朴地
+0#malicious#a. 怀恶意的,恶毒的
+0#dismay#n. 沮丧vt. 使惊愕,使气馁
+0#melancholy#n. 忧郁,悲哀,愁思a. 忧郁的,使人悲伤的
+0#permanent#a. 永久的,不变的,固定的,持久的
+0#heave#n. 举,抛,起伏,鼓起vt.用力举起,使胀起
+0#indistinguishable#a. 不能辨别的,不能区别的
+0#shave#n. 修面,刮胡子,剃刀vt. 修面,剃,掠过
+0#poster#n. 海报,招贴,脚夫
+0#intrusion#n. 闯入,侵扰
+0#acknowledge#vt. 承认,答谢,认知
+0#punctuate#vt. 1 给…加标点符号2 a. 强调
+0#disguise#n. 假面目,假装vt. 假装,隐瞒
+0#exclusive#a. 独占的,唯一的,排外的a. 独占的
+0#exuberant#a. 繁茂的,丰富的,非凡的
+0#embody#vt. 具体表达,使具体化
+0#affect#vt. 影响,假装,倾向于,感动n. 感情
+0#comment#n. 注解,批评,评论vi. 批评,注解n. 备注
+0#stable#n. 马房,牛棚a. 稳定的,安定的,坚固的,坚定的
+0#publicity#n. 公开,名声,宣传
+0#conservationist#n. 保护管理论者,保护主义者
+0#wound#n. 创伤,伤口,痛苦,伤害vt.伤害,损害
+0#livestock#n. 家畜类
+0#segment#n. 片段,部分,分节v. 分割,分裂n. 段
+0#astronomy#n. 天文学
+0#fondness #n. 1 慈爱; 溺爱2[a ~]喜爱,嗜好
+0#reminiscence#n. 回想,回忆,话旧,怀旧,记忆力
+0#lucid#a. 清澈的,透明的,透彻的
+0#capricious#a. 反复无常的,善变的,任性的
+0#anonymous#a. 作者不详的,佚名的,无名的n. 无记录
+0#correspond#vi. 符合,通信,相当
+0#interior#n. 内部,内政a. 内部的,心灵的
+0#euphemism#n. 委婉的说法
+0#relatively#adv. (无比较级、最高级)相对地; 比较上,成比例地
+0#originality#n. 创意,新奇,原始
+0#excavation#n. 挖掘,发掘,挖掘的洞
+0#threshold#n. 门槛,入口,开端,阈
+0#expertise#n. 专家的意见,专门技术
+0#talented#adj. 有才能的,多才的
+0#chore#n. 零工,家务
+0#delegate#n. 代表vt. 委派...为代表
+0#readily#ad. 不迟疑地,迅速地,轻易地
+0#gorgeous#a. 华丽的,灿烂的
+0#baker#n. 面包师
+0#instrumental#a. 仪器的,器具的,可作为手段的
+0#gratitude#n. 感谢的心情
+0#convene#vt. 集合,召集,召唤vi. 聚集,集合
+0#undergo#vt. 遭受,经历,忍受
+0#swiftly#ad. 很快地,即刻
+0#stimulate#vt. 刺激,激励,鼓舞vi. 起刺激作用
+0#visionary#a. 幻影的,幻想的,梦想的n. 空想家,梦想者
+0#relevance#n. 中肯,适当
+0#clerk#n. 办事员,行员,书记vi. 当店员
+0#tranquil#a. 安静的
+0#precise#a. 精确的,严谨的,明白的
+0#renewal#n. 更新,革新,复兴,复始,恢复,修补,补充
+0#rightly#ad. 端正地,正当地,正确地
+0#inadequacy#n. 不适当,不十分,不完全
+0#extreme#n. 极端,末端a. 极端的,尽头的,偏激的
+0#causality#n. 因果关系
+0#offspring#n. 子孙,后代,产物
+0#obey#vt. 服从,遵从,顺从vi. 服从
+0#discrete#a. 不连续的a. 离散的
+0#artifice#n. 技巧,巧妙,诡计
+0#guideline #n. 指导路线,方针,指标
+0#demonstrator#n. 论证者,证明者,指示者,示威者
+0#maverick#n. 未烙饲主印记的小牛,不服从的人vi. 迷路
+0#irony#n. 反讽,讽刺,讽刺之事
+0#revolution#n. 革命,大变革,循环,转数,旋转
+0#amateurish#a. 业余的,非专门的,不熟练的
+0#canvas#n. 帆布,画布,油画
+0#blatant#a. 喧嚣的,吵闹的,俗丽的,炫耀的
+0#nowhere#ad. 无处,到处都无
+0#biographical#a. 传记的
+0#glaze#n. 釉,上光,光滑面vt. 装以玻璃vi.变成为光滑
+0#integrity#n. 正直,廉正,完整
+0#comply#vi. 顺从,答应
+0#rarity#n. 罕有,珍贵,稀薄
+0#implicit#a. 暗示的,盲从的,绝对的,固有的
+0#transgression#n. 违反,犯罪,逸出
+0#convenient#a. 方便的,合宜的
+0#spite#n. 恶意,怨恨,不顾vt. 故意刁难,欺侮
+0#vindication#n. 辩护,拥护,辩明
+0#bartender#n. 酒保, 酒吧间销售酒精饮料的人,酒吧侍者
+0#evaluation#n. 评估,估价,求值
+0#delight#n. 高兴,愉快vt. 使高兴,乐于vi. 喜爱
+0#productivity#n. 生产力
+0#monotonous#a. 单调的,无变化的
+0#relieve#vt. 减轻,救济,解除,使免除
+0#wildlife#n. 野生植物
+0#citation#n. 引用,引证,引用文
+0#disposable#a. 可任意使用的
+0#authorize#vt. 授权与,批准,委托代替
+0#electronic#a. 电子的
+0#prohibitive#a. 禁止的,抑制的
+0#magnificent#a. 华丽的,高尚的,丰富的
+0#enhance#vt. 提高,加强,增加
+0#exhaustion#n. 疲惫,筋疲力尽,竭尽
+0#grove#n. 小树林
+0#bureaucratic#a. 官僚的
+0#opulent#a. 丰裕的,丰富的,丰饶的
+0#interviewer#n. 会见者,面谈者,访问记者
+0#apprehensive#a. 惴惴不安的,敏悟的,有知觉的
+0#accidentally#ad. 偶然地,意外地
+0#derivative#a. 引出的,系出的n. 引出之物 ,衍生字
+0#waterfront #n.滨水地方; 湖边 [海岸]地区[路] ;河岸
+0#interval#n. 间隔,距离,间歇,间隙n. 时间间隔
+0#improvisational #adj. 即兴的
+0#resistance#n. 抵抗力,反抗,耐力,反抗行动,电阻,反对,阻力
+0#ornate#a. 装饰的,华丽的
+0#chemist#n. 化学家,药剂师
+0#administer#vt. 管理,治理,执行vi. 管理,有助于
+0#ingenuity#n. 智巧,创造力,精巧的设计
+0#steep#n. 浸渍,浸液,悬崖a. 险峻的,陡峭的
+0#enthrall#vt. 迷惑,奴役,迷住
+0#effort#n. 努力,成就
+0#paperback #n. 平装本,纸面本
+0#deprive#vt. 剥夺,使丧失
+0#archaeological#a. 考古学的,考古学上的
+0#grievance#n. 委屈,冤情,苦况
+0#enzyme#n. 酶
+0#aggressive#a. 侵略的,攻击性的
+0#expectation#n. 期待,指望,展望
+0#mediate#a. 居间的,间接的vt. 斡旋vi.调解
+0#urban#a. 都市的,住在都市的,习惯于都市的
+0#demean#vt. 贬低身份,举止
+0#rite#n. 仪式,典礼,礼拜式,惯例,习俗
+0#trunk#n. 干线,树干,躯干,箱子a.树干的,躯干的
+0#heed#n. 注意,留心v. 注意,留心
+0#insensitive#a. 对...没有感觉的,感觉迟钝的
+0#collaborate#vi. 合作,通敌
+0#cache#n. 隐藏所,贮藏物vt.隐藏,窖藏
+0#repudiate#vt. 离婚,抛弃,拒绝履行,拒付,拒绝
+0#sully#vt. 玷污,弄脏n. 污点,脏污
+0#irrigation#n. 灌溉,冲洗
+0#simplicity#n. 单纯,简朴,朴素,天真,无知,坦率
+0#composer#n. 作曲家,作家,设计者
+0#thesis#n. 论题,论文
+0#regressive#a. 后退的,逆行的,退化的,回归的
+0#reproduce#v. 繁殖,再生,复制,生殖
+0#demand#n. 要求,需求,需要v. 要求,查询
+0#bud#n. 芽,花蕾vi. 发芽,萌芽vt. 使发芽
+0#curator#n. 1 馆长,主持者2 理事,评议员3 监护人
+0#conceited#a. 自负的,逞能的,狂想的
+0#equivocate#vi. 说模棱两可的话,支吾
+0#totalitarian#a. 极权主义的n. 极权主义者
+0#adopt#vt. 采用,收养,接受
+0#experiment#n. 实验,试验,尝试vi. 实验,尝试
+0#symbolic#n. 代号a. 象征的,符号的
+0#rugged#a. 高低不平的,崎岖的,粗糙的
+0#pound#n. 磅,英镑,重击,拘留所,鱼塘vt.强烈打击
+0#reproach#n. 责备,耻辱vt.责备,申斥,使丢脸
+0#process#n. 程序,进行,过程vt.加工 a. 经加工的
+0#suspect#n. 嫌疑犯a.可疑的v. 怀疑,猜想
+0#despise#vt. 轻视
+0#elude#vt. 逃避,规避,使困惑
+0#insolent#n. 侮慢无乱的人a. 粗野的,无礼的,侮慢的
+0#safeguard#n. 保卫,保护措施,防护设施vt.保卫,保护
+0#flagrant#a. 非常的,不能容忍的,恶名昭著的
+0#metaphor#n. 隐喻,暗喻
+0#violently#a. 猛烈的,激烈的,极端的
+0#corridor#n. 走廊,回廊
+0#chicanery#n. 强词夺理,狡辩,欺骗
+0#inscrutable#a. 难以了解的,不能预测的
+0#felicitous#a. 巧妙的,极为适当的,可喜的
+0#esoteric#a. 秘教的,奥秘的,秘传的
+0#efficiency#n. 效率,效能,有效
+0#psychology#n. 心理学,心理状态
+0#retire#n. 隐居vi. 引退,退役,撤退vt. 撤退,辞退
+0#selection#n. 选择,选文,选品
+0#reviewer#n. 评论家,批评家,书评家,检阅者
+0#intervene#vi. 插入,调停,干涉
+0#embolden#vt. 使大胆,使有胆量
+0#landmark#n. 陆标,划时代的事,地界标
+0#biographer#n. 传记作者
+0#inconsistent#a. 不一致的,不合理的,矛盾的
+0#biosphere#n. [生物]生存范围,生物圈
+0#radiation#n. 放射线
+0#legitimate#a. 合法的,正当的,婚生的vt.使合法
+0#daunt#vt. 威吓,难倒,使气馁
+0#parliamentary#a. 国会的,议会的,议会制度的
+0#documentary#n. 纪录片a. 文件的
+0#moral#n. 道德,品行,寓意a. 道德的,良心的
+0#defense#n. 防卫,防卫物
+0#infraction#n. 违反,侵害
+0#spate#n. 泛滥,洪水,一阵,大量
+0#austere#a. 严峻的,简朴的
+0#hop#n.单脚跳,跳跃vi跳跃vt. 跃过
+0#inhospitable#a. 冷淡的,不和气的,不亲切的
+0#estrangement#n. 疏远
+0#absurdity#n. 荒谬,悖理,荒谬的事
+0#mercury#n. 水银,汞,使者,墨丘利神
+0#saxophone#n. 萨克斯管
+0#speculate#vi. 深思,推测,投机
+0#exalt#vt. 提升,提高,赞扬,使得意vi. 使人兴奋
+0#dictatorship#n. 独裁者之职,独裁权,独裁政权
+0#exorbitant#a. 过度的,过高的,过分的
+0#compatible#a. 能共处的,可并立的,适合的
+0#fabrication#n. 制造,建造,虚构的谎言
+0#nervous#a. 神经紧张的,不安的,神经的
+0#abolish#vt. 废止,革除,取消
+0#academic#a. 学院的,理论的,不够实际的
+0#assignment#n. 分配,功课,任务
+0#agitate#vt. 使摇动,骚动vi. 鼓动
+0#dwarf#n. 矮子,侏儒v. (使)变矮小
+0#authenticity#n. 确实性,真实性
+0#factor#n. 因素,因数,代理人
+0#exotic#a. 异国的,外来的n. 外来物,舶来品
+0#exposure#n. 暴露,揭发,揭露
+0#average#n. 平均,平均数,海损a.一般的,通常的,平均的
+0#presumptuous#a. 放肆的,冒昧的,冒失的
+0#holistic#adj. 整体的, 全盘的
+0#vegetation#n. 植物
+0#inconsequential#a. 不合逻辑的,不合理的,不重要的
+0#resort#n. 度假胜地,手段,凭借,常去vi.诉诸,常去
+0#conclusion#n. 结论,结尾,断案
+0#destroy#vt. 破坏,毁坏,消灭
+0#unwilling#a. 不愿意的,勉强的
+0#genetic#a. 遗传的,起源的
+0#yield#n. 生产量 vt.生产,放纵,被迫放弃
+0#glacial#a. 冰的,冰河的,冰河时代的,冰冷的
+0#sneer#n. 冷笑,嘲笑vi. 嘲笑,冷笑vt. 嘲笑着说
+0#formally#ad. 正式地,拘泥礼仪,形式上
+0#damage#n. 损害,伤害v. 损害
+0#volcano#n. 火山
+0#impartial#a. 公平的,不偏不倚的
+0#implicate#vt. 含意,暗示,牵连n. 包含的东西
+0#unforeseen#a. 无法预料的
+0#cathartic#n. 泻药,通便药a. 通便的,导泻的
+0#photographer#n. (报纸、杂志等之) 摄影者,摄影家
+0#invigorate#vt. 赋予精神,鼓舞,激动,使健壮
+0#blade#n. 刀锋,刀口,剑
+0#televise#v. 广播,播映
+0#melodious#a. 旋律美妙的,调子优美的,音乐性的
+0#assumption#n. 假定,假装,视为当然之事
+0#tuck#n. 缝摺,活力,食品vt. 打摺,卷起
+0#defensible#a. 可防卫的,可拥护的,可辩护的
+0#nutrition#n. 营养,营养学
+0#temporarily#ad. 暂时,一时,临时
+0#jigsaw#n. 竖锯vt. 用竖锯锯
+0#curse#n. 天罚,恶骂,诅咒vt. 诅咒,咒骂
+0#actuality#n. 实在,现实,现状
+0#entice#vt. 诱骗,引诱,怂恿
+0#coordinate#n. 同等的人物 ,坐标a. 同等的v. (使)协调
+0#plight#n. 境况,誓约,困境vt. 宣誓,保证,约定
+0#cynicism#n. 犬儒主义
+0#physician#n. 医师,内科医师
+0#affordable #adj. 提供得起的
+0#metaphorically#adv. 用隐喻,比喻地
+0#aspiration #n. 热望,渴望
+0#questionable#a. 可疑的
+0#journal#n. 日记,杂志,日报
+0#thick#a.厚的,粗壮的,浓的,密集的,密的,迟钝的
+0#reference#n. 参考,索引,参照v.引用
+0#arcane#a. 神秘的,不可思议的
+0#tenacity#n. 固执,不屈不挠,顽固,坚韧
+0#substitute#n. 代理,代理人,代用品,代替物vi.替代,取代
+0#declare#v. 宣布,声明,申报,断言
+0#respectful#a. 表示尊敬的,有礼貌的,谦恭的
+0#discipline#n. 训练,纪律vt. 训练,惩罚
+0#hue#n. 样子,色,色彩,叫声n. 色调
+0#revise#n. 校订,修正,再校稿vt. 校订,修正,校正
+0#legacy#n. 祖先传下来之物,遗赠物
+0#boredom#n. 厌烦,厌倦,令人厌烦的事物
+0#plunge#n. 钻进,落下,盲目投资vi.投入,急降,下降
+0#continent#n. 大陆,洲a. 自制的
+0#self-esteem #n. 自尊,自负,自大
+0#animosity#n. 仇恨,憎恶,敌意
+0#unidentified#a. 未经确认的
+0#antiquity#n. 古老,古代,古代的遗物
+0#reluctant#a. 不情愿的,勉强的,厌恶的
+0#stir#n. 骚动,轰动vt. 动,移动,摇动vi. 走动,传播
+0#beggar#n. 乞丐vt. 使贫穷,使成乞丐
+0#guardian#n. 监护人,保护人a. 保护的
+0#adulation#n. 谄媚,奉承,阿谀
+0#parish#n. 教区
+0#devastate#vt. 毁坏
+0#advertise#vt. 做广告,通知vi. 做广告
+0#glimpse#n. 一瞥,一闪vi. 投以一瞥,闪烁不定vt.瞥见
+0#vacant#a. 空的,空白的,空灵的,空缺的,茫然的
+0#poignant#a. 严厉的,尖锐的,剧烈的
+0#ephemeral#a. 朝生暮死,短命,短暂的
+0#marble#n. 大理石,石弹,雕刻品a.大理石的,冷酷无情的
+0#mingle#v. (使)混合
+0#bourgeois#n. 中产阶级分子,商人a.中产阶级的,平庸的
+0#athlete#n. 运动员,运动选手
+0#wage#n. 薪水,工资,代价,报偿vt.开展,进行
+0#dissent#n. 异议vi. 持异议,不同意
+0#rely#vi. 信赖,依赖,信任
+0#mandate#n. 命令,指令,要求vt. 委任统治
+0#reputation#n. 名誉,名声,声望
+0#steadily#ad. 稳定地,无变化地,有规则地
+0#eradicate#vt. 根除,扑灭,根绝,消灭
+0#raid#n. 袭击,突袭,搜捕v. 奇袭,搜捕
+0#representative#n. 代表,众议员a. 描写的,表现的,典型的
+0#conclude#vt. 结束,作结论,推断vi. 结束,断定
+0#incongruous#a. 不协调的,不一致的,前后不一的
+0#dwell#vi. 居住,踌躇
+0#suffrage#n. 投票,选举权,参政权,代祷
+0#temporary#a. 暂时的,临时的n. 临时工n. 临时
+0#mediocrity#n. 平常,平庸之才
+0#classical#a. 古典的,正统派的,古典主义的
+0#flout#vt. 嘲笑,愚弄vi.表示轻蔑n. 嘲笑,愚弄,轻视
+0#anticipate#vt. 预期,占先,提前使用
+0#despondent#a. 丧气的,失望的,没有精神的
+0#windmill#n. 风车
+0#significantly  #adv. 1 有含意地,暗示地2 相当地,显著地
+0#atmosphere#n. 大气,气氛
+0#solitude#n. 孤独,单独,孤寂
+0#disgruntle#vt. 使不高兴
+0#protagonist#n. 主演,主角,主唱者
+0#modify#vt. 修正,变更,减轻,缓和,修饰v. 修改
+0#epitomize#vt. 摘要,概括
+0#thump#n. 重打,重击声v.重打,砰地撞到,用拳头打
+0#complaint#n. 诉苦,抱怨,控诉
+0#predicament#n. 状态,穷境,困局
+0#coyote#n. 一种小狼,山狗
+0#intuition#n. 直觉,直觉的知识
+0#watercolor #n. 1水彩颜料2 水彩画3 水彩画法
+0#disappoint#vt. 使失望
+0#overrate#vt. 评价过高,高估,估价过高
+0#bulk#n. 大小,体积,大批,大多数vt.显得大,显得重要,
+0#undoubtedly #adv. 毋庸置疑地; 确实地
+0#genotype#n. 基因型
+0#aquatic#n. 水生动物,水草a.水生的,水中的
+0#vitality#n. 活力,生命力
+0#epidemic#n. 传染病,流行病a. 流行的,传染性的
+0#assimilation#n. 同化,同化作用,消化
+0#scent#n. 气味,香味,香水,嗅觉vt.嗅,使充满气味
+0#physically#ad. 身体上地
+0#entertainer#n.表演娱乐节目的人,演艺人员
+0#primary#n. 最主要者,原色a.主要的,初期的,基本的
+0#lavish#a. 大方的,丰富的,浪费的vt.浪费,滥用,慷慨给予
+0#tremendous#a. 巨大的,非常的,可怕的
+0#persevere#vi. 坚持,孜孜不倦,不屈不挠
+0#radiate#vt. 放射,散发,广播vi.发光a. 有射线的
+0#complimentary#a. 问候的,称赞的,夸奖的
+0#lofty#a. 高的,高超的,傲慢的,玄虚的,高级的
+0#witness#n. 证人,目击者,证词,证明,证据vt.目击 
+0#devise#vt. 设计,发明,图谋,遗赠给n. 遗赠
+0#artificiality#n. 不自然,不自然之物,人造物
+0#dangle#vi. 用某事物诱惑，吊胃口
+0#intensity#n. 强烈,紧张,强度
+0#novelty#n. 新奇,新鲜,新奇的事物
+0#anthropologist#n. 人类学家
+0#cast#n. 演员阵容,投掷,性质,预测,铸件vt.投,掷 
+0#rumor#n. 谣言,传闻vt. 谣传
+0#align#vi. 排列,排成一行,结盟vt. 使结盟
+0#coalition#n. 结合,合并,联合
+0#supportive#adj. 1 有支持作用的,有支持力的2合作的
+0#squirrel#n. 松鼠,松鼠的毛皮vt. 贮藏以备用
+0#heal#vi. 痊愈vt. 使复原,使和解,治愈
+0#organic#a. 器官的,有机的,组织的,根本的
+0#establishment#n. 确立,制定,设施
+0#obtain#vt. 获得,达到vi. 流行
+0#defensive#a. 防卫的,防备用的,辩护的n. 守势
+0#publication#n. 出版,公布,出版物
+0#innate#a. 先天的,天生的
+0#complicity#n. 共谋,共犯,连累
+0#isolate#vt. 使隔离,使孤立,使绝缘n. 隔离种群
+0#erosion#n. 腐蚀,冲蚀,侵蚀
+0#investigator#n. 研究者,调查者,审查者
+0#avert#vt. 转开,避免,防止
+0#versatility#n. 多种变化,多才多艺,变通
+0#fortunate#a. 幸运的,幸福的
+0#remnant#n. 剩余,零碎货,遗迹a. 剩余的,残余的
+0#revolt#n. 叛乱,反抗,反感vi.叛乱,厌恶vt. 使反感
+0#intact#a. 尚未被人碰过的,原封不动的,完整的
+0#poetry#n. 诗,韵文,诗歌
+0#proclaim#vt. 宣布,公告,赞扬,表明,宣言
+0#lounge#n. 闲逛,休闲室,长沙发vi.闲混
+0#abstruse#a. 难解的,深奥的
+0#conception#n. 观念,概念
+0#feudalism#n. 封建制度
+0#comprise#vt. 包含,构成
+0#initial#n. 字首,首字母a. 开始的,最初的,字首的
+0#confine#vt. 限制,闭居,禁闭n. 边缘,范围,区域
+0#competent#a. 能干的,胜任的,有权能的,足够的
+0#publicly#ad. 公然地,舆论上
+0#interpersonal#a. 人与人之间的,关于人与人之间关系的
+0#graphic#a. 绘画似的,图解的
+0#measurement#n. 尺寸n. 度量,度量单位
+0#bandleader#n. 领队;(尤指) 跳舞乐队之领队
+0#slightly#ad. 些微地,苗条地
+0#argumentative#a. 好辩的,爱穷根究理的,争论的
+0#compass#n. 指南针,周围,境界vt. 包围,达成,企图
+0#fallacy#n. 错误的观念或信念,谬见,谬论
+0#credential#n. 国书,凭据,印信
+0#rough#n. 粗糙的东西,毛坯,未加工品,梗概
+0#restraint#n. 抑制,克制,束缚
+0#augment#v. 增加,增大n. 增加
+0#extremely#ad. 极端地,非常地,很
+0#counselor#n. 顾问,参事,法律顾问
+0#convergence#n. 集中,收敛
+0#belief#n. 信念,相信,信仰
+0#mount#vi. 爬上,增长,上马
+0#inquisitive#a. 想问的,想知道的,好追根究底的
+0#deliver#vt. 递送,陈述,释放,发表,交付,投递,引渡
+0#introspection#n. 内省,反省
+0#incomprehensible#a. 不能理解,费解的,无限的
+0#unusual#a. 不寻常的,罕见的,非常的
+0#bedrock#n. 岩床,根底,基础
+0#humane#a. 有人情的,人道的,仁慈的
+0#galaxy#n. 银河,星系,一群显赫的人物
+0#mechanic#n. 机械工,技工a. 手工的
+0#architectural#a. 建筑的,建筑学的,建筑术的
+0#realistic#a. 现实的,逼真的,现实主义的,实在论的
+0#dissension#n. 意见不合,纠纷,倾轧
+0#resignation#n. 辞职,辞呈,听从
+0#medium#n. 媒体,方法a. 半生熟的,中的n.媒体
+0#teem#vi. 充满,富于,涌现,倾注vt. 倒出
+0#doom#n. 厄运,不幸,法律,死亡,宣告vt.命中注定
+0#comprehensible#a. 可理解的,易于了解的
+0#hopper#n. 单足跳者
+0#feature#n. 特征,容貌,特色,特写vt.是...的特色,特写
+0#creation#n. 创造,创作物,发明
+0#gallery#n. 走廊,最高楼座,画廊n. 图库
+0#impersonal#a. 客观的,和个人无关的,非人称的
+0#lyric#n. 抒情诗,歌词a. 抒情的
+0#vex#vt. 使烦恼,恼怒
+0#sleepiness#n. 想睡
+0#autonomy#n. 自治
+0#hierarchy#n. 阶级组织,教士政治,僧侣政治
+0#dedication#n. 奉献,致力,献辞
+0#monk#n. 修道士,僧侣,和尚
+0#perpetual#a. 永久的,不断的,没完没了的,四季开花的
+0#generator#n. 产生器,发电机,生产者
+0#analogous#a. 类似的,相似的
+0#adaptability#n. 适应性
+0#cloy#vt. 使吃饱,使过饱,使厌腻vi. 吃饱
+0#founding #adj. 成立的
+0#warren#n. 养兔场,拥挤的地方
+0#crater#n. 火山口,喷火口,弹坑
+0#cautious#a. 谨慎的,小心的
+0#parenthetical#adj. = parenthetic adv. ~ly
+0#prominent#a. 卓越的,显著的,凸出的,突起的
+0#accidental#a. 意外的,偶然的n. 非本质属性
+0#cultivate#vt. 培养,耕作
+0#mob#n. 暴民,民众,暴徒vt.乱挤,围攻
+0#memorial#n. 纪念物,请愿书a. 纪念的,记忆的
+0#concrete#n. 水泥,混凝土a. 具体的v. (使)凝结
+0#ferocious#a. 残忍的,凶猛的
+0#dilatory#a. 拖拉的
+0#physical#a. 身体的,物质的,自然的n. 体格检查
+0#material#n. 材料,物资,布料,素材a.物质的,肉体的,具体的
+0#scatter#n. 消散,分散,散布,散射v散布,散播,消散
+0#bleak#a. 萧瑟的,苍白的,荒凉的,阴冷的
+0#affluence#n. 富裕,富足,流入
+0#fastidious#a. 难取悦的,挑剔的,苛求的
+0#resentment#n. 怨恨,愤恨
+0#excitement#n. 刺激,兴奋
+0#narrative#n. 叙述,故事a. 叙述的,叙事的,故事体的
+0#fairy#n. 仙女,精灵a. 仙女的
+0#junk#n. 垃圾,舢板
+0#bugaboo#n. 1 鬼怪,妖怪,吓人的东西2  (常指) 莫名的恐惧
+0#exempt#n. 免税者,被免除义务者a. 免除的vt.使免除
+0#hackney#n. 乘用马,出租马车,操贱役的人a. 出租的,陈腐的
+0#ruthless#a. 无情的,残忍的,毫不留情的
+0#entertainment#n. 娱乐,款待,娱乐表演
+0#settler#n. 移民者,居留者,赠予者
+0#crucial#a. 决定性的,重要的,严厉的
+0#loaf#n. 一条面包,块,游荡v. 游手好闲,虚度光阴
+0#wry#a. 扭歪的,歪曲的,歪斜的;v扭曲,扭歪
+0#spontaneous#a. 自然的,自发的,未经琢磨的
+0#prey#n. 被掠食者,牺牲者vi. 捕食,掠夺,折磨
+0#absolutist#n. 专制主义者,专制政治论者,绝对论者
+0#infamous#a. 无耻的,不名誉的,声名狼藉的
+0#close-up#n. 特写镜头,仔细的观察,小传
+0#ailment#n. 小病,疾病
+0#cue#n. 开端,线索,发辫,长队,开始vt. 编发辫
+0#deny#v. 否认,拒绝
+0#van#n. 货车,篷车,前卫,前驱,先锋vt.用车搬运
+0#squander#vt. 浪费,使分散vi. 浪费,漂泊,四散
+0#prime#n. 最佳部分,初期,全盛期a.主要的,根本的
+0#unreasonable#a. 不合理的,过度的,不切实际的
+0#spider#n. 蜘蛛,设圈套者
+0#mental#,象
+0#complexity#n. 复杂,复杂性,复杂的事物
+0#hydrogen#n. 氢
+0#haunt#n. 常到的地方,生息地vt.常到vi.出没
+0#marvelous#a. 令人惊异的,了不起的,不平常的
+0#fierce#a. 凶猛的,猛烈的,热烈的,暴躁的
+0#trumpet#n. 喇叭,喇叭声vi. 吹喇叭vt.,吹嘘
+0#mysterious#a. 神秘的,难解的,不可思议的
+0#inasmuch#ad. 因...之故,因为
+0#incredulous#a. 怀疑的,不轻信的
+0#ambition#n. 野心,志气
+0#anthology#n. 诗选,文选
+0#shepherd#n. 牧羊者,牧师,指导者vt. 看守,领导,指导,牧羊
+0#expedition#n. 远征,探险队,迅速
+0#divert#vt. 转移,使欢娱vi. 转移
+0#settlement#n. 解决,处理,结算,沉降,殖民地
+0#transmission#n. 传输,传送,变速器
+0#portray#vt. 描绘,描写,逼真地描写
+0#convention#n. 大会,协定,惯例n. 约定
+0#versus#prep. 对
+0#life-form#n. 生物
+0#anxiety#n. 焦虑,忧虑,焦虑的事
+0#strident#a. 刺耳的,吱吱尖叫的,尖锐的
+0#terminate#a. 有结尾的,有限的vi.结束,终止vt.使停止
+0#elevator#n. 电梯,升降机
+0#firmly#ad. 坚固,坚定,断然
+0#replacement#n. 交换,更换,代替者
+0#grudge#n. 怨恨,恶意vt. 怀恨,嫉妒,吝惜
+0#performance#n. 绩效,表现,演出
+0#grocery#n. 食品杂货
+0#concentration#n. 集中,集合,专心
+0#grease#n. 兽脂,油脂,贿赂vt. 涂脂于,贿赂
+0#diorama#n. 1 西洋镜,透视画2  实景3 透视画馆
+0#disruptive#adj. 1 引起瓦解的,破坏性的2由分裂而产生的
+0#split#n. 劈开,裂片,裂缝,派别,派系,分裂vi. 分离
+0#adaptation#n. 改编,适应,改编成的作品
+0#cathedral#n. 大教堂
+0#aplomb#n. 沉着,泰然自若,垂直
+0#unremarkable#adj. 不显著; 不值得注意的; 平凡的
+0#personification#n. 拟人,人格化,拟人法
+0#vampire#n. 吸血鬼
+0#rage#n. 愤怒,情绪激动,狂暴vi. 大怒,狂吹,风行
+0#hest#n. [古]命令,训谕 (behest)
+0#definitely#adv.  明确地,明白地; 确实地
+0#discernment#n. 1 识别2 眼力,洞察力,敏锐
+0#easel#n. 画架,黑板架
+0#hamper#n. 食盒,食篮,阻碍物vt.阻碍,妨碍
+0#devotion#n. 热爱,投入
+0#notorious#a. 声名狼藉的,恶名昭张的,众人皆知的
+0#rediscover#vt. 再发现
+0#hibernate#vi. 过冬,冬眠,避寒
+0#individualism#n. 个人主义
+0#glow#n. 赤热,光辉,红光,热烈vi.发红光,红光焕发,发热
+0#painterly#a. 画家的,绘画的,强调色彩的
+0#prohibition#n. 禁令,禁止
+0#geologist#n. 地质学者
+0#futile#a. 无用的,琐细的,无效果的
+0#continental#a. 大陆的,洲的n. 欧洲大陆人
+0#gullibility#n. 易受骗
+0#transparent#a. 透明的,显然的,明晰的n. 透明
+0#phenomenon#n. 现象,特殊的人,特殊的事物,奇迹
+0#blame#n. 过失,责备vt. 责备,归咎于
+0#consumer#n. 消费者
+0#circumspect#a. 细心的,慎重的
+0#swallow#n. 燕子,吞咽,喉vt耗尽,轻信,取消,压制,忍受
+0#alga#n. 藻类,海藻
+0#endurance#n. 忍耐,忍耐力,耐性
+0#astonish#vt. 使惊讶
+0#forbearance#n. 节制,自制,忍耐
+0#fragmentary#adj. 1 破片的,碎片的2片断的
+0#befall#v. 降临
+0#comma#n. 逗点,逗号
+0#makeup #n. 天性,化妆品,补考,虚构,补充
+0#plausibility#n. 似有道理,善装门面,善辩
+0#herbivore#n. 草食动物
+0#ballad#n. 歌谣
+0#diversity#n. 差异,多样性
+0#capacity#n. 容量,能力,才能,资格n. 容量
+0#department#n. 部门,系,机关
+0#behavioral#a. 动作的
+0#appendix#n. 附录,盲肠
+0#fake#n. 假货a. 假的vt. 假造vi. 伪装
+0#innumerable#a. 无数的,数不清的
+0#wrath#n. 愤怒,激怒,猛烈的力量,
+0#innocence#n. 无罪,无知,天真无邪
+0#unease#n. 不安
+0#absorb#vt. 吸收,并吞,全神贯注,同化
+0#dispute#n. 争论v. 争论
+0#orchestra#n. 管弦乐队,乐队演奏处
+0#scenery#n. 风景,景色,舞台布景
+0#seriously#adv. 1 a. 认真地,正经地b.说正经地2严重地
+0#scoff#n. 嘲笑,嘲弄,食品,笑柄v嘲笑,嘲弄,贪吃,狼吞虎咽
+0#opportunity#n. 机会,时机
+0#carving#n. 雕刻品,雕刻,雕刻术
+0#popularly#ad. 一般地,通俗地,平易地,通过民众
+0#fixture#n. 固定物,设备
+0#assert#vt. 主张,声明,断言
+0#fertilizer#n. 肥料,受精媒介物
+0#competitor#n. 竞争者
+0#emphasis#n. 强调,加强,重要,强语气
+0#unwarranted#a. 未获保证的,无保证的,未获承认的
+0#deluge#n. 大洪水,泛滥vt. 使泛滥
+0#appearance#n. 外表,出现,登台n. 外观,版面
+0#injustice#n. 不公平,不讲道义
+0#agonize#vt. 使苦恼,折磨vi. 感到痛苦
+0#prescribe#v. 规定,命令,开处方,嘱咐,指示
+0#cramp#n. 抽筋,腹部绞痛,铁箍a. 狭窄的,难解的
+0#generosity#n. 慷慨,宽大
+0#tropical#a. 热带的,热情的
+0#derelict#a. 被抛弃了的,无主的n.玩忽职守者
+0#captive#n. 俘虏,迷恋者a. 被俘的,被迷住的
+0#recollection#n. 记忆,回想,回忆
+0#pedagogy#n. 教育学,教授法,教育
+0#lecturer#n. 演讲者,讲师
+0#facility#n. 设备,容易,灵巧
+0#quality#n. 品质,特质,才能,质量a. 优质的n. 品质
+0#accord#n. 一致,调和,协定vt. 一致,给予vi. 符合
+0#rebel#n. 叛徒,反叛者vi. 造反,反抗,谋反a. 造反的
+0#microorganism#n. 微生物,微小动植物
+0#baffle#vt. 困惑,为难,使挫折vi. 徒作挣扎n.迷惑
+0#knot#n. 结,群,困难v. 打结,(使)纠缠
+0#column#n. 专栏,圆柱,纵队n. 列,柱形图
+0#interruption#n. 打岔,中断,中断之事
+0#logical#a. 合乎逻辑的,合理的
+0#inventory#n. 详细目录,存货清单vt.列入详细目录
+0#rehearse#vt. 预演,排演,使排练,练习vi. 排练,练习
+0#ponder#v. 沉思,考虑
+0#descent#n. 降落,家系,侵袭,血统
+0#attorney#n. 代理人,律师
+0#buck#n. 元,雄鹿 ,谈话,自夸
+0#audition#n. 听,听力,试听
+0#retain#vt. 保持,保有,聘请,记得,留住
+0#sensibility#n. 感性,感觉,情感
+0#beseech#v. 恳求
+0#poorly#ad. 贫穷地,不充分地,贫乏地a.心情恶劣的
+0#underestimate#n. 低估vt. 低估,看轻
+0#susceptible#a. 易受影响的,易感动的,容许...的
+0#acceptable#a. 可接受的,合意的,合适的
+0#mess#n. 食堂,伙食,困境,乱七八糟vt.将...弄糟
+0#magical#a. 魔术的,有魔力的,不可思议的
+0#realism#n. 写实主义,现实,实在论
+0#dim#a. 暗淡的,模糊的vt. 使暗淡
+0#specialize#vt. 使特殊化,列举,特别指明 vi.成为专家
+0#geneticist#n. 遗传学者
+0#workforce#n. 员工
+0#insufficient#a. 不够的,不能胜任的,不充足的
+0#chili #n. 红辣椒
+0#subordinate#n. 属下,附属物a. 下级的,次要的vt.使居下位
+0#context#n. 上下文,背景,来龙去脉 n. 上下文
+0#complexes #n. 复合物
+0#clutter#n. 杂乱vt. 弄乱,混乱
+0#motel#n. 汽车旅馆
+0#electric#a. 导电的,电的,电动的
+0#repress#vt. 镇压,抑制,压制vi. 压制
+0#endorsement#n. 支持,认可,背书
+0#acute#a. 敏锐的,激烈的,尖锐的,严重的
+0#amiable#a. 亲切的,和蔼可亲的
+0#craft#n. 技艺,手艺,诡计vt. 巧手制作
+0#trial#n. 审判,试验,考验,麻烦事a.尝试的,试验性的
+0#plate#n. 碟,盘子,金银餐具,图版vt.镀金
+0#ballerina#n. 芭蕾舞女
+0#evade#v. 规避,逃避,躲避
+0#principle#n. 原则,原理,主义
+0#amplify#vt. 扩大,详述,使增幅vi. 引伸
+0#spectator#n. 观众,目击者,旁观者
+0#verge#n. 边缘,边界,杖vi. 接近,下沉,趋向
+0#frustration#n. 打破,挫折,顿挫
+0#property#n. 财产,所有权,性质n. 属性
+0#thwart#a. 横放的vt. 反对,阻碍,横过
+0#relevant#a. 有关联的,中肯的,有关系的,相应的
+0#advertiser#n. 广告者,广告客户
+0#deception#n. 欺骗,诡计
+0#inhabit#vt. 居住于,占据,栖息
+0#regret#n. 遗憾,后悔,歉意,抱歉vt.惋惜,哀悼,抱歉
+0#rectangular#a. 矩形的,成直角的
+0#admiration#n. 赞赏,钦佩,赞赏的对象
+0#swirl#n. 漩涡,涡状形vt. 使成漩涡vi.盘绕,头晕
+0#attendance#n. 出席,照料,出席的人数
+0#structure#n. 结构,构造,建筑物vt. 构成,组织
+0#enchant#vt. 施魔法,使迷惑
+0#erratic#n. 古怪的人,漂泊无定的人a.不稳定的,奇怪的
+0#downplay#vt. 不予重视
+0#dishearten#vt. 使...气馁,使...沮丧
+0#condescension#n. 谦虚,硬要人家领情的态度
+0#exploration#n. 探险,踏勘,探测
+0#digression#n. 离题,扯到枝节上,脱轨
+0#espouse#vt. 支持,赞成,嫁娶
+0#lanai#n. 凉台,门廊
+0#pretentious#a. 自负的,自任不凡的,夸耀的
+0#evoke#vt. 唤起,引起
+0#inspirational#a. 带有灵感的,给予灵感的,灵感的
+0#ape#n. 猿
+0#transmit#vt. 传输,转送,传达,发射vi.发射信号,发报
+0#surf#n. 海浪,拍岸浪vi. 作冲浪运动
+0#clarification#n. 澄清,净化
+0#irreverent#a. 不敬的,不逊的,无礼的
+0#carnivore#n. 食肉动物
+0#outrage#n. 暴行,侮辱,愤怒vt. 凌辱,虐待,触犯
+0#injunction#n. 命令,指令,劝告
+0#span#n. 指距,全长,广度,径距vt.,跨越,架设,弥补
+0#apathy#n. 缺乏感情或兴趣,冷漠
+0#similarity#n. 类似,类似处
+0#understandable#a. 可以理解的
+0#restore#vt. 回复,恢复,修复,修补v. 还原
+0#ward#n. 守卫,保卫,保护,锁孔,牢房vt.守护
+0#throughout#ad. 在所有各处,彻头彻尾,自始至终prep.遍及
+0#uniqueness#n. 独一无二
+0#conceal#vt. 隐藏,掩盖,掩蔽
+0#criticize#v. 批评,吹毛求疵,非难
+0#mathematician#n. 数学家
+0#random#n. 随意,任意a. 任意的,随机的ad.胡乱地
+0#cosmetic#n. 化妆品a. 化妆用的
+0#finesse#n. 精密技巧,灵巧,策略v 用计谋处理,出小牌
+0#procedure#n. 程序,过程,手续
+0#raven#n. 大乌鸦,掠夺a. 乌黑的v. 掠夺,狼吞虎咽
+0#deficit#n. 赤字,不足额
+0#interrelate#v. (使)相互关连
+0#persistent#a. 固执的,坚持的,持续的
+0#dependence#n. 依赖,依存,信赖
+0#merely#ad. 只不过，只是
+0#refugee#n. 难民,流亡者
+0#release#n. 释放,让渡,豁免vt.释放n. 版本,发布
+0#dragonfly#n. 蜻蜓
+0#duration#n. 持续时间,为期
+0#refuge#n. 避难所,避难,庇护vi.躲避vt庇护
+0#conservative#a. 保守的,守旧的,有保存力的
+0#ledger#n. 分类账,分户总账,底账,横木
+0#lover#n. 爱人,爱好者
+0#pursue#vt. 追赶,追踪,追捕,追随vi.追赶,继续
+0#fortunately#ad. 幸运地
+0#bliss#n. 福佑,天赐的福
+0#practicality#n. 实际,实用,实用主义,实物
+0#confidence#n. 信心
+0#immense#a. 极广大的,无边的,非常好的
+0#irrational#n. 无理数a. 无理性的,不合理的
+0#unconscious#a. 无意识的
+0#propagate#vt. 繁殖,传播,传送vi. 繁殖,蔓延
+0#tenuous#a. 稀薄的,微细的,纤细的,脆弱的
+0#mollusk#n. 亦作 mollusc软体动物
+0#resolve#n. 决定之事,决心,坚决vt.解析,决心,消除,解决
+0#myriad#n. 万,无数,无数的人或物a. 无数的,种种的
+0#evaluate#vt. 评估,评价,赋值
+0#permeate#vt. 弥漫,渗透,充满vi. 透入
+0#unduly#ad. 不适当地,过度地
+0#reside#vi. 住,居留,属于
+0#stance#n. 准备击球姿势,踏脚处,位置,姿态
+0#constitutional#a. 组织的,立宪的,体质的
+0#responsibility#n. 责任,职责,可靠性,响应度,负担
+0#express#n. 快车,快递,专使a. 急速的,明确的vt.表达,表示
+0#bane#n. 毒药,灭亡的原因,灭亡,祸根
+0#prose#n. 散文v. 写散文a. 散文的,平凡的
+0#overly#ad. 过度地,极度地
+0#overt#a. 明显的,公然的
+0#hummingbird #n. [鸟]蜂鸟,蜂雀
+0#consummate#vt. 完成,使达到极点a. 无上的,至上的
+0#eccentric#n. 怪人,偏心圆a.古怪的,反常的,不同圆心的,
+0#formula#n. 公式,定则,客套语
+0#assemble#vt. 集合,装配vi. 集合
+0#eerie#a. 怪诞的,可怕的,奇异的,不安的
+0#carelessly#ad. 不注意地,粗心地
+0#emotion#n. 情绪,激动,强烈的情感
+0#poverty#n. 贫穷,贫困,缺乏
+0#neurologist#n. 神经学者,神经科专门医师
+0#academia#n. 学术界,学术环境
+0#cynical#a. 愤世嫉俗的,讽刺的,冷嘲的
+0#manual#n. 手册,指南a.手的,手动的,手工的a.人工的,手动的
+0#communicate#vt. 沟通,传达,感染vi. 通讯
+0#compliant#a. 顺从的,适应的
+0#ambassador#n. 大使
+0#cream#n. 乳酪,奶油,面霜
+0#simulate#vt. 模拟,假装,模仿
+0#population#n. 人口,人口数
+0#idol#n. 偶像,崇拜物,幻象,谬论
+0#biologist#n. 生物学家
+0#retail#n. 零售a. 零售的vt. 零售,转述vi. 零售
+0#peak#n. 山顶,顶点,帽舌a. 最高的
+0#upgrade#n. 升级,上升,上坡ad. 往上vt. 使升级 v. 升级
+0#diverse#a. 不同的,变化多的
+0#enumeration#n. 计算,列举,细目
+0#string#n. 线,细绳,一串,字串vt. 串起,扎
+0#facade#n. 建筑物的正面,外观,表面
+0#tension#n. 紧张,不安,拉紧,电压,压力,张力vt.拉紧
+0#precisely #adv. 1 精密地,正确地2 一丝不苟地3正是如此
+0#destine#vt. 注定,预定
+0#dolphin#n. 海豚
+0#excessive#a. 过度的,格外的,极端的
+0#committee#n. 委员会
+0#feign#vt. 假装,装作vi. 作假
+0#adept#a. 熟练的,老练的n. 名手,专家
+0#impractical#adj. 1不切实际的,昧于实际的 2不能实行的,不实用的
+0#enthusiasm#n. 狂热,热心
+0#cooperative#a. 合作的,协力的
+0#resilience#n. 弹回,有弹力,恢复力
+0#clarify#vi. 澄清,阐明vt. 使明晰
+0#landscape#n. 风景,山水,风景画vt.使自然美化
+0#alert#a. 警觉的,灵敏的,留心的n. 警报vt. 使警觉
+0#innovation#n. 改革,创新
+0#faintly#ad. 微弱地,模糊地,朦胧地
+0#keen#a. 锋利的,敏锐的,强烈的n. 唱挽歌,痛哭
+0#disgrace#n. 耻辱,不名誉vt. 使耻辱,使失体面
+0#stumble#n. 绊倒,失策vt.使绊倒,使困惑vi.绊倒,失足
+0#ally#n. 盟友,同盟国vt. 联盟,联合vi. 结盟
+0#despite#n. 轻视,憎恨prep. 虽然
+0#surreptitious#a. 秘密的,暗中的,偷偷摸摸的
+0#amaze#vt. 使吃惊
+0#recover#vt. 重新获得,恢复,复原vi.痊愈,复原
+0#fable#n. 寓言,神话,谎言vi. 虚构,作寓言
+0#courteous#a. 彬彬有礼,谦恭的
+0#crow#n. 啼叫,乌鸦,鸡鸣,撬棍vi.啼叫,报晓
+0#repercussion#n. 弹回,反响,反射
+0#consequence#n. 结果,影响力
+0#stud#n. 图钉,种马,领扣,大头钉vt.镶嵌,点缀
+0#brutality#n. 残忍,无慈悲,野蛮的行为
+0#theatrical#a. 剧场的,夸张的,戏剧性的n.戏剧演出
+0#metropolitan#n. 大都市的居民,大主教a大都市的
+0#flourish#vi. 繁荣,茂盛,活跃vt.挥舞,夸耀n. 茂盛,华饰
+0#aviation#n. 航空,航空学,航空术
+0#prosaic#a. 散文的,散文体的,散文性的
+0#impress#n. 印象,特征,强征,压痕,印记vt.使有印象
+0#rattle#vt.喋喋不休地说,急促地谈n.喋喋不休的话
+0#comical#a. 好笑的,滑稽的
+0#polio#n. (口语)小儿麻痹症
+0#materialism#n. 唯物主义
+0#coincidence#n. 巧合,同时发生
+0#unearth#vt. 发掘,掘出,发现,揭露,从洞中赶出
+0#brevity#n. 短暂,简短
+0#aspire#vi. 热望,立志
+0#skier#n. 滑雪的人
+0#continually#ad. 不断地,频繁地
+0#introduce#vt. 介绍,引入,采用,输入
+0#pottery#n. 陶器,陶器场
+0#misrepresent#vt. 误传,不称职地代表
+0#vulture#n. 秃鹰,贪婪的人
+0#diversion#n. 转移
+0#numerous#a. 很多的,数目众多的,多数的
+0#fugitive#a. 逃亡的,易变的,无常的n. 逃亡者,亡命者
+0#vehicle#n. 交通工具,车辆,传达媒介
+0#formal#a. 正式的,形式的,礼仪的n. 正式的社交活动
+0#mention#n. 提到,言及,陈述vt. 提到,提及
+0#verify#vt. 查证,证实,检验v. 校验,检验
+0#marginal#a. 边缘的,末端的,有旁注的
+0#gravity#n. 地心引力,重力
+0#auspicious#n. 吉兆的,幸运的
+0#surpass#vt. 超越,凌驾,胜过
+0#relative#n. 亲戚,关系词a. 有关系的,相对的,比较的
+0#outlook#n. 景色,前途,展望
+0#familial#a. 家族的,家庭的
+0#thoroughgoing #a. 彻底的
+0#scarce#a. 难得的,缺乏的
+0#compassion#n. (真诚的) 同情 (心) ,怜悯 
+0#exception#n. 例外,除外,异议
+0#ashamed#a. 惭愧的,羞耻的
+0#mechanism#n. 机械,机构,技巧,机理,结构
+0#thrive#vi. 繁荣,兴旺,茁壮成长
+0#pathetic#a. 悲哀的,可怜的,感伤的
+0#resentful#adj. 愤恨的,气愤的,愤慨的,愤怒的
+0#salvage#n. 海上救助,抢救,打捞vt. 海上救助,抢救
+0#rhetoric#n. 修辞,修辞学,华丽虚饰的语言
+0#meaningful#a. 意味深长的
+0#fraternal#a. 兄弟的,兄弟似的,友爱的
+0#vow#n. 誓约,誓言,许愿vi. 起誓,发誓,承认
+0#consensus#n. 一致,交感
+0#tentative#n. 试验,假设a. 试验性质的,暂时的
+0#artistic#a. 艺术的,风雅的
+0#insecure#a. 不安全的,不牢靠的,不坚固的,不稳定的
+0#panel#n. 嵌板,仪表板,座谈小组,全体陪审员
+0#feasible#a. 能实行的,可行的,适宜的
+0#dormant#a. 睡眠状态的,静止的
+0#depiction#n. 描写,叙述
+0#compose#vt. 组成,写作,作曲,使平静vi. 创作,排字v. 编写
+0#demise#n. 崩,薨,死亡vt. 让渡,遗赠,转让
+0#anthropology#n. 人类学
+0#publisher#n. 出版者,发行人
+0#stimulus#n. 刺激,激励,刺激品
+0#tramp#n. 重步声,流浪者vi.践踏,步行,流浪vt.跋涉
+0#confession#n. 自认,自白,招供
+0#berth#n. 停泊处,睡床vi. 停泊vt. 使停泊
+0#mold#n. 模子,雏形v. 形成,塑造
+0#traditionally #adv. 传统上, 传说上
+0#exemplify#vt. 例证,例示
+0#attentive#a. 注意的,留意的
+0#scene#n. 场,景,情景,镜头,发生地点,景色,布景,道具
+0#perception#n. 知觉,感觉,领悟力
+0#academy#n. 学院,院校,学会
+0#similar#a. 相似的,类似的n. 相似的东西
+0#chaos#n. 大混乱,混沌
+0#vocation#n. 天命,天职,职业,行业,才能
+0#significant#a. 重要的,有含义的,非偶然的,有效的,暗示的
+0#heritage#n. 遗产,祖先所留之物,继承物
+0#sensory#a. 知觉的,感觉的,感觉器官的
+0#fulfill#vt. 实践,履行,实行,满足,结束
+0#probe#n. 探针,调查,探测针vt.详细调查vi. 探索,调查
+0#realm#n. 王国,领土,领域
+0#accent#n. 重音,口音vt. 重读,强调
+0#unrecognizable#adj. 不可辨别的
+0#alight#vi. 落下,偶然发现a. 点着的
+0#inscribe#vt. 登记,铭记于,题写,雕刻
+0#imprisonment#n. 监禁,下狱,坐牢
+0#desire#n. 欲望,要求vt. 想要,请求vi.愿望
+0#revolutionary#n. 革命者,改革者a. 革命的,革命性的
+0#grasp#n. 把握,抓紧,抓,柄vt.抓住 ,领会vi. 抓
+0#botanist#n. 植物学家
+0#dubious#a. 可疑的,不确定的
+0#decent#a. 有分寸的,得体的,大方的
+0#rodent#a. 咬的,臼齿类的n. 啮齿动物
+0#surmount#vt. 战胜,超越,克服
+0#unavailable#a. 得不到的,不近便的,不能利用的,无用的
+0#gradual#a. 逐渐的,渐增的,徐徐的n. 赞美诗
+0#bog#n. 沼泽vt. 使陷于泥淖vi. 陷于泥淖
+0#colonist#n. 殖民地居民,殖民者
+0#destruction#n. 破坏,毁灭
+0#specimen#n. 样品,标本,试料
+0#wive#vi. 娶妻vt. 给予娶妻,娶
+0#pose#n. 姿势,姿态,装模作样,伪装vi.摆姿势
+0#prevail#vi. 获胜,流行,盛行
+0#brim#n. 边,边缘,(河)边vt. 注满,使满溢vi. 满溢
+0#aerodynamic#adj. 空气动力
+0#accomplishment#n. 成就,完成
+0#embed#vt. 使插入,使嵌入,深留v. 嵌入
+0#anticipation#n. 预期,预料
+0#innovate#vi. 改革,创新
+0#sensitivity#n. 敏感,多愁善感,感受性
+0#charity#n. 慈悲,博爱,慈善团体,施舍
+0#genius#n. 天才,天赋,本质,精灵,风气,精神
+0#thoroughly#adv. 1 完全地,彻底地2 严密地; 准确地
+0#trait#n. 特色,品质,少许,一笔,特性
+0#anecdote#n. 轶事,奇闻
+0#timeless#a. 无时间限制的,长期的,永恒的
+0#voyage#n. 航行,航海,航空,航程vi. 航海,航行vt. 渡过
+0#tease#n. 揶揄者,戏弄vt. 欺负,嘲弄,梳理,强求
+0#mimic#a. 模仿的,假装的,拟态的n.模仿者vt. 模仿
+0#discredit#n. 无信用,疑惑,不名誉vt.不信,怀疑,使丢脸
+0#precedent#n. 先例,前例a. 在先的,在前的
+0#drift#n. 漂流物,观望,漂流v. (使)漂流
+0#circuitry#n. 电路,线路
+0#creep#n. 爬,徐行,蠕动vi. 爬,蔓延,潜行
+0#clue#n. 线索,暗示,情节vt. 暗示,提供线索
+0#fraud#n. 骗子,欺骗,欺诈,诡计
+0#embankment#n. 堤防,筑堤
+0#clandestine#a. 秘密的
+0#experimental#a. 实验的,根据实验的
+0#misguide#vt. 误导
+0#compile#vt. 编译,编辑,编纂,搜集n. 编译
+0#giant#n. 巨人,大力士,巨大的怪物a. 庞大的,巨大的
+0#seafarer#n. 船员,航海家
+0#simplify#vt. 单一化,简单化
+0#appreciative#a. 有鉴识力的,感激的
+0#theme#n. 主题,话题,题目
+0#vain#a. 徒然的,虚荣的,愚蠢的,自负的,空虚的
+0#fundamental#n. 基本原理,原则,基谐波a. 基本的,重要的
+0#bloomer#n. 1 开花的植物2 已成熟的人; 有作为的人
+0#attractive#a. 吸引人的,有魅力的
+0#companion#n. 朋友,陪伴,指南手册,升降口vt. 陪伴
+0#roller#n. 滚筒,滚轴,滚转机
+0#considerably#ad. 非常地,很,颇
+0#passion#n. 热爱,强烈的感情,热情,耶稣的受难
+0#entrepreneur#n. 企业家,主办人
+0#trick#n. 诡计,欺诈,谋略,恶作剧vt.戏弄,欺骗,装饰
+0#unreliable#a. 不可靠的
+0#definite#a. 明确的,一定的
+0#course#n. 课程,路线,道路,一道菜,过程v.追,(使)跑
+0#distinctly#ad. 显然地,明显地,清楚地
+0#proof#n. 证据,证明,考验a.不能透入的vt.检验,试验
+0#skeptical#adj.怀疑的,怀疑的,不信的,无神论的
+0#inept#a. 不适当的,无能的,笨拙的
+0#hack#n. 劈,砍,砍痕,出租车vt. 劈,砍,出租
+0#nonsense#n. 无意义的事,荒谬的言行,荒唐
+0#cable#n. 电缆,索vi. 打海底电报vt.缚住
+0#notify#vt. 通知,通告,报告
+0#achievement#n. 成就,完成,功业
+0#band#n. 带子,队,乐队v. 联合,结合
+0#epic#n. 史诗,叙事诗a. 史诗的,叙事诗的
+0#principal#n. 校长,首长,本金,主犯a. 主要的,重要的
+0#arduous#a. 费力的,辛勤的,险峻的
+0#accompany#vt. 陪伴,带有,为...伴奏vi. 伴奏
+0#aristocratic#a. 贵族的,贵族政治的,贵族气派的
+0#dependent#n. 依赖他人者a. 依赖的,从属的
+0#sensitive#a. 敏感的,易感的,灵敏的,感光的
+0#indifferent#a. 漠不关心的,无重要性的,中立的
+0#steamship#n. 汽船,轮船
+0#sacrifice#n. 牺牲,供俸,祭品vt. 牺牲,祭祀,贱卖vi. 献祭
+0#producer#n. 生产者,制作者,制作人
+0#bombast#n. 夸大的言辞
+0#acquaint#vt. 使熟知,通知
+0#sincere#a. 诚实的,正直的,真挚的,纯净的
+0#rhetorical#a. 修辞学的,符合修辞学的,修辞的
+0#deplore#vt. 悲悼,哀叹,悔恨
+0#breakthrough#n. 突破
+0#decry#vt. 责难,诽谤,诋毁
+0#memorable#a. 值得纪念的,难忘的
+0#relativity#n. 有关系,相关性,比较性
+0#preoccupation#n. 先取,先入成见,偏见,出神
+0#setback#n. 顿挫,挫折,退步
+0#stow#vt. 收藏,装填,贮藏,堆垛,使暂留,装满
+0#documentation#n. 文件
+0#validity#n. 有效性,正确性
+0#censure#n. 责难vt. 非难,指责
+0#prominence#n. 突起,突出,凸出,突出物
+0#accumulate#v. 积聚,堆积
+0#utterly#ad. 完全,全然,绝对
+0#discontent#n. 不满
+0#appraise#vt. 评价,估价,鉴定
+0#interstate#a. 州际的
+0#emigrate#v. (使)移居,(使)移民
+0#memoir#n. 传记,实录,自传,回忆录,追思录
+0#remind#vt. 提醒,使想起
+0#strain#n. 紧张,拉紧,张力,过劳vt. 使劳累,拉紧
+0#ongoing#a. 前进的,进行的n. 前进,举止,行为
+0#seriousness#n. 1 认真2 严重,重大
+0#incentive#n. 动机a. 激励的
+0#damp#n. 湿气a. 潮湿的vt.使潮湿,抑止vi.变潮湿
+0#paradigm#n. 范例,模范,词形变化表
+0#therapy#n. 治疗
+0#defiance#n. 蔑视,挑衅
+0#existence#n. 存在,生存
+0#apartheid#n. 种族隔离
+0#oblivious#a. 易忘的,遗忘的,忘却的,健忘的
+0#practical#a. 实际的,现实的,实用性的
+0#award#n. 奖品,决定,判决vt. 颁发,赏给
+0#hazardous#a. 危险的,冒险的,赌运气的
+0#immortality#n. 不朽,不朽的声名
+0#objection#n. 异议,反对,缺点,拒绝之理由,妨碍
+0#predestine#vt. 预定,注定
+0#specify#vt. 叙述,指定,说明v. 指定
+0#revision#n. 校订,修正,修订本n. 修订版
+0#revolve#v. (使)旋转,考虑,循环出现
+0#grower#n. 栽培者,生长物
+0#besides#ad. 此外prep. 除...之外
+0#incredible#a. 难以置信的
+0#involvement#n. 1 卷入,牵连,连累[in, with]2 困扰的事,麻烦
+0#deflect#vt. 打歪,使偏斜vi. 偏斜
+0#instill #vt. 1灌输给[某人],滴注
+0#aversion#n. 厌恶,讨厌的事,讨厌的人
+0#functional#a. 功能的
+0#ramble#n. 漫步,闲谈vi. 漫步,漫谈,漫游vt. 闲逛于
+0#tangential#a. 切线的,相切的,正切的,肤浅的
+0#artifact#n. 人造物品
+0#stuff#n. 原料,要素,废话vt. 装填vi.狼吞虎咽
+0#dilettante#n. 业余爱好者a. 外行的,浅薄的
+0#adequately#ad. 足够地,充分地,适当地
+0#critic#n. 批评家,鉴定家
+0#chide#v. 斥责,责骂
+0#simulation#n. 模拟,伪装,模仿
+0#harmonious#a. 和睦的,调和的,和谐的,协调的
+0#presidency#n. 总统职位,总裁职位,主席职位
+0#replica#n. 复制品
+0#persuasive#adj. 有说服力的,善于游说的,令人信服的
+0#bounty#n. 慷慨,宽大,恩惠
+0#idealize#vt. 使理想化vi. 理想化 ,描述理想
+0#recommendation#n. 推荐,介绍,推荐信,劝告
+0#pearl#n. 珍珠,杰出者,珍贵之物vt. 用珍珠镶,使成珠状
+0#librarian#n. 图书馆员,图书管理员
+0#indigenous#a. 本土的,土著的,国产的
+0#rhythm#n. 旋律,节奏,律动,匀称
+0#feat#n. 壮举,功绩,技艺表演a. 漂亮的,合适的
+0#erroneous#a. 错误的,不正确的
+0#cunning#a. 狡猾的,巧妙的,可爱的
+0#intolerable#a. 无法忍受的,难耐的
+0#pepper#n. 胡椒粉
+0#attune#vt. 调音,使合调,使相合
+0#dungeon#n. 地牢
+0#carton#n. 硬纸盒,纸板箱
+0#cerebral#a. 脑的
+0#advancement#n. 前进,进步
+0#treacherous#a. 叛逆的,危险的,背叛的,不可靠的
+0#dairy#n. 乳酪农场,酪农业,牛奶场
+0#extravagance#n. 奢侈,浪费,放肆的言行
+0#instructive#a. 有益的,教育性的
+0#welfare#n. 福利,安宁,幸福,福利事业a. 福利的
+0#frugal#a. 节俭的,朴素的
+0#diplomacy#n. 1 外交; 外交手腕2 交际手段,策略 
+0#masculine#n. 阳性,男性a. 男性的,阳性的
+0#puzzlement#n. 迷惑
+0#variety#n. 多样,种类,变种,杂耍
+0#elaborate#a. 精细的,详尽的,精心的vt.详细地说明
+0#emit#vt. 发出,放射,发行,散发
+0#enlighten#vt. 授予...知识,启发,教导,开导
+0#ideal#n. 理想,观念,思想,最后目标a.理想的,完美的
+0#preserve#vt. 保护,维护,保藏,禁猎vi.做蜜饯n.蜜饯
+0#bygone#n. 过去的事,往事a. 过去的
+0#nondescript#a. 莫可名状的,难以区别的,无特征的
+0#motto#n. 箴言,座右铭,标语
+0#laughter#n. 笑,笑声
+0#truffle#n. 块菌, 松露,松露巧克力糖
+0#saliva#n. 唾液,唾沫,涎
+0#subject#n. 科目,主题,学科a. 服从的vt.使隶属
+0#languid#a. 疲倦的,无力的,阴沉的
+0#architect#n. 建筑师,设计者,造物主
+0#assurance#n. 保证,确信,保险
+0#disorder#n. 杂乱,混乱vt. 扰乱,使失调
+0#vulnerable#a. 易受伤害的,有弱点的,脆弱的,易受攻击的
+0#spontaneity#n. 自然发生,自生,自发
+0#rivalry#n. 敌对,竞争,对抗
+0#skeptic#n. 怀疑者,怀疑论者,无神论者
+0#responsible#a. 有责任的,负责的,责任重大的,可靠的
+0#grief#n. 伤心,忧愁,灾难,不幸,悲痛
+0#fiercely#ad. 猛烈地,厉害地
+0#jar#n. 广口瓶,震动,刺耳声vi.震惊,冲突
+0#mutiny#n. 叛变,兵变vi. 叛变,反抗,暴动
+0#escape#n. 逃亡,避难设备,出口,逃跑vi.逃脱vt.避免
+0#waver#n. 动摇,踌躇,挥动者vi. 摇摆,颤抖,犹豫
+0#illusory#a. 产生幻觉的,幻影的,错觉的
+0#invaluable#a. 无价的,价值无法衡量的
+0#flexible#a. 易曲的,灵活的,可通融的,能变形的
+0#consideration#n. 考虑,原因
+0#formation#n. 构造,编队,形成
+0#disconcert#vt. 使困惑,使仓皇失措,破坏
+0#figure#n. 图形,数字,形状vt.描绘,演算vi.出现,估计
+0#gratify#vt. 使满足
+0#cosmos#n. [the ~] (表现秩序与和谐的)宇宙
+0#characteristic#n. 特性,特征,特色a. 特性的,本性的,有特色的
+0#incline#n. 倾斜,斜坡,斜面vt. 使倾向于vi. 倾向
+0#characterization#n. 描述,人物之创造
+0#suspicion#n. 怀疑,觉察,嫌疑
+0#earnest#n. 定金,诚挚,认真a. 认真的,热心的,重要的
+0#phrase#n. 片语,惯用语,成语,措词vt. 用短语表达
+0#accomplish#vt. 完成
+0#mainstream#n. 主流
+0#involuntary#a. 自然而然的,无意识的,不随意的,偶然的
+0#indication#n. 指示,象征,象征物
+0#surgery#n. 外科,手术,手术室
+0#vivid#a. 生动的,鲜明的,鲜艳的,清晰的,逼真的
+0#meddle#vi. 干涉,干预,乱搞
+0#nobility#n. 贵族,高尚,贵族阶级
+0#civilian#n. 平民,文官a. 平民的,文官的,民间的
+0#character#n. 个性,字元,人物,资格,品格
+0#utter#a. 全然的,绝对,完全vt.发出,流通,发射
+0#ribbon#n. 缎带,带状物vt.用丝带装饰vi.形成带状
+0#conquer#vt. 克服,征服,战胜vi. 得胜
+0#believer#n. 信徒
+0#literally#ad. 逐字地,按照字面上地,不夸张地
+0#dispassionate#a. 冷静的,不带感情的
+0#spineless#a. 无脊椎的,没有骨气的,懦弱的
+0#rarely#ad. 很少地,罕有地
+0#awaken#v.唤醒,醒来,唤起
+0#grunt#vi. 作呼噜声vt. 咕哝n. 呼噜声,咕哝
+0#participate#vi. 参加,分享,参与vt. 分享,分担
+0#attitude#n. 态度,看法,姿势
+0#probability#n. 可能性,或然率,几率,概率
+0#emergence#n. 出现,脱出,发生
+0#shroud#n. 寿衣,覆盖物,船之横桅索vt.遮蔽,隐藏,覆盖
+0#endure#vt.  (耐心地) 忍受,容忍a.忍耐b.忍受
+0#progress#n. 进步,发展,前进vi. 促进,进步,进行
+0#divine#a. 神的,神圣的,非凡的n. 牧师
+0#denial#n. 否认
+0#commentator#n. 1 注解者2[电视.广播]时事评论家
+0#drummer#n. 鼓手,旅行推销员
+0#vary#vt. 改变,使多样化vi. 变化,不同,违反
+0#redesign #v. 重新设计
+0#creativity#n. 创造力,创造
+0#approach#n. 接近,门径vt. 接近,动手处理vi. 靠近
+0#unsure#a. 不肯定的,不确定的,没有自信的
+0#conformity#n. 适合,一致,相似
+0#dismissive#a. 表示轻视的
+0#vast#a. 巨大的,广大的,非常的,大量的
+0#shed#n. 车棚,小屋vt.使流出,散发,脱落
+0#cause#n. 原因,目标vt. 引起,使产生,成为...的原因
+0#likewise#ad. 同样地,也conj. 而且
+0#donation#n. 捐赠物,捐款,捐赠
+0#disillusion#n. 觉醒,幻灭vt. 使醒悟,使幻想破灭
+0#diffident#a. 无自信的,客客气气的,羞怯的
+0#pond#n. 池塘v. 筑成池塘
+0#rescue#n. 援救,解救,营救vt. 援救,救出,营救
+0#guild#n. 公会,协会,行业协会
+0#lawn#n. 草地,草坪,薄麻布
+0#sin#n. 罪,犯罪,失礼,过失,犯法
+0#capable#a. 有能力的,能的,能干的
+0#elegance#n. 高雅,典雅,优雅
+0#refutation#n. 反驳,辩驳,反驳的言论或意见
+0#serenity#n. 宁静,沉着,晴朗
+0#trace#n. 痕迹,踪迹,缰绳,迹线vt.追踪,回溯vi.上溯
+0#vastness#n. 巨大,广大,广漠
+0#wrap#n. 外套,围巾,包裹,秘密,约束,限制
+0#execution#n. 实行,完成,执行,死刑n. 执行
+0#discrimination#n. 差别,歧视,辨别力
+0#route#n. 路径,途径,路线vt.确定路线
+0#statistic#n. 统计数值a. 统计的,统计学的
+0#nuclear#a. 核子的,原子能的,核的,中心的
+0#irreparable#a. 不能修补的,不能挽回的
+0#skepticism#n. 怀疑论
+0#detractor# n. (毁损名誉的) 诽谤者,恶意批评者
+0#electron#n. 电子
+0#guitar#n. 吉他
+0#warrior#n. 战士,勇士,尚武,战斗,武士
+0#tyranny#n. 压治统治,暴政
+0#withhold#vt. 扣留,保留,抑制vi. 忍住
+0#annually#ad. 一年一次,每年
+0#pendant#n. 垂饰,下垂物
+0#hatred#n. 憎恨,仇恨,憎恶
+0#admirer#n. 钦佩者,仰慕者,求爱者
+0#vertical#a. 垂直的,直立的
+0#profusion#n. 大量,慷慨,浪费,充沛
+0#paradoxically#adv. 似非而是地;自相矛盾地
+0#pastime#n. 消遣,娱乐,游戏
+0#eventual#a. 最后的,终于的,可能的
+0#flaunt#n. 炫耀,飘扬v. 炫耀,飘扬
